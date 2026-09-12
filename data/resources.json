@@ -1,0 +1,79 @@
+[
+  {
+    "id": "minhoshi_text_2023",
+    "name": "みんなが欲しかった！宅建士の教科書 2023",
+    "type": "read",
+    "label": "読む",
+    "category": "紙テキスト"
+  },
+  {
+    "id": "wakaru_text_2026",
+    "name": "わかって合格る宅建士 基本テキスト 2026",
+    "type": "read",
+    "label": "読む",
+    "category": "紙テキスト"
+  },
+  {
+    "id": "minhoshi_digital_qa1",
+    "name": "みんほし｜一問一答",
+    "type": "solve",
+    "label": "解く",
+    "category": "デジタル教材"
+  },
+  {
+    "id": "minhoshi_digital_qa2",
+    "name": "みんほし｜Q&A",
+    "type": "solve",
+    "label": "解く",
+    "category": "デジタル教材"
+  },
+  {
+    "id": "wakaru_basic_bonus_2026",
+    "name": "わかって合格る 基本テキスト2026｜一問一答",
+    "type": "solve",
+    "label": "解く",
+    "category": "デジタル教材"
+  },
+  {
+    "id": "wakaru_bunyabetsu_bonus_2026",
+    "name": "わかって合格る 分野別過去問題集2026｜一問一答",
+    "type": "solve",
+    "label": "解く",
+    "category": "デジタル教材"
+  },
+  {
+    "id": "ucan_check",
+    "name": "ユーキャン｜〇×チェック",
+    "type": "solve",
+    "label": "解く",
+    "category": "デジタル教材"
+  },
+  {
+    "id": "lec_torisetsu_text_bonus",
+    "name": "LEC 合格のトリセツ 基本テキスト｜一問一答",
+    "type": "solve",
+    "label": "解く",
+    "category": "デジタル教材"
+  },
+  {
+    "id": "lec_torisetsu_ichimon_knoun",
+    "name": "LEC 合格のトリセツ 一問一答式過去問題集｜Knoun",
+    "type": "solve",
+    "label": "解く",
+    "category": "デジタル教材"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun",
+    "name": "LEC 合格のトリセツ 分野別過去問題集｜Knoun",
+    "type": "solve",
+    "label": "解く",
+    "category": "デジタル教材"
+  },
+  {
+    "id": "youtube_lectures",
+    "name": "YouTube講義",
+    "type": "listen",
+    "label": "聴く",
+    "category": "講義"
+  }
+]

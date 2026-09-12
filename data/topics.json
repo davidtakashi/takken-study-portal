@@ -1,0 +1,332 @@
+[
+  {
+    "id": "rights_intent",
+    "field": "権利関係",
+    "group": "合格のトリセツ基準",
+    "name": "意思表示"
+  },
+  {
+    "id": "rights_capacity",
+    "field": "権利関係",
+    "group": "合格のトリセツ基準",
+    "name": "制限行為能力者"
+  },
+  {
+    "id": "rights_limitation",
+    "field": "権利関係",
+    "group": "合格のトリセツ基準",
+    "name": "時効"
+  },
+  {
+    "id": "rights_agency",
+    "field": "権利関係",
+    "group": "合格のトリセツ基準",
+    "name": "代理"
+  },
+  {
+    "id": "rights_d0b3d40e24",
+    "field": "権利関係",
+    "group": "合格のトリセツ基準",
+    "name": "債務不履行・解除"
+  },
+  {
+    "id": "rights_d7fb984cab",
+    "field": "権利関係",
+    "group": "合格のトリセツ基準",
+    "name": "弁済"
+  },
+  {
+    "id": "rights_f4c32080b7",
+    "field": "権利関係",
+    "group": "合格のトリセツ基準",
+    "name": "契約不適合責任"
+  },
+  {
+    "id": "rights_acfb3361ec",
+    "field": "権利関係",
+    "group": "合格のトリセツ基準",
+    "name": "相続"
+  },
+  {
+    "id": "rights_d672a3a22c",
+    "field": "権利関係",
+    "group": "合格のトリセツ基準",
+    "name": "物権変動"
+  },
+  {
+    "id": "rights_2430e010c0",
+    "field": "権利関係",
+    "group": "合格のトリセツ基準",
+    "name": "不動産登記法"
+  },
+  {
+    "id": "rights_97c9209e61",
+    "field": "権利関係",
+    "group": "合格のトリセツ基準",
+    "name": "抵当権"
+  },
+  {
+    "id": "rights_9553c8a3a6",
+    "field": "権利関係",
+    "group": "合格のトリセツ基準",
+    "name": "保証・連帯債務"
+  },
+  {
+    "id": "rights_0f340e0880",
+    "field": "権利関係",
+    "group": "合格のトリセツ基準",
+    "name": "共有"
+  },
+  {
+    "id": "rights_0c4f8f5fd5",
+    "field": "権利関係",
+    "group": "合格のトリセツ基準",
+    "name": "建物区分所有法"
+  },
+  {
+    "id": "rights_90b1750c9a",
+    "field": "権利関係",
+    "group": "合格のトリセツ基準",
+    "name": "賃貸借"
+  },
+  {
+    "id": "rights_88f1ee6b2d",
+    "field": "権利関係",
+    "group": "合格のトリセツ基準",
+    "name": "借地借家法（借家）"
+  },
+  {
+    "id": "rights_b9664ce7c1",
+    "field": "権利関係",
+    "group": "合格のトリセツ基準",
+    "name": "借地借家法（借地）"
+  },
+  {
+    "id": "rights_77b396ee2d",
+    "field": "権利関係",
+    "group": "合格のトリセツ基準",
+    "name": "不法行為"
+  },
+  {
+    "id": "rights_7c2281ce71",
+    "field": "権利関係",
+    "group": "合格のトリセツ基準",
+    "name": "その他"
+  },
+  {
+    "id": "business_e9a3236db9",
+    "field": "宅建業法",
+    "group": "合格のトリセツ基準",
+    "name": "宅建業の意味"
+  },
+  {
+    "id": "business_ec037d3765",
+    "field": "宅建業法",
+    "group": "合格のトリセツ基準",
+    "name": "事務所"
+  },
+  {
+    "id": "business_license",
+    "field": "宅建業法",
+    "group": "合格のトリセツ基準",
+    "name": "免許"
+  },
+  {
+    "id": "business_a1b167a8db",
+    "field": "宅建業法",
+    "group": "合格のトリセツ基準",
+    "name": "事務所以外の場所"
+  },
+  {
+    "id": "business_agent",
+    "field": "宅建業法",
+    "group": "合格のトリセツ基準",
+    "name": "宅地建物取引士"
+  },
+  {
+    "id": "business_3c8b8e6aca",
+    "field": "宅建業法",
+    "group": "合格のトリセツ基準",
+    "name": "営業保証金"
+  },
+  {
+    "id": "business_12b28bb9d2",
+    "field": "宅建業法",
+    "group": "合格のトリセツ基準",
+    "name": "弁済業務保証金"
+  },
+  {
+    "id": "business_b484e7ce9c",
+    "field": "宅建業法",
+    "group": "合格のトリセツ基準",
+    "name": "媒介・代理"
+  },
+  {
+    "id": "business_128c05aa94",
+    "field": "宅建業法",
+    "group": "合格のトリセツ基準",
+    "name": "広告等の規制"
+  },
+  {
+    "id": "business_2192a0359a",
+    "field": "宅建業法",
+    "group": "合格のトリセツ基準",
+    "name": "重要事項の説明"
+  },
+  {
+    "id": "business_c808821440",
+    "field": "宅建業法",
+    "group": "合格のトリセツ基準",
+    "name": "37条書面"
+  },
+  {
+    "id": "business_990979c912",
+    "field": "宅建業法",
+    "group": "合格のトリセツ基準",
+    "name": "業務上の規制"
+  },
+  {
+    "id": "business_9cf105a9bb",
+    "field": "宅建業法",
+    "group": "合格のトリセツ基準",
+    "name": "自ら売主制限"
+  },
+  {
+    "id": "business_warranty",
+    "field": "宅建業法",
+    "group": "合格のトリセツ基準",
+    "name": "住宅瑕疵担保履行法"
+  },
+  {
+    "id": "business_a5f12385c3",
+    "field": "宅建業法",
+    "group": "合格のトリセツ基準",
+    "name": "報酬額の制限"
+  },
+  {
+    "id": "business_7d39c7f89d",
+    "field": "宅建業法",
+    "group": "合格のトリセツ基準",
+    "name": "監督・罰則"
+  },
+  {
+    "id": "law_d7807f7dc8",
+    "field": "法令上の制限",
+    "group": "合格のトリセツ基準",
+    "name": "都市計画法1"
+  },
+  {
+    "id": "law_4c9fec8184",
+    "field": "法令上の制限",
+    "group": "合格のトリセツ基準",
+    "name": "都市計画法2"
+  },
+  {
+    "id": "law_a3cb43ccf8",
+    "field": "法令上の制限",
+    "group": "合格のトリセツ基準",
+    "name": "建築基準法1"
+  },
+  {
+    "id": "law_cd2732d454",
+    "field": "法令上の制限",
+    "group": "合格のトリセツ基準",
+    "name": "建築基準法2"
+  },
+  {
+    "id": "law_f9e7c42521",
+    "field": "法令上の制限",
+    "group": "合格のトリセツ基準",
+    "name": "国土利用計画法"
+  },
+  {
+    "id": "law_eab8632d96",
+    "field": "法令上の制限",
+    "group": "合格のトリセツ基準",
+    "name": "農地法"
+  },
+  {
+    "id": "law_f85dea5b8a",
+    "field": "法令上の制限",
+    "group": "合格のトリセツ基準",
+    "name": "土地区画整理法"
+  },
+  {
+    "id": "law_8c95545b2e",
+    "field": "法令上の制限",
+    "group": "合格のトリセツ基準",
+    "name": "その他の法令上の制限"
+  },
+  {
+    "id": "other_99b74fe5a0",
+    "field": "税・その他",
+    "group": "合格のトリセツ基準",
+    "name": "不動産取得税"
+  },
+  {
+    "id": "other_a559687a43",
+    "field": "税・その他",
+    "group": "合格のトリセツ基準",
+    "name": "固定資産税"
+  },
+  {
+    "id": "other_f3113f9af6",
+    "field": "税・その他",
+    "group": "合格のトリセツ基準",
+    "name": "所得税（譲渡所得）"
+  },
+  {
+    "id": "other_8af9afa2e6",
+    "field": "税・その他",
+    "group": "合格のトリセツ基準",
+    "name": "印紙税"
+  },
+  {
+    "id": "other_2a21b3b2f7",
+    "field": "税・その他",
+    "group": "合格のトリセツ基準",
+    "name": "登録免許税"
+  },
+  {
+    "id": "other_3bfa57c660",
+    "field": "税・その他",
+    "group": "合格のトリセツ基準",
+    "name": "贈与税"
+  },
+  {
+    "id": "other_cba29a763e",
+    "field": "税・その他",
+    "group": "合格のトリセツ基準",
+    "name": "地価公示法"
+  },
+  {
+    "id": "other_241d9d5512",
+    "field": "税・その他",
+    "group": "合格のトリセツ基準",
+    "name": "不動産鑑定評価基準"
+  },
+  {
+    "id": "other_648e7c9dde",
+    "field": "税・その他",
+    "group": "合格のトリセツ基準",
+    "name": "住宅金融支援機構法"
+  },
+  {
+    "id": "other_4fa1abf88d",
+    "field": "税・その他",
+    "group": "合格のトリセツ基準",
+    "name": "景品表示法"
+  },
+  {
+    "id": "other_010108fbb9",
+    "field": "税・その他",
+    "group": "合格のトリセツ基準",
+    "name": "土地"
+  },
+  {
+    "id": "other_cd18d7dd34",
+    "field": "税・その他",
+    "group": "合格のトリセツ基準",
+    "name": "建物"
+  }
+]
