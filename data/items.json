@@ -608,6 +608,337 @@
     "legacy_ids": []
   },
   {
+    "id": "wakaru_text_2026__rights_769bb4eaa5",
+    "resource_id": "wakaru_text_2026",
+    "topic_id": "rights_7c2281ce71",
+    "topic_ids": [
+      "rights_7c2281ce71",
+      "rights_capacity",
+      "rights_intent",
+      "rights_agency"
+    ],
+    "title": "契約を結ぶときに問題となること",
+    "native_path": "権利関係",
+    "url": null,
+    "mapping": "native_chapter",
+    "native_order": 0,
+    "legacy_ids": []
+  },
+  {
+    "id": "wakaru_text_2026__native_d45853b2f9",
+    "resource_id": "wakaru_text_2026",
+    "topic_id": "rights_d0b3d40e24",
+    "topic_ids": [
+      "rights_d0b3d40e24",
+      "rights_7c2281ce71",
+      "rights_f4c32080b7",
+      "rights_97c9209e61",
+      "rights_9553c8a3a6",
+      "rights_d672a3a22c",
+      "rights_2430e010c0",
+      "rights_d7fb984cab"
+    ],
+    "title": "契約の内容を実現する段階で問題となること",
+    "native_path": "権利関係",
+    "url": null,
+    "mapping": "native_chapter",
+    "native_order": 1,
+    "legacy_ids": []
+  },
+  {
+    "id": "wakaru_text_2026__rights_90b1750c9a",
+    "resource_id": "wakaru_text_2026",
+    "topic_id": "rights_90b1750c9a",
+    "topic_ids": [
+      "rights_90b1750c9a",
+      "rights_b9664ce7c1",
+      "rights_88f1ee6b2d"
+    ],
+    "title": "賃貸借契約・借地借家法",
+    "native_path": "権利関係",
+    "url": null,
+    "mapping": "native_chapter",
+    "native_order": 2,
+    "legacy_ids": []
+  },
+  {
+    "id": "wakaru_text_2026__rights_fea135dac8",
+    "resource_id": "wakaru_text_2026",
+    "topic_id": "rights_7c2281ce71",
+    "topic_ids": [
+      "rights_7c2281ce71",
+      "rights_limitation",
+      "rights_acfb3361ec",
+      "rights_77b396ee2d",
+      "rights_0f340e0880",
+      "rights_0c4f8f5fd5"
+    ],
+    "title": "その他のいろいろな法律関係",
+    "native_path": "権利関係",
+    "url": null,
+    "mapping": "native_chapter",
+    "native_order": 3,
+    "legacy_ids": []
+  },
+  {
+    "id": "wakaru_text_2026__business_e9a3236db9",
+    "resource_id": "wakaru_text_2026",
+    "topic_id": "business_e9a3236db9",
+    "topic_ids": [
+      "business_e9a3236db9",
+      "business_ec037d3765",
+      "business_license"
+    ],
+    "title": "宅建業者になる",
+    "native_path": "宅建業法",
+    "url": null,
+    "mapping": "native_chapter",
+    "native_order": 4,
+    "legacy_ids": []
+  },
+  {
+    "id": "wakaru_text_2026__business_agent",
+    "resource_id": "wakaru_text_2026",
+    "topic_id": "business_agent",
+    "topic_ids": [
+      "business_agent"
+    ],
+    "title": "宅建士は取引のスペシャリスト",
+    "native_path": "宅建業法",
+    "url": null,
+    "mapping": "native_chapter",
+    "native_order": 5,
+    "legacy_ids": []
+  },
+  {
+    "id": "wakaru_text_2026__native_6bfe2a314e",
+    "resource_id": "wakaru_text_2026",
+    "topic_id": "business_3c8b8e6aca",
+    "topic_ids": [
+      "business_3c8b8e6aca",
+      "business_12b28bb9d2"
+    ],
+    "title": "宅建業を始める前にお金を預ける",
+    "native_path": "宅建業法",
+    "url": null,
+    "mapping": "native_chapter",
+    "native_order": 6,
+    "legacy_ids": []
+  },
+  {
+    "id": "wakaru_text_2026__business_ec037d3765",
+    "resource_id": "wakaru_text_2026",
+    "topic_id": "business_128c05aa94",
+    "topic_ids": [
+      "business_128c05aa94",
+      "business_ec037d3765",
+      "business_a1b167a8db",
+      "business_990979c912"
+    ],
+    "title": "取引にあたって注意しなければならないこと",
+    "native_path": "宅建業法",
+    "url": null,
+    "mapping": "native_chapter",
+    "native_order": 7,
+    "legacy_ids": []
+  },
+  {
+    "id": "wakaru_text_2026__chapter_09",
+    "resource_id": "wakaru_text_2026",
+    "legacy_ids": [],
+    "title": "取引にあたって交付すべき３大書面",
+    "native_path": "宅建業法",
+    "topic_ids": [
+      "business_b484e7ce9c",
+      "business_2192a0359a",
+      "business_c808821440"
+    ],
+    "topic_id": "business_b484e7ce9c",
+    "native_order": 8,
+    "mapping": "native_chapter",
+    "url": null
+  },
+  {
+    "id": "wakaru_text_2026__native_13e5ac65ab",
+    "resource_id": "wakaru_text_2026",
+    "topic_id": "business_9cf105a9bb",
+    "topic_ids": [
+      "business_9cf105a9bb"
+    ],
+    "title": "業者が自ら売主となるときの８種規制",
+    "native_path": "宅建業法",
+    "url": null,
+    "mapping": "native_chapter",
+    "native_order": 9,
+    "legacy_ids": []
+  },
+  {
+    "id": "wakaru_text_2026__business_a5f12385c3",
+    "resource_id": "wakaru_text_2026",
+    "topic_id": "business_a5f12385c3",
+    "topic_ids": [
+      "business_a5f12385c3"
+    ],
+    "title": "報酬額の制限",
+    "native_path": "宅建業法",
+    "url": null,
+    "mapping": "native_chapter",
+    "native_order": 10,
+    "legacy_ids": []
+  },
+  {
+    "id": "wakaru_text_2026__business_7d39c7f89d",
+    "resource_id": "wakaru_text_2026",
+    "topic_id": "business_7d39c7f89d",
+    "topic_ids": [
+      "business_7d39c7f89d"
+    ],
+    "title": "宅建業者や宅建士が受けるペナルティー",
+    "native_path": "宅建業法",
+    "url": null,
+    "mapping": "native_chapter",
+    "native_order": 11,
+    "legacy_ids": []
+  },
+  {
+    "id": "wakaru_text_2026__native_8eec712d94",
+    "resource_id": "wakaru_text_2026",
+    "topic_id": "business_warranty",
+    "topic_ids": [
+      "business_warranty"
+    ],
+    "title": "欠陥住宅の販売に備えて",
+    "native_path": "宅建業法",
+    "url": null,
+    "mapping": "native_chapter",
+    "native_order": 12,
+    "legacy_ids": []
+  },
+  {
+    "id": "wakaru_text_2026__law_4180fb9198",
+    "resource_id": "wakaru_text_2026",
+    "topic_id": "law_d7807f7dc8",
+    "topic_ids": [
+      "law_d7807f7dc8",
+      "law_4c9fec8184"
+    ],
+    "title": "都市計画法",
+    "native_path": "法令上の制限",
+    "url": null,
+    "mapping": "native_chapter",
+    "native_order": 13,
+    "legacy_ids": []
+  },
+  {
+    "id": "wakaru_text_2026__law_22b4d90ba5",
+    "resource_id": "wakaru_text_2026",
+    "topic_id": "law_a3cb43ccf8",
+    "topic_ids": [
+      "law_a3cb43ccf8",
+      "law_cd2732d454"
+    ],
+    "title": "建築基準法",
+    "native_path": "法令上の制限",
+    "url": null,
+    "mapping": "native_chapter",
+    "native_order": 14,
+    "legacy_ids": []
+  },
+  {
+    "id": "wakaru_text_2026__law_f9e7c42521",
+    "resource_id": "wakaru_text_2026",
+    "topic_id": "law_f9e7c42521",
+    "topic_ids": [
+      "law_f9e7c42521"
+    ],
+    "title": "国土利用計画法",
+    "native_path": "法令上の制限",
+    "url": null,
+    "mapping": "native_chapter",
+    "native_order": 15,
+    "legacy_ids": []
+  },
+  {
+    "id": "wakaru_text_2026__law_eab8632d96",
+    "resource_id": "wakaru_text_2026",
+    "topic_id": "law_eab8632d96",
+    "topic_ids": [
+      "law_eab8632d96"
+    ],
+    "title": "農地法",
+    "native_path": "法令上の制限",
+    "url": null,
+    "mapping": "native_chapter",
+    "native_order": 16,
+    "legacy_ids": []
+  },
+  {
+    "id": "wakaru_text_2026__law_f85dea5b8a",
+    "resource_id": "wakaru_text_2026",
+    "topic_id": "law_f85dea5b8a",
+    "topic_ids": [
+      "law_f85dea5b8a"
+    ],
+    "title": "土地区画整理法",
+    "native_path": "法令上の制限",
+    "url": null,
+    "mapping": "native_chapter",
+    "native_order": 17,
+    "legacy_ids": []
+  },
+  {
+    "id": "wakaru_text_2026__law_125b024f23",
+    "resource_id": "wakaru_text_2026",
+    "topic_id": "law_8c95545b2e",
+    "topic_ids": [
+      "law_8c95545b2e"
+    ],
+    "title": "盛土規制法・その他の制限法令",
+    "native_path": "法令上の制限",
+    "url": null,
+    "mapping": "native_chapter",
+    "native_order": 18,
+    "legacy_ids": []
+  },
+  {
+    "id": "wakaru_text_2026__other_99b74fe5a0",
+    "resource_id": "wakaru_text_2026",
+    "topic_id": "other_99b74fe5a0",
+    "topic_ids": [
+      "other_99b74fe5a0",
+      "other_a559687a43",
+      "other_f3113f9af6",
+      "other_8af9afa2e6",
+      "other_2a21b3b2f7",
+      "other_3bfa57c660"
+    ],
+    "title": "不動産に関する税金",
+    "native_path": "税・その他",
+    "url": null,
+    "mapping": "native_chapter",
+    "native_order": 19,
+    "legacy_ids": []
+  },
+  {
+    "id": "wakaru_text_2026__other_241d9d5512",
+    "resource_id": "wakaru_text_2026",
+    "topic_id": "other_241d9d5512",
+    "topic_ids": [
+      "other_241d9d5512",
+      "other_cba29a763e",
+      "other_648e7c9dde",
+      "other_4fa1abf88d",
+      "other_010108fbb9",
+      "other_cd18d7dd34"
+    ],
+    "title": "税金以外の関連知識",
+    "native_path": "税・その他",
+    "url": null,
+    "mapping": "native_chapter",
+    "native_order": 20,
+    "legacy_ids": []
+  },
+  {
     "id": "minhoshi_digital_qa1__business_e9a3236db9",
     "resource_id": "minhoshi_digital_qa1",
     "topic_id": "business_e9a3236db9",
@@ -1910,969 +2241,19 @@
     "storage_path": "minhoshi_qa_zei.pdf"
   },
   {
-    "id": "wakaru_text_2026__rights_769bb4eaa5",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "rights_7c2281ce71",
-    "topic_ids": [
-      "rights_7c2281ce71"
-    ],
-    "title": "Section1 “契約”ってなんだろう ～契約の成立要件など～",
-    "native_path": "権利関係 / Chapter1 契約を結ぶときに問題となること",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 0,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__rights_capacity",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "rights_capacity",
-    "topic_ids": [
-      "rights_capacity"
-    ],
-    "title": "Section2 相手方が未成年者なら ～制限行為能力者制度～",
-    "native_path": "権利関係 / Chapter1 契約を結ぶときに問題となること",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 1,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__rights_intent",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "rights_intent",
-    "topic_ids": [
-      "rights_intent"
-    ],
-    "title": "Section3 だまされて契約したら ～意思表示～",
-    "native_path": "権利関係 / Chapter1 契約を結ぶときに問題となること",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 2,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__rights_agency",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "rights_agency",
-    "topic_ids": [
-      "rights_agency"
-    ],
-    "title": "Section4 人に契約を結んでもらう ～代理～",
-    "native_path": "権利関係 / Chapter1 契約を結ぶときに問題となること",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 3,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__native_d45853b2f9",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "rights_d0b3d40e24",
-    "topic_ids": [
-      "rights_d0b3d40e24"
-    ],
-    "title": "Section1 契約が守られないとき ～債務不履行・契約の解除・手付～",
-    "native_path": "権利関係 / Chapter2 契約の内容を実現する段階で問題となること",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 4,
-    "legacy_ids": [
-      "wakaru_text_2026__native_72dfc942bc"
-    ]
-  },
-  {
-    "id": "wakaru_text_2026__rights_bcfabff4bf",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "rights_7c2281ce71",
-    "topic_ids": [
-      "rights_7c2281ce71"
-    ],
-    "title": "Section2 買った建物が地震で壊れたら ～危険負担～",
-    "native_path": "権利関係 / Chapter2 契約の内容を実現する段階で問題となること",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 5,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__native_72dfc942bc",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "rights_f4c32080b7",
-    "topic_ids": [
-      "rights_f4c32080b7"
-    ],
-    "title": "Section3 買った家が欠陥住宅だったら？ ～売買の契約不適合等～",
-    "native_path": "権利関係 / Chapter2 契約の内容を実現する段階で問題となること",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 6,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__rights_97c9209e61",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "rights_97c9209e61",
-    "topic_ids": [
-      "rights_97c9209e61"
-    ],
-    "title": "Section4 債権回収のための手段-(1) ～抵当権等～",
-    "native_path": "権利関係 / Chapter2 契約の内容を実現する段階で問題となること",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 7,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__sec_c76f90856b2b",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "rights_9553c8a3a6",
-    "topic_ids": [
-      "rights_9553c8a3a6"
-    ],
-    "title": "Section5 債権回収のための手段-(2) ～連帯債務と保証～",
-    "native_path": "権利関係 / Chapter2 契約の内容を実現する段階で問題となること",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 8,
-    "legacy_ids": [
-      "wakaru_text_2026__native_ed0678183a"
-    ]
-  },
-  {
-    "id": "wakaru_text_2026__rights_d672a3a22c",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "rights_d672a3a22c",
-    "topic_ids": [
-      "rights_d672a3a22c"
-    ],
-    "title": "Section6 二重譲渡などに備えて ～対抗問題～",
-    "native_path": "権利関係 / Chapter2 契約の内容を実現する段階で問題となること",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 9,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__rights_2430e010c0",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "rights_2430e010c0",
-    "topic_ids": [
-      "rights_2430e010c0"
-    ],
-    "title": "Section7 「登記」とはどんな仕組み？ ～不動産登記法～",
-    "native_path": "権利関係 / Chapter2 契約の内容を実現する段階で問題となること",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 10,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__rights_4b8ec559bb",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "rights_7c2281ce71",
-    "topic_ids": [
-      "rights_7c2281ce71"
-    ],
-    "title": "Section8 債権を他人に譲り渡す ～債権譲渡等～",
-    "native_path": "権利関係 / Chapter2 契約の内容を実現する段階で問題となること",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 11,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__rights_d7fb984cab",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "rights_d7fb984cab",
-    "topic_ids": [
-      "rights_d7fb984cab"
-    ],
-    "title": "Section9 債権が消滅する ～弁済・相殺など～",
-    "native_path": "権利関係 / Chapter2 契約の内容を実現する段階で問題となること",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 12,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__rights_90b1750c9a",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "rights_90b1750c9a",
-    "topic_ids": [
-      "rights_90b1750c9a"
-    ],
-    "title": "Section1 賃料を払って借りる ～賃貸借契約（民法）～",
-    "native_path": "権利関係 / Chapter3 賃貸借契約・借地借家法",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 13,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__sec_c3ae863cc6bc",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "rights_b9664ce7c1",
-    "topic_ids": [
-      "rights_b9664ce7c1"
-    ],
-    "title": "Section2 借りた土地に家を建てる ～借地権～",
-    "native_path": "権利関係 / Chapter3 賃貸借契約・借地借家法",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 14,
-    "legacy_ids": [
-      "wakaru_text_2026__rights_3e51219636"
-    ]
-  },
-  {
-    "id": "wakaru_text_2026__sec_b8b17a934cd8",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "rights_88f1ee6b2d",
-    "topic_ids": [
-      "rights_88f1ee6b2d"
-    ],
-    "title": "Section3 賃貸住宅に住む ～借家権～",
-    "native_path": "権利関係 / Chapter3 賃貸借契約・借地借家法",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 15,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__rights_fea135dac8",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "rights_7c2281ce71",
-    "topic_ids": [
-      "rights_7c2281ce71"
-    ],
-    "title": "委任契約",
-    "native_path": "権利関係 / Chapter4 その他のいろいろな法律関係",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 16,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__rights_dc1f469777",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "rights_7c2281ce71",
-    "topic_ids": [
-      "rights_7c2281ce71"
-    ],
-    "title": "請負契約",
-    "native_path": "権利関係 / Chapter4 その他のいろいろな法律関係",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 17,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__sec_e78ed01907da",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "rights_7c2281ce71",
-    "topic_ids": [
-      "rights_7c2281ce71"
-    ],
-    "title": "贈与契約",
-    "native_path": "権利関係 / Chapter4 その他のいろいろな法律関係",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 18,
-    "legacy_ids": [
-      "wakaru_text_2026__native_367fcc967d"
-    ]
-  },
-  {
-    "id": "wakaru_text_2026__rights_83681b6989",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "rights_7c2281ce71",
-    "topic_ids": [
-      "rights_7c2281ce71"
-    ],
-    "title": "使用貸借",
-    "native_path": "権利関係 / Chapter4 その他のいろいろな法律関係",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 19,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__rights_limitation",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "rights_limitation",
-    "topic_ids": [
-      "rights_limitation"
-    ],
-    "title": "時効",
-    "native_path": "権利関係 / Chapter4 その他のいろいろな法律関係",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 20,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__rights_acfb3361ec",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "rights_acfb3361ec",
-    "topic_ids": [
-      "rights_acfb3361ec"
-    ],
-    "title": "相続",
-    "native_path": "権利関係 / Chapter4 その他のいろいろな法律関係",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 21,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__rights_77b396ee2d",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "rights_77b396ee2d",
-    "topic_ids": [
-      "rights_77b396ee2d"
-    ],
-    "title": "不法行為",
-    "native_path": "権利関係 / Chapter4 その他のいろいろな法律関係",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 22,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__rights_0f340e0880",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "rights_0f340e0880",
-    "topic_ids": [
-      "rights_0f340e0880"
-    ],
-    "title": "共有",
-    "native_path": "権利関係 / Chapter4 その他のいろいろな法律関係",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 23,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__rights_0c4f8f5fd5",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "rights_0c4f8f5fd5",
-    "topic_ids": [
-      "rights_0c4f8f5fd5"
-    ],
-    "title": "区分所有法",
-    "native_path": "権利関係 / Chapter4 その他のいろいろな法律関係",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 24,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__rights_fa6e1b63ed",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "rights_7c2281ce71",
-    "topic_ids": [
-      "rights_7c2281ce71"
-    ],
-    "title": "所有権・地役権",
-    "native_path": "権利関係 / Chapter4 その他のいろいろな法律関係",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 25,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__business_e9a3236db9",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "business_e9a3236db9",
-    "topic_ids": [
-      "business_e9a3236db9"
-    ],
-    "title": "宅建業法の基本",
-    "native_path": "Chapter1 宅建業者になる / Section1 「宅地建物取引業」ってなに？",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 26,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__sec_4ce97330d79d",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "business_license",
-    "topic_ids": [
-      "business_license"
-    ],
-    "title": "免許",
-    "native_path": "Chapter1 宅建業者になる / Section2 宅建業者は免許が必要",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 27,
-    "legacy_ids": [
-      "wakaru_text_2026__native_1b7998bf3e"
-    ]
-  },
-  {
-    "id": "wakaru_text_2026__business_agent",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "business_agent",
-    "topic_ids": [
-      "business_agent"
-    ],
-    "title": "宅地建物取引士",
-    "native_path": "Chapter2 宅建士は取引のスペシャリスト / Section1 「宅建士」って何をする人？",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 28,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__native_6bfe2a314e",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "business_3c8b8e6aca",
-    "topic_ids": [
-      "business_3c8b8e6aca"
-    ],
-    "title": "営業保証金",
-    "native_path": "Chapter3 宅建業を始める前にお金を預ける / Section1 営業保証金の仕組み",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 29,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__sec_bfdd9faa1020",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "business_12b28bb9d2",
-    "topic_ids": [
-      "business_12b28bb9d2"
-    ],
-    "title": "保証協会",
-    "native_path": "Chapter3 宅建業を始める前にお金を預ける / Section2 保証協会",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 30,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__business_ec037d3765",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "business_a1b167a8db",
-    "topic_ids": [
-      "business_a1b167a8db",
-      "business_ec037d3765"
-    ],
-    "title": "事務所、案内所等に関する規制",
-    "native_path": "Chapter4 取引にあたって注意しなければならないこと / Section2 事務所等に関する定め",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 31,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__native_c3454e93b9",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "business_990979c912",
-    "topic_ids": [
-      "business_990979c912"
-    ],
-    "title": "業務上の規制",
-    "native_path": "Chapter4 取引にあたって注意しなければならないこと / Section3 業務を行うときのモラルなど",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 32,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__native_13e5ac65ab",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "business_9cf105a9bb",
-    "topic_ids": [
-      "business_9cf105a9bb"
-    ],
-    "title": "自ら売主となる場合の8つの制限（8種制限）",
-    "native_path": "Chapter6 業者が自ら売主となるときの８種規制 / Section2 ８種規制ってどんなもの？",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 33,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__business_a5f12385c3",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "business_a5f12385c3",
-    "topic_ids": [
-      "business_a5f12385c3"
-    ],
-    "title": "報酬に関する制限",
-    "native_path": "Chapter7 報酬額の制限 / Section1-2 報酬額の制限規定・報酬額の計算方法",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 34,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__business_7d39c7f89d",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "business_7d39c7f89d",
-    "topic_ids": [
-      "business_7d39c7f89d"
-    ],
-    "title": "監督・罰則",
-    "native_path": "Chapter8 宅建業者や宅建士が受けるペナルティー / Section1-2 監督処分の種類と事由・罰則",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 35,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__native_8eec712d94",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "business_warranty",
-    "topic_ids": [
-      "business_warranty"
-    ],
-    "title": "住宅瑕疵担保履行法",
-    "native_path": "Chapter9 欠陥住宅の販売に備えて / Section1 新築住宅の瑕疵担保責任を果たすために",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 36,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__law_4180fb9198",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "law_d7807f7dc8",
-    "topic_ids": [
-      "law_d7807f7dc8"
-    ],
-    "title": "都市計画区域・区域区分",
-    "native_path": "Chapter1 都市計画法 / Section1-2 都市計画にはどんなものがあるのだろう",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 37,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__law_9b51554a8b",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "law_d7807f7dc8",
-    "topic_ids": [
-      "law_d7807f7dc8"
-    ],
-    "title": "用途地域・地域地区",
-    "native_path": "Chapter1 都市計画法 / Section2 都市計画にはどんなものがあるのだろう",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 38,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__law_347d3fb3e6",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "law_d7807f7dc8",
-    "topic_ids": [
-      "law_d7807f7dc8"
-    ],
-    "title": "都市施設・地区計画",
-    "native_path": "Chapter1 都市計画法 / Section2 都市計画にはどんなものがあるのだろう",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 39,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__law_d045a1f0b3",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "law_4c9fec8184",
-    "topic_ids": [
-      "law_4c9fec8184"
-    ],
-    "title": "開発許可",
-    "native_path": "Chapter1 都市計画法 / Section5 良好な街づくりのための造成工事",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 40,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__law_22b4d90ba5",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "law_a3cb43ccf8",
-    "topic_ids": [
-      "law_a3cb43ccf8"
-    ],
-    "title": "道路・接道義務",
-    "native_path": "Chapter2 建築基準法 / Section3 都市計画区域などで守らなければならない基準",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 41,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__law_fd5b87d7b5",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "law_a3cb43ccf8",
-    "topic_ids": [
-      "law_a3cb43ccf8"
-    ],
-    "title": "用途制限",
-    "native_path": "Chapter2 建築基準法 / Section3 都市計画区域などで守らなければならない基準",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 42,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__law_75c6fccf0c",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "law_a3cb43ccf8",
-    "topic_ids": [
-      "law_a3cb43ccf8"
-    ],
-    "title": "建蔽率",
-    "native_path": "Chapter2 建築基準法 / Section3 都市計画区域などで守らなければならない基準",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 43,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__law_bdead69741",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "law_a3cb43ccf8",
-    "topic_ids": [
-      "law_a3cb43ccf8"
-    ],
-    "title": "容積率",
-    "native_path": "Chapter2 建築基準法 / Section3 都市計画区域などで守らなければならない基準",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 44,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__law_3b3f406cef",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "law_cd2732d454",
-    "topic_ids": [
-      "law_cd2732d454"
-    ],
-    "title": "高さ制限・斜線制限",
-    "native_path": "Chapter2 建築基準法 / Section3 都市計画区域などで守らなければならない基準",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 45,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__law_c819c25801",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "law_cd2732d454",
-    "topic_ids": [
-      "law_cd2732d454"
-    ],
-    "title": "防火地域・準防火地域",
-    "native_path": "Chapter2 建築基準法 / Section3 都市計画区域などで守らなければならない基準",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 46,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__law_ec7c745179",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "law_cd2732d454",
-    "topic_ids": [
-      "law_cd2732d454"
-    ],
-    "title": "建築確認",
-    "native_path": "Chapter2 建築基準法 / Section4 建築基準法を守ってもらうために",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 47,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__law_f9e7c42521",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "law_f9e7c42521",
-    "topic_ids": [
-      "law_f9e7c42521"
-    ],
-    "title": "国土利用計画法",
-    "native_path": "Chapter3 国土利用計画法 / Section3 土地の売買は自由にできない－①",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 48,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__law_eab8632d96",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "law_eab8632d96",
-    "topic_ids": [
-      "law_eab8632d96"
-    ],
-    "title": "農地法",
-    "native_path": "Chapter4 農地法 / Section1-2 最大の目的は「食料の確保」・農地も自由に売却できない",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 49,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__law_125b024f23",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "law_8c95545b2e",
-    "topic_ids": [
-      "law_8c95545b2e"
-    ],
-    "title": "盛土規制法",
-    "native_path": "Chapter6 盛土規制法・その他の制限法令 / Section2 規制区域と造成宅地防災区域",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 50,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__law_f85dea5b8a",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "law_f85dea5b8a",
-    "topic_ids": [
-      "law_f85dea5b8a"
-    ],
-    "title": "土地区画整理法",
-    "native_path": "Chapter5 土地区画整理法 / Section2 土地区画整理事業はどのように進めるの？",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 51,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__law_8c95545b2e",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "law_8c95545b2e",
-    "topic_ids": [
-      "law_8c95545b2e"
-    ],
-    "title": "その他の法令上の制限",
-    "native_path": "Chapter6 盛土規制法・その他の制限法令 / Section2 規制区域と造成宅地防災区域",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 52,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__other_99b74fe5a0",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "other_99b74fe5a0",
-    "topic_ids": [
-      "other_99b74fe5a0"
-    ],
-    "title": "不動産取得税",
-    "native_path": "Chapter1 不動産に関する税金 / Section2 不動産を取得したときに課される税金",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 53,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__other_a559687a43",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "other_a559687a43",
-    "topic_ids": [
-      "other_a559687a43"
-    ],
-    "title": "固定資産税",
-    "native_path": "Chapter1 不動産に関する税金 / Section3 不動産を保有しているときに課される税金",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 54,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__other_f3113f9af6",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "other_f3113f9af6",
-    "topic_ids": [
-      "other_f3113f9af6"
-    ],
-    "title": "所得税（譲渡所得）",
-    "native_path": "Chapter1 不動産に関する税金 / Section4 儲けたときに課される税金",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 55,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__other_8af9afa2e6",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "other_8af9afa2e6",
-    "topic_ids": [
-      "other_8af9afa2e6"
-    ],
-    "title": "印紙税",
-    "native_path": "Chapter1 不動産に関する税金 / Section5 その他の重要な国税",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 56,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__sec_35382b260bbf",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "other_2a21b3b2f7",
-    "topic_ids": [
-      "other_2a21b3b2f7"
-    ],
-    "title": "登録免許税",
-    "native_path": "Chapter1 不動産に関する税金 / Section5 その他の重要な国税",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 57,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__sec_c6997f97e7c7",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "other_3bfa57c660",
-    "topic_ids": [
-      "other_3bfa57c660"
-    ],
-    "title": "贈与税",
-    "native_path": "Chapter1 不動産に関する税金 / Section5 その他の重要な国税",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 58,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__other_241d9d5512",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "other_241d9d5512",
-    "topic_ids": [
-      "other_241d9d5512"
-    ],
-    "title": "不動産鑑定評価",
-    "native_path": "Chapter2 税金以外の関連知識 / Section1 土地・建物の値段の決め方",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 59,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__other_cba29a763e",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "other_cba29a763e",
-    "topic_ids": [
-      "other_cba29a763e"
-    ],
-    "title": "地価公示法",
-    "native_path": "Chapter2 税金以外の関連知識 / Section1 土地・建物の値段の決め方",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 60,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__other_648e7c9dde",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "other_648e7c9dde",
-    "topic_ids": [
-      "other_648e7c9dde"
-    ],
-    "title": "住宅金融支援機構",
-    "native_path": "Chapter2 税金以外の関連知識 / Section2 長期固定住宅ローンの支え手",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 61,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__other_4fa1abf88d",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "other_4fa1abf88d",
-    "topic_ids": [
-      "other_4fa1abf88d"
-    ],
-    "title": "景品表示法",
-    "native_path": "Chapter2 税金以外の関連知識 / Section3 “インチキ広告”にだまされないぞ",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 62,
-    "legacy_ids": []
-  },
-  {
-    "id": "wakaru_text_2026__other_d2d12048e9",
-    "resource_id": "wakaru_text_2026",
-    "topic_id": "other_010108fbb9",
-    "topic_ids": [
-      "other_010108fbb9",
-      "other_cd18d7dd34"
-    ],
-    "title": "土地・建物",
-    "native_path": "Chapter2 税金以外の関連知識 / Section5 住みよい土地や建物とはどんなもの？",
-    "url": null,
-    "mapping": "native_section",
-    "native_order": 63,
-    "legacy_ids": []
-  },
-  {
     "id": "wakaru_basic_bonus_2026__rights_769bb4eaa5",
     "resource_id": "wakaru_basic_bonus_2026",
     "topic_id": "rights_7c2281ce71",
     "topic_ids": [
-      "rights_7c2281ce71"
-    ],
-    "title": "Section1 “契約”ってなんだろう ～契約の成立要件など～",
-    "native_path": "権利関係 / Chapter1 契約を結ぶときに問題となること",
-    "mapping": "native_section",
-    "native_order": 0,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_basic_kenri.pdf"
-  },
-  {
-    "id": "wakaru_basic_bonus_2026__rights_capacity",
-    "resource_id": "wakaru_basic_bonus_2026",
-    "topic_id": "rights_capacity",
-    "topic_ids": [
-      "rights_capacity"
-    ],
-    "title": "Section2 相手方が未成年者なら ～制限行為能力者制度～",
-    "native_path": "権利関係 / Chapter1 契約を結ぶときに問題となること",
-    "mapping": "native_section",
-    "native_order": 1,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_basic_kenri.pdf"
-  },
-  {
-    "id": "wakaru_basic_bonus_2026__rights_intent",
-    "resource_id": "wakaru_basic_bonus_2026",
-    "topic_id": "rights_intent",
-    "topic_ids": [
-      "rights_intent"
-    ],
-    "title": "Section3 だまされて契約したら ～意思表示～",
-    "native_path": "権利関係 / Chapter1 契約を結ぶときに問題となること",
-    "mapping": "native_section",
-    "native_order": 2,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_basic_kenri.pdf"
-  },
-  {
-    "id": "wakaru_basic_bonus_2026__rights_agency",
-    "resource_id": "wakaru_basic_bonus_2026",
-    "topic_id": "rights_agency",
-    "topic_ids": [
+      "rights_7c2281ce71",
+      "rights_capacity",
+      "rights_intent",
       "rights_agency"
     ],
-    "title": "Section4 人に契約を結んでもらう ～代理～",
-    "native_path": "権利関係 / Chapter1 契約を結ぶときに問題となること",
-    "mapping": "native_section",
-    "native_order": 3,
+    "title": "契約を結ぶときに問題となること",
+    "native_path": "権利関係",
+    "mapping": "native_chapter",
+    "native_order": 0,
     "legacy_ids": [],
     "link_kind": "pdf",
     "storage_path": "wakaru_basic_kenri.pdf"
@@ -2882,136 +2263,19 @@
     "resource_id": "wakaru_basic_bonus_2026",
     "topic_id": "rights_d0b3d40e24",
     "topic_ids": [
-      "rights_d0b3d40e24"
-    ],
-    "title": "Section1 契約が守られないとき ～債務不履行・契約の解除・手付～",
-    "native_path": "権利関係 / Chapter2 契約の内容を実現する段階で問題となること",
-    "mapping": "native_section",
-    "native_order": 4,
-    "legacy_ids": [
-      "wakaru_basic_bonus_2026__native_fd351492c3"
-    ],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_basic_kenri.pdf"
-  },
-  {
-    "id": "wakaru_basic_bonus_2026__rights_bcfabff4bf",
-    "resource_id": "wakaru_basic_bonus_2026",
-    "topic_id": "rights_7c2281ce71",
-    "topic_ids": [
-      "rights_7c2281ce71"
-    ],
-    "title": "Section2 買った建物が地震で壊れたら ～危険負担～",
-    "native_path": "権利関係 / Chapter2 契約の内容を実現する段階で問題となること",
-    "mapping": "native_section",
-    "native_order": 5,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_basic_kenri.pdf"
-  },
-  {
-    "id": "wakaru_basic_bonus_2026__native_fd351492c3",
-    "resource_id": "wakaru_basic_bonus_2026",
-    "topic_id": "rights_f4c32080b7",
-    "topic_ids": [
-      "rights_f4c32080b7"
-    ],
-    "title": "Section3 買った家が欠陥住宅だったら？ ～売買の契約不適合等～",
-    "native_path": "権利関係 / Chapter2 契約の内容を実現する段階で問題となること",
-    "mapping": "native_section",
-    "native_order": 6,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_basic_kenri.pdf"
-  },
-  {
-    "id": "wakaru_basic_bonus_2026__rights_97c9209e61",
-    "resource_id": "wakaru_basic_bonus_2026",
-    "topic_id": "rights_97c9209e61",
-    "topic_ids": [
-      "rights_97c9209e61"
-    ],
-    "title": "Section4 債権回収のための手段-(1) ～抵当権等～",
-    "native_path": "権利関係 / Chapter2 契約の内容を実現する段階で問題となること",
-    "mapping": "native_section",
-    "native_order": 7,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_basic_kenri.pdf"
-  },
-  {
-    "id": "wakaru_basic_bonus_2026__sec_c1980ea63f21",
-    "resource_id": "wakaru_basic_bonus_2026",
-    "topic_id": "rights_9553c8a3a6",
-    "topic_ids": [
-      "rights_9553c8a3a6"
-    ],
-    "title": "Section5 債権回収のための手段-(2) ～連帯債務と保証～",
-    "native_path": "権利関係 / Chapter2 契約の内容を実現する段階で問題となること",
-    "mapping": "native_section",
-    "native_order": 8,
-    "legacy_ids": [
-      "wakaru_basic_bonus_2026__native_88cd151d5f"
-    ],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_basic_kenri.pdf"
-  },
-  {
-    "id": "wakaru_basic_bonus_2026__rights_d672a3a22c",
-    "resource_id": "wakaru_basic_bonus_2026",
-    "topic_id": "rights_d672a3a22c",
-    "topic_ids": [
-      "rights_d672a3a22c"
-    ],
-    "title": "Section6 二重譲渡などに備えて ～対抗問題～",
-    "native_path": "権利関係 / Chapter2 契約の内容を実現する段階で問題となること",
-    "mapping": "native_section",
-    "native_order": 9,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_basic_kenri.pdf"
-  },
-  {
-    "id": "wakaru_basic_bonus_2026__rights_2430e010c0",
-    "resource_id": "wakaru_basic_bonus_2026",
-    "topic_id": "rights_2430e010c0",
-    "topic_ids": [
-      "rights_2430e010c0"
-    ],
-    "title": "Section7 「登記」とはどんな仕組み？ ～不動産登記法～",
-    "native_path": "権利関係 / Chapter2 契約の内容を実現する段階で問題となること",
-    "mapping": "native_section",
-    "native_order": 10,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_basic_kenri.pdf"
-  },
-  {
-    "id": "wakaru_basic_bonus_2026__rights_4b8ec559bb",
-    "resource_id": "wakaru_basic_bonus_2026",
-    "topic_id": "rights_7c2281ce71",
-    "topic_ids": [
-      "rights_7c2281ce71"
-    ],
-    "title": "Section8 債権を他人に譲り渡す ～債権譲渡等～",
-    "native_path": "権利関係 / Chapter2 契約の内容を実現する段階で問題となること",
-    "mapping": "native_section",
-    "native_order": 11,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_basic_kenri.pdf"
-  },
-  {
-    "id": "wakaru_basic_bonus_2026__rights_d7fb984cab",
-    "resource_id": "wakaru_basic_bonus_2026",
-    "topic_id": "rights_d7fb984cab",
-    "topic_ids": [
+      "rights_d0b3d40e24",
+      "rights_7c2281ce71",
+      "rights_f4c32080b7",
+      "rights_97c9209e61",
+      "rights_9553c8a3a6",
+      "rights_d672a3a22c",
+      "rights_2430e010c0",
       "rights_d7fb984cab"
     ],
-    "title": "Section9 債権が消滅する ～弁済・相殺など～",
-    "native_path": "権利関係 / Chapter2 契約の内容を実現する段階で問題となること",
-    "mapping": "native_section",
-    "native_order": 12,
+    "title": "契約の内容を実現する段階で問題となること",
+    "native_path": "権利関係",
+    "mapping": "native_chapter",
+    "native_order": 1,
     "legacy_ids": [],
     "link_kind": "pdf",
     "storage_path": "wakaru_basic_kenri.pdf"
@@ -3021,44 +2285,14 @@
     "resource_id": "wakaru_basic_bonus_2026",
     "topic_id": "rights_90b1750c9a",
     "topic_ids": [
-      "rights_90b1750c9a"
-    ],
-    "title": "Section1 賃料を払って借りる ～賃貸借契約（民法）～",
-    "native_path": "権利関係 / Chapter3 賃貸借契約・借地借家法",
-    "mapping": "native_section",
-    "native_order": 13,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_basic_kenri.pdf"
-  },
-  {
-    "id": "wakaru_basic_bonus_2026__sec_e248918b46c3",
-    "resource_id": "wakaru_basic_bonus_2026",
-    "topic_id": "rights_b9664ce7c1",
-    "topic_ids": [
-      "rights_b9664ce7c1"
-    ],
-    "title": "Section2 借りた土地に家を建てる ～借地権～",
-    "native_path": "権利関係 / Chapter3 賃貸借契約・借地借家法",
-    "mapping": "native_section",
-    "native_order": 14,
-    "legacy_ids": [
-      "wakaru_basic_bonus_2026__rights_3e51219636"
-    ],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_basic_kenri.pdf"
-  },
-  {
-    "id": "wakaru_basic_bonus_2026__sec_37c670824c84",
-    "resource_id": "wakaru_basic_bonus_2026",
-    "topic_id": "rights_88f1ee6b2d",
-    "topic_ids": [
+      "rights_90b1750c9a",
+      "rights_b9664ce7c1",
       "rights_88f1ee6b2d"
     ],
-    "title": "Section3 賃貸住宅に住む ～借家権～",
-    "native_path": "権利関係 / Chapter3 賃貸借契約・借地借家法",
-    "mapping": "native_section",
-    "native_order": 15,
+    "title": "賃貸借契約・借地借家法",
+    "native_path": "権利関係",
+    "mapping": "native_chapter",
+    "native_order": 2,
     "legacy_ids": [],
     "link_kind": "pdf",
     "storage_path": "wakaru_basic_kenri.pdf"
@@ -3068,149 +2302,17 @@
     "resource_id": "wakaru_basic_bonus_2026",
     "topic_id": "rights_7c2281ce71",
     "topic_ids": [
-      "rights_7c2281ce71"
-    ],
-    "title": "委任契約",
-    "native_path": "権利関係 / Chapter4 その他のいろいろな法律関係",
-    "mapping": "native_section",
-    "native_order": 16,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_basic_kenri.pdf"
-  },
-  {
-    "id": "wakaru_basic_bonus_2026__rights_dc1f469777",
-    "resource_id": "wakaru_basic_bonus_2026",
-    "topic_id": "rights_7c2281ce71",
-    "topic_ids": [
-      "rights_7c2281ce71"
-    ],
-    "title": "請負契約",
-    "native_path": "権利関係 / Chapter4 その他のいろいろな法律関係",
-    "mapping": "native_section",
-    "native_order": 17,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_basic_kenri.pdf"
-  },
-  {
-    "id": "wakaru_basic_bonus_2026__sec_5b1d8bdc1bc2",
-    "resource_id": "wakaru_basic_bonus_2026",
-    "topic_id": "rights_7c2281ce71",
-    "topic_ids": [
-      "rights_7c2281ce71"
-    ],
-    "title": "贈与契約",
-    "native_path": "権利関係 / Chapter4 その他のいろいろな法律関係",
-    "mapping": "native_section",
-    "native_order": 18,
-    "legacy_ids": [
-      "wakaru_basic_bonus_2026__native_26183cb948"
-    ],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_basic_kenri.pdf"
-  },
-  {
-    "id": "wakaru_basic_bonus_2026__rights_83681b6989",
-    "resource_id": "wakaru_basic_bonus_2026",
-    "topic_id": "rights_7c2281ce71",
-    "topic_ids": [
-      "rights_7c2281ce71"
-    ],
-    "title": "使用貸借",
-    "native_path": "権利関係 / Chapter4 その他のいろいろな法律関係",
-    "mapping": "native_section",
-    "native_order": 19,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_basic_kenri.pdf"
-  },
-  {
-    "id": "wakaru_basic_bonus_2026__rights_limitation",
-    "resource_id": "wakaru_basic_bonus_2026",
-    "topic_id": "rights_limitation",
-    "topic_ids": [
-      "rights_limitation"
-    ],
-    "title": "時効",
-    "native_path": "権利関係 / Chapter4 その他のいろいろな法律関係",
-    "mapping": "native_section",
-    "native_order": 20,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_basic_kenri.pdf"
-  },
-  {
-    "id": "wakaru_basic_bonus_2026__rights_acfb3361ec",
-    "resource_id": "wakaru_basic_bonus_2026",
-    "topic_id": "rights_acfb3361ec",
-    "topic_ids": [
-      "rights_acfb3361ec"
-    ],
-    "title": "相続",
-    "native_path": "権利関係 / Chapter4 その他のいろいろな法律関係",
-    "mapping": "native_section",
-    "native_order": 21,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_basic_kenri.pdf"
-  },
-  {
-    "id": "wakaru_basic_bonus_2026__rights_77b396ee2d",
-    "resource_id": "wakaru_basic_bonus_2026",
-    "topic_id": "rights_77b396ee2d",
-    "topic_ids": [
-      "rights_77b396ee2d"
-    ],
-    "title": "不法行為",
-    "native_path": "権利関係 / Chapter4 その他のいろいろな法律関係",
-    "mapping": "native_section",
-    "native_order": 22,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_basic_kenri.pdf"
-  },
-  {
-    "id": "wakaru_basic_bonus_2026__rights_0f340e0880",
-    "resource_id": "wakaru_basic_bonus_2026",
-    "topic_id": "rights_0f340e0880",
-    "topic_ids": [
-      "rights_0f340e0880"
-    ],
-    "title": "共有",
-    "native_path": "権利関係 / Chapter4 その他のいろいろな法律関係",
-    "mapping": "native_section",
-    "native_order": 23,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_basic_kenri.pdf"
-  },
-  {
-    "id": "wakaru_basic_bonus_2026__rights_0c4f8f5fd5",
-    "resource_id": "wakaru_basic_bonus_2026",
-    "topic_id": "rights_0c4f8f5fd5",
-    "topic_ids": [
+      "rights_7c2281ce71",
+      "rights_limitation",
+      "rights_acfb3361ec",
+      "rights_77b396ee2d",
+      "rights_0f340e0880",
       "rights_0c4f8f5fd5"
     ],
-    "title": "区分所有法",
-    "native_path": "権利関係 / Chapter4 その他のいろいろな法律関係",
-    "mapping": "native_section",
-    "native_order": 24,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_basic_kenri.pdf"
-  },
-  {
-    "id": "wakaru_basic_bonus_2026__rights_fa6e1b63ed",
-    "resource_id": "wakaru_basic_bonus_2026",
-    "topic_id": "rights_7c2281ce71",
-    "topic_ids": [
-      "rights_7c2281ce71"
-    ],
-    "title": "所有権・地役権",
-    "native_path": "権利関係 / Chapter4 その他のいろいろな法律関係",
-    "mapping": "native_section",
-    "native_order": 25,
+    "title": "その他のいろいろな法律関係",
+    "native_path": "権利関係",
+    "mapping": "native_chapter",
+    "native_order": 3,
     "legacy_ids": [],
     "link_kind": "pdf",
     "storage_path": "wakaru_basic_kenri.pdf"
@@ -3220,30 +2322,15 @@
     "resource_id": "wakaru_basic_bonus_2026",
     "topic_id": "business_e9a3236db9",
     "topic_ids": [
-      "business_e9a3236db9"
-    ],
-    "title": "宅建業法の基本",
-    "native_path": "Chapter1 宅建業者になる / Section1 「宅地建物取引業」ってなに？",
-    "mapping": "native_section",
-    "native_order": 26,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_basic_takkengyouhou.pdf"
-  },
-  {
-    "id": "wakaru_basic_bonus_2026__sec_5bf8d80933c3",
-    "resource_id": "wakaru_basic_bonus_2026",
-    "topic_id": "business_license",
-    "topic_ids": [
+      "business_e9a3236db9",
+      "business_ec037d3765",
       "business_license"
     ],
-    "title": "免許",
-    "native_path": "Chapter1 宅建業者になる / Section2 宅建業者は免許が必要",
-    "mapping": "native_section",
-    "native_order": 27,
-    "legacy_ids": [
-      "wakaru_basic_bonus_2026__native_fd6c1d157a"
-    ],
+    "title": "宅建業者になる",
+    "native_path": "宅建業法",
+    "mapping": "native_chapter",
+    "native_order": 4,
+    "legacy_ids": [],
     "link_kind": "pdf",
     "storage_path": "wakaru_basic_takkengyouhou.pdf"
   },
@@ -3254,10 +2341,10 @@
     "topic_ids": [
       "business_agent"
     ],
-    "title": "宅地建物取引士",
-    "native_path": "Chapter2 宅建士は取引のスペシャリスト / Section1 「宅建士」って何をする人？",
-    "mapping": "native_section",
-    "native_order": 28,
+    "title": "宅建士は取引のスペシャリスト",
+    "native_path": "宅建業法",
+    "mapping": "native_chapter",
+    "native_order": 5,
     "legacy_ids": [],
     "link_kind": "pdf",
     "storage_path": "wakaru_basic_takkengyouhou.pdf"
@@ -3267,27 +2354,13 @@
     "resource_id": "wakaru_basic_bonus_2026",
     "topic_id": "business_3c8b8e6aca",
     "topic_ids": [
-      "business_3c8b8e6aca"
-    ],
-    "title": "営業保証金",
-    "native_path": "Chapter3 宅建業を始める前にお金を預ける / Section1 営業保証金の仕組み",
-    "mapping": "native_section",
-    "native_order": 29,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_basic_takkengyouhou.pdf"
-  },
-  {
-    "id": "wakaru_basic_bonus_2026__sec_ad04004364db",
-    "resource_id": "wakaru_basic_bonus_2026",
-    "topic_id": "business_12b28bb9d2",
-    "topic_ids": [
+      "business_3c8b8e6aca",
       "business_12b28bb9d2"
     ],
-    "title": "保証協会",
-    "native_path": "Chapter3 宅建業を始める前にお金を預ける / Section2 保証協会",
-    "mapping": "native_section",
-    "native_order": 30,
+    "title": "宅建業を始める前にお金を預ける",
+    "native_path": "宅建業法",
+    "mapping": "native_chapter",
+    "native_order": 6,
     "legacy_ids": [],
     "link_kind": "pdf",
     "storage_path": "wakaru_basic_takkengyouhou.pdf"
@@ -3295,31 +2368,35 @@
   {
     "id": "wakaru_basic_bonus_2026__business_ec037d3765",
     "resource_id": "wakaru_basic_bonus_2026",
-    "topic_id": "business_a1b167a8db",
+    "topic_id": "business_128c05aa94",
     "topic_ids": [
+      "business_128c05aa94",
+      "business_ec037d3765",
       "business_a1b167a8db",
-      "business_ec037d3765"
+      "business_990979c912"
     ],
-    "title": "事務所、案内所等に関する規制",
-    "native_path": "Chapter4 取引にあたって注意しなければならないこと / Section2 事務所等に関する定め",
-    "mapping": "native_section",
-    "native_order": 31,
+    "title": "取引にあたって注意しなければならないこと",
+    "native_path": "宅建業法",
+    "mapping": "native_chapter",
+    "native_order": 7,
     "legacy_ids": [],
     "link_kind": "pdf",
     "storage_path": "wakaru_basic_takkengyouhou.pdf"
   },
   {
-    "id": "wakaru_basic_bonus_2026__native_89d7401309",
+    "id": "wakaru_basic_bonus_2026__chapter_09",
     "resource_id": "wakaru_basic_bonus_2026",
-    "topic_id": "business_990979c912",
-    "topic_ids": [
-      "business_990979c912"
-    ],
-    "title": "業務上の規制",
-    "native_path": "Chapter4 取引にあたって注意しなければならないこと / Section3 業務を行うときのモラルなど",
-    "mapping": "native_section",
-    "native_order": 32,
     "legacy_ids": [],
+    "title": "取引にあたって交付すべき３大書面",
+    "native_path": "宅建業法",
+    "topic_ids": [
+      "business_b484e7ce9c",
+      "business_2192a0359a",
+      "business_c808821440"
+    ],
+    "topic_id": "business_b484e7ce9c",
+    "native_order": 8,
+    "mapping": "native_chapter",
     "link_kind": "pdf",
     "storage_path": "wakaru_basic_takkengyouhou.pdf"
   },
@@ -3330,10 +2407,10 @@
     "topic_ids": [
       "business_9cf105a9bb"
     ],
-    "title": "自ら売主となる場合の8つの制限（8種制限）",
-    "native_path": "Chapter6 業者が自ら売主となるときの８種規制 / Section2 ８種規制ってどんなもの？",
-    "mapping": "native_section",
-    "native_order": 33,
+    "title": "業者が自ら売主となるときの８種規制",
+    "native_path": "宅建業法",
+    "mapping": "native_chapter",
+    "native_order": 9,
     "legacy_ids": [],
     "link_kind": "pdf",
     "storage_path": "wakaru_basic_takkengyouhou.pdf"
@@ -3345,10 +2422,10 @@
     "topic_ids": [
       "business_a5f12385c3"
     ],
-    "title": "報酬に関する制限",
-    "native_path": "Chapter7 報酬額の制限 / Section1-2 報酬額の制限規定・報酬額の計算方法",
-    "mapping": "native_section",
-    "native_order": 34,
+    "title": "報酬額の制限",
+    "native_path": "宅建業法",
+    "mapping": "native_chapter",
+    "native_order": 10,
     "legacy_ids": [],
     "link_kind": "pdf",
     "storage_path": "wakaru_basic_takkengyouhou.pdf"
@@ -3360,10 +2437,10 @@
     "topic_ids": [
       "business_7d39c7f89d"
     ],
-    "title": "監督・罰則",
-    "native_path": "Chapter8 宅建業者や宅建士が受けるペナルティー / Section1-2 監督処分の種類と事由・罰則",
-    "mapping": "native_section",
-    "native_order": 35,
+    "title": "宅建業者や宅建士が受けるペナルティー",
+    "native_path": "宅建業法",
+    "mapping": "native_chapter",
+    "native_order": 11,
     "legacy_ids": [],
     "link_kind": "pdf",
     "storage_path": "wakaru_basic_takkengyouhou.pdf"
@@ -3375,10 +2452,10 @@
     "topic_ids": [
       "business_warranty"
     ],
-    "title": "住宅瑕疵担保履行法",
-    "native_path": "Chapter9 欠陥住宅の販売に備えて / Section1 新築住宅の瑕疵担保責任を果たすために",
-    "mapping": "native_section",
-    "native_order": 36,
+    "title": "欠陥住宅の販売に備えて",
+    "native_path": "宅建業法",
+    "mapping": "native_chapter",
+    "native_order": 12,
     "legacy_ids": [],
     "link_kind": "pdf",
     "storage_path": "wakaru_basic_takkengyouhou.pdf"
@@ -3388,57 +2465,13 @@
     "resource_id": "wakaru_basic_bonus_2026",
     "topic_id": "law_d7807f7dc8",
     "topic_ids": [
-      "law_d7807f7dc8"
-    ],
-    "title": "都市計画区域・区域区分",
-    "native_path": "Chapter1 都市計画法 / Section1-2 都市計画にはどんなものがあるのだろう",
-    "mapping": "native_section",
-    "native_order": 37,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_basic_hourei.pdf"
-  },
-  {
-    "id": "wakaru_basic_bonus_2026__law_9b51554a8b",
-    "resource_id": "wakaru_basic_bonus_2026",
-    "topic_id": "law_d7807f7dc8",
-    "topic_ids": [
-      "law_d7807f7dc8"
-    ],
-    "title": "用途地域・地域地区",
-    "native_path": "Chapter1 都市計画法 / Section2 都市計画にはどんなものがあるのだろう",
-    "mapping": "native_section",
-    "native_order": 38,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_basic_hourei.pdf"
-  },
-  {
-    "id": "wakaru_basic_bonus_2026__law_347d3fb3e6",
-    "resource_id": "wakaru_basic_bonus_2026",
-    "topic_id": "law_d7807f7dc8",
-    "topic_ids": [
-      "law_d7807f7dc8"
-    ],
-    "title": "都市施設・地区計画",
-    "native_path": "Chapter1 都市計画法 / Section2 都市計画にはどんなものがあるのだろう",
-    "mapping": "native_section",
-    "native_order": 39,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_basic_hourei.pdf"
-  },
-  {
-    "id": "wakaru_basic_bonus_2026__law_d045a1f0b3",
-    "resource_id": "wakaru_basic_bonus_2026",
-    "topic_id": "law_4c9fec8184",
-    "topic_ids": [
+      "law_d7807f7dc8",
       "law_4c9fec8184"
     ],
-    "title": "開発許可",
-    "native_path": "Chapter1 都市計画法 / Section5 良好な街づくりのための造成工事",
-    "mapping": "native_section",
-    "native_order": 40,
+    "title": "都市計画法",
+    "native_path": "法令上の制限",
+    "mapping": "native_chapter",
+    "native_order": 13,
     "legacy_ids": [],
     "link_kind": "pdf",
     "storage_path": "wakaru_basic_hourei.pdf"
@@ -3448,102 +2481,13 @@
     "resource_id": "wakaru_basic_bonus_2026",
     "topic_id": "law_a3cb43ccf8",
     "topic_ids": [
-      "law_a3cb43ccf8"
-    ],
-    "title": "道路・接道義務",
-    "native_path": "Chapter2 建築基準法 / Section3 都市計画区域などで守らなければならない基準",
-    "mapping": "native_section",
-    "native_order": 41,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_basic_hourei.pdf"
-  },
-  {
-    "id": "wakaru_basic_bonus_2026__law_fd5b87d7b5",
-    "resource_id": "wakaru_basic_bonus_2026",
-    "topic_id": "law_a3cb43ccf8",
-    "topic_ids": [
-      "law_a3cb43ccf8"
-    ],
-    "title": "用途制限",
-    "native_path": "Chapter2 建築基準法 / Section3 都市計画区域などで守らなければならない基準",
-    "mapping": "native_section",
-    "native_order": 42,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_basic_hourei.pdf"
-  },
-  {
-    "id": "wakaru_basic_bonus_2026__law_75c6fccf0c",
-    "resource_id": "wakaru_basic_bonus_2026",
-    "topic_id": "law_a3cb43ccf8",
-    "topic_ids": [
-      "law_a3cb43ccf8"
-    ],
-    "title": "建蔽率",
-    "native_path": "Chapter2 建築基準法 / Section3 都市計画区域などで守らなければならない基準",
-    "mapping": "native_section",
-    "native_order": 43,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_basic_hourei.pdf"
-  },
-  {
-    "id": "wakaru_basic_bonus_2026__law_bdead69741",
-    "resource_id": "wakaru_basic_bonus_2026",
-    "topic_id": "law_a3cb43ccf8",
-    "topic_ids": [
-      "law_a3cb43ccf8"
-    ],
-    "title": "容積率",
-    "native_path": "Chapter2 建築基準法 / Section3 都市計画区域などで守らなければならない基準",
-    "mapping": "native_section",
-    "native_order": 44,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_basic_hourei.pdf"
-  },
-  {
-    "id": "wakaru_basic_bonus_2026__law_3b3f406cef",
-    "resource_id": "wakaru_basic_bonus_2026",
-    "topic_id": "law_cd2732d454",
-    "topic_ids": [
+      "law_a3cb43ccf8",
       "law_cd2732d454"
     ],
-    "title": "高さ制限・斜線制限",
-    "native_path": "Chapter2 建築基準法 / Section3 都市計画区域などで守らなければならない基準",
-    "mapping": "native_section",
-    "native_order": 45,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_basic_hourei.pdf"
-  },
-  {
-    "id": "wakaru_basic_bonus_2026__law_c819c25801",
-    "resource_id": "wakaru_basic_bonus_2026",
-    "topic_id": "law_cd2732d454",
-    "topic_ids": [
-      "law_cd2732d454"
-    ],
-    "title": "防火地域・準防火地域",
-    "native_path": "Chapter2 建築基準法 / Section3 都市計画区域などで守らなければならない基準",
-    "mapping": "native_section",
-    "native_order": 46,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_basic_hourei.pdf"
-  },
-  {
-    "id": "wakaru_basic_bonus_2026__law_ec7c745179",
-    "resource_id": "wakaru_basic_bonus_2026",
-    "topic_id": "law_cd2732d454",
-    "topic_ids": [
-      "law_cd2732d454"
-    ],
-    "title": "建築確認",
-    "native_path": "Chapter2 建築基準法 / Section4 建築基準法を守ってもらうために",
-    "mapping": "native_section",
-    "native_order": 47,
+    "title": "建築基準法",
+    "native_path": "法令上の制限",
+    "mapping": "native_chapter",
+    "native_order": 14,
     "legacy_ids": [],
     "link_kind": "pdf",
     "storage_path": "wakaru_basic_hourei.pdf"
@@ -3556,9 +2500,9 @@
       "law_f9e7c42521"
     ],
     "title": "国土利用計画法",
-    "native_path": "Chapter3 国土利用計画法 / Section3 土地の売買は自由にできない－①",
-    "mapping": "native_section",
-    "native_order": 48,
+    "native_path": "法令上の制限",
+    "mapping": "native_chapter",
+    "native_order": 15,
     "legacy_ids": [],
     "link_kind": "pdf",
     "storage_path": "wakaru_basic_hourei.pdf"
@@ -3571,24 +2515,9 @@
       "law_eab8632d96"
     ],
     "title": "農地法",
-    "native_path": "Chapter4 農地法 / Section1-2 最大の目的は「食料の確保」・農地も自由に売却できない",
-    "mapping": "native_section",
-    "native_order": 49,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_basic_hourei.pdf"
-  },
-  {
-    "id": "wakaru_basic_bonus_2026__law_125b024f23",
-    "resource_id": "wakaru_basic_bonus_2026",
-    "topic_id": "law_8c95545b2e",
-    "topic_ids": [
-      "law_8c95545b2e"
-    ],
-    "title": "盛土規制法",
-    "native_path": "Chapter6 盛土規制法・その他の制限法令 / Section2 規制区域と造成宅地防災区域",
-    "mapping": "native_section",
-    "native_order": 50,
+    "native_path": "法令上の制限",
+    "mapping": "native_chapter",
+    "native_order": 16,
     "legacy_ids": [],
     "link_kind": "pdf",
     "storage_path": "wakaru_basic_hourei.pdf"
@@ -3601,24 +2530,24 @@
       "law_f85dea5b8a"
     ],
     "title": "土地区画整理法",
-    "native_path": "Chapter5 土地区画整理法 / Section2 土地区画整理事業はどのように進めるの？",
-    "mapping": "native_section",
-    "native_order": 51,
+    "native_path": "法令上の制限",
+    "mapping": "native_chapter",
+    "native_order": 17,
     "legacy_ids": [],
     "link_kind": "pdf",
     "storage_path": "wakaru_basic_hourei.pdf"
   },
   {
-    "id": "wakaru_basic_bonus_2026__law_8c95545b2e",
+    "id": "wakaru_basic_bonus_2026__law_125b024f23",
     "resource_id": "wakaru_basic_bonus_2026",
     "topic_id": "law_8c95545b2e",
     "topic_ids": [
       "law_8c95545b2e"
     ],
-    "title": "その他の法令上の制限",
-    "native_path": "Chapter6 盛土規制法・その他の制限法令 / Section2 規制区域と造成宅地防災区域",
-    "mapping": "native_section",
-    "native_order": 52,
+    "title": "盛土規制法・その他の制限法令",
+    "native_path": "法令上の制限",
+    "mapping": "native_chapter",
+    "native_order": 18,
     "legacy_ids": [],
     "link_kind": "pdf",
     "storage_path": "wakaru_basic_hourei.pdf"
@@ -3628,87 +2557,17 @@
     "resource_id": "wakaru_basic_bonus_2026",
     "topic_id": "other_99b74fe5a0",
     "topic_ids": [
-      "other_99b74fe5a0"
-    ],
-    "title": "不動産取得税",
-    "native_path": "Chapter1 不動産に関する税金 / Section2 不動産を取得したときに課される税金",
-    "mapping": "native_section",
-    "native_order": 53,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_basic_zei.pdf"
-  },
-  {
-    "id": "wakaru_basic_bonus_2026__other_a559687a43",
-    "resource_id": "wakaru_basic_bonus_2026",
-    "topic_id": "other_a559687a43",
-    "topic_ids": [
-      "other_a559687a43"
-    ],
-    "title": "固定資産税",
-    "native_path": "Chapter1 不動産に関する税金 / Section3 不動産を保有しているときに課される税金",
-    "mapping": "native_section",
-    "native_order": 54,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_basic_zei.pdf"
-  },
-  {
-    "id": "wakaru_basic_bonus_2026__other_f3113f9af6",
-    "resource_id": "wakaru_basic_bonus_2026",
-    "topic_id": "other_f3113f9af6",
-    "topic_ids": [
-      "other_f3113f9af6"
-    ],
-    "title": "所得税（譲渡所得）",
-    "native_path": "Chapter1 不動産に関する税金 / Section4 儲けたときに課される税金",
-    "mapping": "native_section",
-    "native_order": 55,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_basic_zei.pdf"
-  },
-  {
-    "id": "wakaru_basic_bonus_2026__other_8af9afa2e6",
-    "resource_id": "wakaru_basic_bonus_2026",
-    "topic_id": "other_8af9afa2e6",
-    "topic_ids": [
-      "other_8af9afa2e6"
-    ],
-    "title": "印紙税",
-    "native_path": "Chapter1 不動産に関する税金 / Section5 その他の重要な国税",
-    "mapping": "native_section",
-    "native_order": 56,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_basic_zei.pdf"
-  },
-  {
-    "id": "wakaru_basic_bonus_2026__sec_d50b8570a074",
-    "resource_id": "wakaru_basic_bonus_2026",
-    "topic_id": "other_2a21b3b2f7",
-    "topic_ids": [
-      "other_2a21b3b2f7"
-    ],
-    "title": "登録免許税",
-    "native_path": "Chapter1 不動産に関する税金 / Section5 その他の重要な国税",
-    "mapping": "native_section",
-    "native_order": 57,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_basic_zei.pdf"
-  },
-  {
-    "id": "wakaru_basic_bonus_2026__sec_6aec9702a2ec",
-    "resource_id": "wakaru_basic_bonus_2026",
-    "topic_id": "other_3bfa57c660",
-    "topic_ids": [
+      "other_99b74fe5a0",
+      "other_a559687a43",
+      "other_f3113f9af6",
+      "other_8af9afa2e6",
+      "other_2a21b3b2f7",
       "other_3bfa57c660"
     ],
-    "title": "贈与税",
-    "native_path": "Chapter1 不動産に関する税金 / Section5 その他の重要な国税",
-    "mapping": "native_section",
-    "native_order": 58,
+    "title": "不動産に関する税金",
+    "native_path": "税・その他",
+    "mapping": "native_chapter",
+    "native_order": 19,
     "legacy_ids": [],
     "link_kind": "pdf",
     "storage_path": "wakaru_basic_zei.pdf"
@@ -3718,73 +2577,17 @@
     "resource_id": "wakaru_basic_bonus_2026",
     "topic_id": "other_241d9d5512",
     "topic_ids": [
-      "other_241d9d5512"
-    ],
-    "title": "不動産鑑定評価",
-    "native_path": "Chapter2 税金以外の関連知識 / Section1 土地・建物の値段の決め方",
-    "mapping": "native_section",
-    "native_order": 59,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_basic_zei.pdf"
-  },
-  {
-    "id": "wakaru_basic_bonus_2026__other_cba29a763e",
-    "resource_id": "wakaru_basic_bonus_2026",
-    "topic_id": "other_cba29a763e",
-    "topic_ids": [
-      "other_cba29a763e"
-    ],
-    "title": "地価公示法",
-    "native_path": "Chapter2 税金以外の関連知識 / Section1 土地・建物の値段の決め方",
-    "mapping": "native_section",
-    "native_order": 60,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_basic_zei.pdf"
-  },
-  {
-    "id": "wakaru_basic_bonus_2026__other_648e7c9dde",
-    "resource_id": "wakaru_basic_bonus_2026",
-    "topic_id": "other_648e7c9dde",
-    "topic_ids": [
-      "other_648e7c9dde"
-    ],
-    "title": "住宅金融支援機構",
-    "native_path": "Chapter2 税金以外の関連知識 / Section2 長期固定住宅ローンの支え手",
-    "mapping": "native_section",
-    "native_order": 61,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_basic_zei.pdf"
-  },
-  {
-    "id": "wakaru_basic_bonus_2026__other_4fa1abf88d",
-    "resource_id": "wakaru_basic_bonus_2026",
-    "topic_id": "other_4fa1abf88d",
-    "topic_ids": [
-      "other_4fa1abf88d"
-    ],
-    "title": "景品表示法",
-    "native_path": "Chapter2 税金以外の関連知識 / Section3 “インチキ広告”にだまされないぞ",
-    "mapping": "native_section",
-    "native_order": 62,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_basic_zei.pdf"
-  },
-  {
-    "id": "wakaru_basic_bonus_2026__other_d2d12048e9",
-    "resource_id": "wakaru_basic_bonus_2026",
-    "topic_id": "other_010108fbb9",
-    "topic_ids": [
+      "other_241d9d5512",
+      "other_cba29a763e",
+      "other_648e7c9dde",
+      "other_4fa1abf88d",
       "other_010108fbb9",
       "other_cd18d7dd34"
     ],
-    "title": "土地・建物",
-    "native_path": "Chapter2 税金以外の関連知識 / Section5 住みよい土地や建物とはどんなもの？",
-    "mapping": "native_section",
-    "native_order": 63,
+    "title": "税金以外の関連知識",
+    "native_path": "税・その他",
+    "mapping": "native_chapter",
+    "native_order": 20,
     "legacy_ids": [],
     "link_kind": "pdf",
     "storage_path": "wakaru_basic_zei.pdf"
@@ -3794,57 +2597,15 @@
     "resource_id": "wakaru_bunyabetsu_bonus_2026",
     "topic_id": "rights_7c2281ce71",
     "topic_ids": [
-      "rights_7c2281ce71"
-    ],
-    "title": "Section1 “契約”ってなんだろう ～契約の成立要件など～",
-    "native_path": "権利関係 / Chapter1 契約を結ぶときに問題となること",
-    "mapping": "native_section",
-    "native_order": 0,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_bunyabetsu_kenri.pdf"
-  },
-  {
-    "id": "wakaru_bunyabetsu_bonus_2026__rights_capacity",
-    "resource_id": "wakaru_bunyabetsu_bonus_2026",
-    "topic_id": "rights_capacity",
-    "topic_ids": [
-      "rights_capacity"
-    ],
-    "title": "Section2 相手方が未成年者なら ～制限行為能力者制度～",
-    "native_path": "権利関係 / Chapter1 契約を結ぶときに問題となること",
-    "mapping": "native_section",
-    "native_order": 1,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_bunyabetsu_kenri.pdf"
-  },
-  {
-    "id": "wakaru_bunyabetsu_bonus_2026__rights_intent",
-    "resource_id": "wakaru_bunyabetsu_bonus_2026",
-    "topic_id": "rights_intent",
-    "topic_ids": [
-      "rights_intent"
-    ],
-    "title": "Section3 だまされて契約したら ～意思表示～",
-    "native_path": "権利関係 / Chapter1 契約を結ぶときに問題となること",
-    "mapping": "native_section",
-    "native_order": 2,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_bunyabetsu_kenri.pdf"
-  },
-  {
-    "id": "wakaru_bunyabetsu_bonus_2026__rights_agency",
-    "resource_id": "wakaru_bunyabetsu_bonus_2026",
-    "topic_id": "rights_agency",
-    "topic_ids": [
+      "rights_7c2281ce71",
+      "rights_capacity",
+      "rights_intent",
       "rights_agency"
     ],
-    "title": "Section4 人に契約を結んでもらう ～代理～",
-    "native_path": "権利関係 / Chapter1 契約を結ぶときに問題となること",
-    "mapping": "native_section",
-    "native_order": 3,
+    "title": "契約を結ぶときに問題となること",
+    "native_path": "権利関係",
+    "mapping": "native_chapter",
+    "native_order": 0,
     "legacy_ids": [],
     "link_kind": "pdf",
     "storage_path": "wakaru_bunyabetsu_kenri.pdf"
@@ -3854,136 +2615,19 @@
     "resource_id": "wakaru_bunyabetsu_bonus_2026",
     "topic_id": "rights_d0b3d40e24",
     "topic_ids": [
-      "rights_d0b3d40e24"
-    ],
-    "title": "Section1 契約が守られないとき ～債務不履行・契約の解除・手付～",
-    "native_path": "権利関係 / Chapter2 契約の内容を実現する段階で問題となること",
-    "mapping": "native_section",
-    "native_order": 4,
-    "legacy_ids": [
-      "wakaru_bunyabetsu_bonus_2026__native_6a7bb2a5e4"
-    ],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_bunyabetsu_kenri.pdf"
-  },
-  {
-    "id": "wakaru_bunyabetsu_bonus_2026__rights_bcfabff4bf",
-    "resource_id": "wakaru_bunyabetsu_bonus_2026",
-    "topic_id": "rights_7c2281ce71",
-    "topic_ids": [
-      "rights_7c2281ce71"
-    ],
-    "title": "Section2 買った建物が地震で壊れたら ～危険負担～",
-    "native_path": "権利関係 / Chapter2 契約の内容を実現する段階で問題となること",
-    "mapping": "native_section",
-    "native_order": 5,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_bunyabetsu_kenri.pdf"
-  },
-  {
-    "id": "wakaru_bunyabetsu_bonus_2026__native_6a7bb2a5e4",
-    "resource_id": "wakaru_bunyabetsu_bonus_2026",
-    "topic_id": "rights_f4c32080b7",
-    "topic_ids": [
-      "rights_f4c32080b7"
-    ],
-    "title": "Section3 買った家が欠陥住宅だったら？ ～売買の契約不適合等～",
-    "native_path": "権利関係 / Chapter2 契約の内容を実現する段階で問題となること",
-    "mapping": "native_section",
-    "native_order": 6,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_bunyabetsu_kenri.pdf"
-  },
-  {
-    "id": "wakaru_bunyabetsu_bonus_2026__rights_97c9209e61",
-    "resource_id": "wakaru_bunyabetsu_bonus_2026",
-    "topic_id": "rights_97c9209e61",
-    "topic_ids": [
-      "rights_97c9209e61"
-    ],
-    "title": "Section4 債権回収のための手段-(1) ～抵当権等～",
-    "native_path": "権利関係 / Chapter2 契約の内容を実現する段階で問題となること",
-    "mapping": "native_section",
-    "native_order": 7,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_bunyabetsu_kenri.pdf"
-  },
-  {
-    "id": "wakaru_bunyabetsu_bonus_2026__sec_b006c01b977e",
-    "resource_id": "wakaru_bunyabetsu_bonus_2026",
-    "topic_id": "rights_9553c8a3a6",
-    "topic_ids": [
-      "rights_9553c8a3a6"
-    ],
-    "title": "Section5 債権回収のための手段-(2) ～連帯債務と保証～",
-    "native_path": "権利関係 / Chapter2 契約の内容を実現する段階で問題となること",
-    "mapping": "native_section",
-    "native_order": 8,
-    "legacy_ids": [
-      "wakaru_bunyabetsu_bonus_2026__native_3b557d49b1"
-    ],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_bunyabetsu_kenri.pdf"
-  },
-  {
-    "id": "wakaru_bunyabetsu_bonus_2026__rights_d672a3a22c",
-    "resource_id": "wakaru_bunyabetsu_bonus_2026",
-    "topic_id": "rights_d672a3a22c",
-    "topic_ids": [
-      "rights_d672a3a22c"
-    ],
-    "title": "Section6 二重譲渡などに備えて ～対抗問題～",
-    "native_path": "権利関係 / Chapter2 契約の内容を実現する段階で問題となること",
-    "mapping": "native_section",
-    "native_order": 9,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_bunyabetsu_kenri.pdf"
-  },
-  {
-    "id": "wakaru_bunyabetsu_bonus_2026__rights_2430e010c0",
-    "resource_id": "wakaru_bunyabetsu_bonus_2026",
-    "topic_id": "rights_2430e010c0",
-    "topic_ids": [
-      "rights_2430e010c0"
-    ],
-    "title": "Section7 「登記」とはどんな仕組み？ ～不動産登記法～",
-    "native_path": "権利関係 / Chapter2 契約の内容を実現する段階で問題となること",
-    "mapping": "native_section",
-    "native_order": 10,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_bunyabetsu_kenri.pdf"
-  },
-  {
-    "id": "wakaru_bunyabetsu_bonus_2026__rights_4b8ec559bb",
-    "resource_id": "wakaru_bunyabetsu_bonus_2026",
-    "topic_id": "rights_7c2281ce71",
-    "topic_ids": [
-      "rights_7c2281ce71"
-    ],
-    "title": "Section8 債権を他人に譲り渡す ～債権譲渡等～",
-    "native_path": "権利関係 / Chapter2 契約の内容を実現する段階で問題となること",
-    "mapping": "native_section",
-    "native_order": 11,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_bunyabetsu_kenri.pdf"
-  },
-  {
-    "id": "wakaru_bunyabetsu_bonus_2026__rights_d7fb984cab",
-    "resource_id": "wakaru_bunyabetsu_bonus_2026",
-    "topic_id": "rights_d7fb984cab",
-    "topic_ids": [
+      "rights_d0b3d40e24",
+      "rights_7c2281ce71",
+      "rights_f4c32080b7",
+      "rights_97c9209e61",
+      "rights_9553c8a3a6",
+      "rights_d672a3a22c",
+      "rights_2430e010c0",
       "rights_d7fb984cab"
     ],
-    "title": "Section9 債権が消滅する ～弁済・相殺など～",
-    "native_path": "権利関係 / Chapter2 契約の内容を実現する段階で問題となること",
-    "mapping": "native_section",
-    "native_order": 12,
+    "title": "契約の内容を実現する段階で問題となること",
+    "native_path": "権利関係",
+    "mapping": "native_chapter",
+    "native_order": 1,
     "legacy_ids": [],
     "link_kind": "pdf",
     "storage_path": "wakaru_bunyabetsu_kenri.pdf"
@@ -3993,44 +2637,14 @@
     "resource_id": "wakaru_bunyabetsu_bonus_2026",
     "topic_id": "rights_90b1750c9a",
     "topic_ids": [
-      "rights_90b1750c9a"
-    ],
-    "title": "Section1 賃料を払って借りる ～賃貸借契約（民法）～",
-    "native_path": "権利関係 / Chapter3 賃貸借契約・借地借家法",
-    "mapping": "native_section",
-    "native_order": 13,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_bunyabetsu_kenri.pdf"
-  },
-  {
-    "id": "wakaru_bunyabetsu_bonus_2026__sec_b40c494b42b2",
-    "resource_id": "wakaru_bunyabetsu_bonus_2026",
-    "topic_id": "rights_b9664ce7c1",
-    "topic_ids": [
-      "rights_b9664ce7c1"
-    ],
-    "title": "Section2 借りた土地に家を建てる ～借地権～",
-    "native_path": "権利関係 / Chapter3 賃貸借契約・借地借家法",
-    "mapping": "native_section",
-    "native_order": 14,
-    "legacy_ids": [
-      "wakaru_bunyabetsu_bonus_2026__rights_3e51219636"
-    ],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_bunyabetsu_kenri.pdf"
-  },
-  {
-    "id": "wakaru_bunyabetsu_bonus_2026__sec_20203aaf7f48",
-    "resource_id": "wakaru_bunyabetsu_bonus_2026",
-    "topic_id": "rights_88f1ee6b2d",
-    "topic_ids": [
+      "rights_90b1750c9a",
+      "rights_b9664ce7c1",
       "rights_88f1ee6b2d"
     ],
-    "title": "Section3 賃貸住宅に住む ～借家権～",
-    "native_path": "権利関係 / Chapter3 賃貸借契約・借地借家法",
-    "mapping": "native_section",
-    "native_order": 15,
+    "title": "賃貸借契約・借地借家法",
+    "native_path": "権利関係",
+    "mapping": "native_chapter",
+    "native_order": 2,
     "legacy_ids": [],
     "link_kind": "pdf",
     "storage_path": "wakaru_bunyabetsu_kenri.pdf"
@@ -4040,149 +2654,17 @@
     "resource_id": "wakaru_bunyabetsu_bonus_2026",
     "topic_id": "rights_7c2281ce71",
     "topic_ids": [
-      "rights_7c2281ce71"
-    ],
-    "title": "委任契約",
-    "native_path": "権利関係 / Chapter4 その他のいろいろな法律関係",
-    "mapping": "native_section",
-    "native_order": 16,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_bunyabetsu_kenri.pdf"
-  },
-  {
-    "id": "wakaru_bunyabetsu_bonus_2026__rights_dc1f469777",
-    "resource_id": "wakaru_bunyabetsu_bonus_2026",
-    "topic_id": "rights_7c2281ce71",
-    "topic_ids": [
-      "rights_7c2281ce71"
-    ],
-    "title": "請負契約",
-    "native_path": "権利関係 / Chapter4 その他のいろいろな法律関係",
-    "mapping": "native_section",
-    "native_order": 17,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_bunyabetsu_kenri.pdf"
-  },
-  {
-    "id": "wakaru_bunyabetsu_bonus_2026__sec_c7df1e9453b3",
-    "resource_id": "wakaru_bunyabetsu_bonus_2026",
-    "topic_id": "rights_7c2281ce71",
-    "topic_ids": [
-      "rights_7c2281ce71"
-    ],
-    "title": "贈与契約",
-    "native_path": "権利関係 / Chapter4 その他のいろいろな法律関係",
-    "mapping": "native_section",
-    "native_order": 18,
-    "legacy_ids": [
-      "wakaru_bunyabetsu_bonus_2026__native_4afca5b822"
-    ],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_bunyabetsu_kenri.pdf"
-  },
-  {
-    "id": "wakaru_bunyabetsu_bonus_2026__rights_83681b6989",
-    "resource_id": "wakaru_bunyabetsu_bonus_2026",
-    "topic_id": "rights_7c2281ce71",
-    "topic_ids": [
-      "rights_7c2281ce71"
-    ],
-    "title": "使用貸借",
-    "native_path": "権利関係 / Chapter4 その他のいろいろな法律関係",
-    "mapping": "native_section",
-    "native_order": 19,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_bunyabetsu_kenri.pdf"
-  },
-  {
-    "id": "wakaru_bunyabetsu_bonus_2026__rights_limitation",
-    "resource_id": "wakaru_bunyabetsu_bonus_2026",
-    "topic_id": "rights_limitation",
-    "topic_ids": [
-      "rights_limitation"
-    ],
-    "title": "時効",
-    "native_path": "権利関係 / Chapter4 その他のいろいろな法律関係",
-    "mapping": "native_section",
-    "native_order": 20,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_bunyabetsu_kenri.pdf"
-  },
-  {
-    "id": "wakaru_bunyabetsu_bonus_2026__rights_acfb3361ec",
-    "resource_id": "wakaru_bunyabetsu_bonus_2026",
-    "topic_id": "rights_acfb3361ec",
-    "topic_ids": [
-      "rights_acfb3361ec"
-    ],
-    "title": "相続",
-    "native_path": "権利関係 / Chapter4 その他のいろいろな法律関係",
-    "mapping": "native_section",
-    "native_order": 21,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_bunyabetsu_kenri.pdf"
-  },
-  {
-    "id": "wakaru_bunyabetsu_bonus_2026__rights_77b396ee2d",
-    "resource_id": "wakaru_bunyabetsu_bonus_2026",
-    "topic_id": "rights_77b396ee2d",
-    "topic_ids": [
-      "rights_77b396ee2d"
-    ],
-    "title": "不法行為",
-    "native_path": "権利関係 / Chapter4 その他のいろいろな法律関係",
-    "mapping": "native_section",
-    "native_order": 22,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_bunyabetsu_kenri.pdf"
-  },
-  {
-    "id": "wakaru_bunyabetsu_bonus_2026__rights_0f340e0880",
-    "resource_id": "wakaru_bunyabetsu_bonus_2026",
-    "topic_id": "rights_0f340e0880",
-    "topic_ids": [
-      "rights_0f340e0880"
-    ],
-    "title": "共有",
-    "native_path": "権利関係 / Chapter4 その他のいろいろな法律関係",
-    "mapping": "native_section",
-    "native_order": 23,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_bunyabetsu_kenri.pdf"
-  },
-  {
-    "id": "wakaru_bunyabetsu_bonus_2026__rights_0c4f8f5fd5",
-    "resource_id": "wakaru_bunyabetsu_bonus_2026",
-    "topic_id": "rights_0c4f8f5fd5",
-    "topic_ids": [
+      "rights_7c2281ce71",
+      "rights_limitation",
+      "rights_acfb3361ec",
+      "rights_77b396ee2d",
+      "rights_0f340e0880",
       "rights_0c4f8f5fd5"
     ],
-    "title": "区分所有法",
-    "native_path": "権利関係 / Chapter4 その他のいろいろな法律関係",
-    "mapping": "native_section",
-    "native_order": 24,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_bunyabetsu_kenri.pdf"
-  },
-  {
-    "id": "wakaru_bunyabetsu_bonus_2026__rights_fa6e1b63ed",
-    "resource_id": "wakaru_bunyabetsu_bonus_2026",
-    "topic_id": "rights_7c2281ce71",
-    "topic_ids": [
-      "rights_7c2281ce71"
-    ],
-    "title": "所有権・地役権",
-    "native_path": "権利関係 / Chapter4 その他のいろいろな法律関係",
-    "mapping": "native_section",
-    "native_order": 25,
+    "title": "その他のいろいろな法律関係",
+    "native_path": "権利関係",
+    "mapping": "native_chapter",
+    "native_order": 3,
     "legacy_ids": [],
     "link_kind": "pdf",
     "storage_path": "wakaru_bunyabetsu_kenri.pdf"
@@ -4192,30 +2674,15 @@
     "resource_id": "wakaru_bunyabetsu_bonus_2026",
     "topic_id": "business_e9a3236db9",
     "topic_ids": [
-      "business_e9a3236db9"
-    ],
-    "title": "宅建業法の基本",
-    "native_path": "Chapter1 宅建業者になる / Section1-2 「宅地建物取引業」ってなに？・宅建業者は免許が必要",
-    "mapping": "native_section",
-    "native_order": 26,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_bunyabetsu_takkengyouhou.pdf"
-  },
-  {
-    "id": "wakaru_bunyabetsu_bonus_2026__sec_9b0f71df2478",
-    "resource_id": "wakaru_bunyabetsu_bonus_2026",
-    "topic_id": "business_license",
-    "topic_ids": [
+      "business_e9a3236db9",
+      "business_ec037d3765",
       "business_license"
     ],
-    "title": "免許",
-    "native_path": "Chapter1 宅建業者になる / Section1-2 「宅地建物取引業」ってなに？・宅建業者は免許が必要",
-    "mapping": "native_section",
-    "native_order": 27,
-    "legacy_ids": [
-      "wakaru_bunyabetsu_bonus_2026__native_f717b61384"
-    ],
+    "title": "宅建業者になる",
+    "native_path": "宅建業法",
+    "mapping": "native_chapter",
+    "native_order": 4,
+    "legacy_ids": [],
     "link_kind": "pdf",
     "storage_path": "wakaru_bunyabetsu_takkengyouhou.pdf"
   },
@@ -4226,10 +2693,10 @@
     "topic_ids": [
       "business_agent"
     ],
-    "title": "宅地建物取引士",
-    "native_path": "Chapter2 宅建士は取引のスペシャリスト / Section1-4 「宅建士」って何をする人？～宅建業者と宅建士",
-    "mapping": "native_section",
-    "native_order": 28,
+    "title": "宅建士は取引のスペシャリスト",
+    "native_path": "宅建業法",
+    "mapping": "native_chapter",
+    "native_order": 5,
     "legacy_ids": [],
     "link_kind": "pdf",
     "storage_path": "wakaru_bunyabetsu_takkengyouhou.pdf"
@@ -4239,27 +2706,13 @@
     "resource_id": "wakaru_bunyabetsu_bonus_2026",
     "topic_id": "business_3c8b8e6aca",
     "topic_ids": [
-      "business_3c8b8e6aca"
-    ],
-    "title": "営業保証金",
-    "native_path": "Chapter3 宅建業を始める前にお金を預ける / Section1 営業保証金の仕組み",
-    "mapping": "native_section",
-    "native_order": 29,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_bunyabetsu_takkengyouhou.pdf"
-  },
-  {
-    "id": "wakaru_bunyabetsu_bonus_2026__sec_2b15121463fa",
-    "resource_id": "wakaru_bunyabetsu_bonus_2026",
-    "topic_id": "business_12b28bb9d2",
-    "topic_ids": [
+      "business_3c8b8e6aca",
       "business_12b28bb9d2"
     ],
-    "title": "保証協会",
-    "native_path": "Chapter3 宅建業を始める前にお金を預ける / Section2 保証協会",
-    "mapping": "native_section",
-    "native_order": 30,
+    "title": "宅建業を始める前にお金を預ける",
+    "native_path": "宅建業法",
+    "mapping": "native_chapter",
+    "native_order": 6,
     "legacy_ids": [],
     "link_kind": "pdf",
     "storage_path": "wakaru_bunyabetsu_takkengyouhou.pdf"
@@ -4267,31 +2720,35 @@
   {
     "id": "wakaru_bunyabetsu_bonus_2026__business_ec037d3765",
     "resource_id": "wakaru_bunyabetsu_bonus_2026",
-    "topic_id": "business_a1b167a8db",
+    "topic_id": "business_128c05aa94",
     "topic_ids": [
+      "business_128c05aa94",
+      "business_ec037d3765",
       "business_a1b167a8db",
-      "business_ec037d3765"
+      "business_990979c912"
     ],
-    "title": "事務所、案内所等に関する規制",
-    "native_path": "Chapter4 取引にあたって注意しなければならないこと / Section2 事務所等に関する定め",
-    "mapping": "native_section",
-    "native_order": 31,
+    "title": "取引にあたって注意しなければならないこと",
+    "native_path": "宅建業法",
+    "mapping": "native_chapter",
+    "native_order": 7,
     "legacy_ids": [],
     "link_kind": "pdf",
     "storage_path": "wakaru_bunyabetsu_takkengyouhou.pdf"
   },
   {
-    "id": "wakaru_bunyabetsu_bonus_2026__native_149c3f0028",
+    "id": "wakaru_bunyabetsu_bonus_2026__chapter_09",
     "resource_id": "wakaru_bunyabetsu_bonus_2026",
-    "topic_id": "business_990979c912",
-    "topic_ids": [
-      "business_990979c912"
-    ],
-    "title": "業務上の規制",
-    "native_path": "Chapter4 取引にあたって注意しなければならないこと / Section3 業務を行うときのモラルなど",
-    "mapping": "native_section",
-    "native_order": 32,
     "legacy_ids": [],
+    "title": "取引にあたって交付すべき３大書面",
+    "native_path": "宅建業法",
+    "topic_ids": [
+      "business_b484e7ce9c",
+      "business_2192a0359a",
+      "business_c808821440"
+    ],
+    "topic_id": "business_b484e7ce9c",
+    "native_order": 8,
+    "mapping": "native_chapter",
     "link_kind": "pdf",
     "storage_path": "wakaru_bunyabetsu_takkengyouhou.pdf"
   },
@@ -4302,10 +2759,10 @@
     "topic_ids": [
       "business_9cf105a9bb"
     ],
-    "title": "自ら売主となる場合の8つの制限（8種制限）",
-    "native_path": "Chapter6 業者が自ら売主となるときの８種規制 / Section2 ８種規制ってどんなもの？",
-    "mapping": "native_section",
-    "native_order": 33,
+    "title": "業者が自ら売主となるときの８種規制",
+    "native_path": "宅建業法",
+    "mapping": "native_chapter",
+    "native_order": 9,
     "legacy_ids": [],
     "link_kind": "pdf",
     "storage_path": "wakaru_bunyabetsu_takkengyouhou.pdf"
@@ -4317,10 +2774,10 @@
     "topic_ids": [
       "business_a5f12385c3"
     ],
-    "title": "報酬に関する制限",
-    "native_path": "Chapter7 報酬額の計算 / Section2 報酬額の計算方法",
-    "mapping": "native_section",
-    "native_order": 34,
+    "title": "報酬額の制限",
+    "native_path": "宅建業法",
+    "mapping": "native_chapter",
+    "native_order": 10,
     "legacy_ids": [],
     "link_kind": "pdf",
     "storage_path": "wakaru_bunyabetsu_takkengyouhou.pdf"
@@ -4332,10 +2789,10 @@
     "topic_ids": [
       "business_7d39c7f89d"
     ],
-    "title": "監督・罰則",
-    "native_path": "Chapter8 宅建業者や宅建士が受けるペナルティー / Section1-2 監督処分の種類と事由・罰則",
-    "mapping": "native_section",
-    "native_order": 35,
+    "title": "宅建業者や宅建士が受けるペナルティー",
+    "native_path": "宅建業法",
+    "mapping": "native_chapter",
+    "native_order": 11,
     "legacy_ids": [],
     "link_kind": "pdf",
     "storage_path": "wakaru_bunyabetsu_takkengyouhou.pdf"
@@ -4347,10 +2804,10 @@
     "topic_ids": [
       "business_warranty"
     ],
-    "title": "住宅瑕疵担保履行法",
-    "native_path": "Chapter9 欠陥住宅の販売に備えて / Section1 新築住宅の瑕疵担保責任を果たすために",
-    "mapping": "native_section",
-    "native_order": 36,
+    "title": "欠陥住宅の販売に備えて",
+    "native_path": "宅建業法",
+    "mapping": "native_chapter",
+    "native_order": 12,
     "legacy_ids": [],
     "link_kind": "pdf",
     "storage_path": "wakaru_bunyabetsu_takkengyouhou.pdf"
@@ -4360,57 +2817,13 @@
     "resource_id": "wakaru_bunyabetsu_bonus_2026",
     "topic_id": "law_d7807f7dc8",
     "topic_ids": [
-      "law_d7807f7dc8"
-    ],
-    "title": "都市計画区域・区域区分",
-    "native_path": "Chapter1 都市計画法 / Section1-5 “街づくりの出発点”～良好な街づくりのための造成工事",
-    "mapping": "native_section",
-    "native_order": 37,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_bunyabetsu_hourei.pdf"
-  },
-  {
-    "id": "wakaru_bunyabetsu_bonus_2026__law_9b51554a8b",
-    "resource_id": "wakaru_bunyabetsu_bonus_2026",
-    "topic_id": "law_d7807f7dc8",
-    "topic_ids": [
-      "law_d7807f7dc8"
-    ],
-    "title": "用途地域・地域地区",
-    "native_path": "Chapter1 都市計画法 / Section1-5 “街づくりの出発点”～良好な街づくりのための造成工事",
-    "mapping": "native_section",
-    "native_order": 38,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_bunyabetsu_hourei.pdf"
-  },
-  {
-    "id": "wakaru_bunyabetsu_bonus_2026__law_347d3fb3e6",
-    "resource_id": "wakaru_bunyabetsu_bonus_2026",
-    "topic_id": "law_d7807f7dc8",
-    "topic_ids": [
-      "law_d7807f7dc8"
-    ],
-    "title": "都市施設・地区計画",
-    "native_path": "Chapter1 都市計画法 / Section1-5 “街づくりの出発点”～良好な街づくりのための造成工事",
-    "mapping": "native_section",
-    "native_order": 39,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_bunyabetsu_hourei.pdf"
-  },
-  {
-    "id": "wakaru_bunyabetsu_bonus_2026__law_d045a1f0b3",
-    "resource_id": "wakaru_bunyabetsu_bonus_2026",
-    "topic_id": "law_4c9fec8184",
-    "topic_ids": [
+      "law_d7807f7dc8",
       "law_4c9fec8184"
     ],
-    "title": "開発許可",
-    "native_path": "Chapter1 都市計画法 / Section1-5 “街づくりの出発点”～良好な街づくりのための造成工事",
-    "mapping": "native_section",
-    "native_order": 40,
+    "title": "都市計画法",
+    "native_path": "法令上の制限",
+    "mapping": "native_chapter",
+    "native_order": 13,
     "legacy_ids": [],
     "link_kind": "pdf",
     "storage_path": "wakaru_bunyabetsu_hourei.pdf"
@@ -4420,102 +2833,13 @@
     "resource_id": "wakaru_bunyabetsu_bonus_2026",
     "topic_id": "law_a3cb43ccf8",
     "topic_ids": [
-      "law_a3cb43ccf8"
-    ],
-    "title": "道路・接道義務",
-    "native_path": "Chapter2 建築基準法 / Section1-5 建築の最低基準を定めた法律～みんなで決める建築の基準",
-    "mapping": "native_section",
-    "native_order": 41,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_bunyabetsu_hourei.pdf"
-  },
-  {
-    "id": "wakaru_bunyabetsu_bonus_2026__law_fd5b87d7b5",
-    "resource_id": "wakaru_bunyabetsu_bonus_2026",
-    "topic_id": "law_a3cb43ccf8",
-    "topic_ids": [
-      "law_a3cb43ccf8"
-    ],
-    "title": "用途制限",
-    "native_path": "Chapter2 建築基準法 / Section1-5 建築の最低基準を定めた法律～みんなで決める建築の基準",
-    "mapping": "native_section",
-    "native_order": 42,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_bunyabetsu_hourei.pdf"
-  },
-  {
-    "id": "wakaru_bunyabetsu_bonus_2026__law_75c6fccf0c",
-    "resource_id": "wakaru_bunyabetsu_bonus_2026",
-    "topic_id": "law_a3cb43ccf8",
-    "topic_ids": [
-      "law_a3cb43ccf8"
-    ],
-    "title": "建蔽率",
-    "native_path": "Chapter2 建築基準法 / Section1-5 建築の最低基準を定めた法律～みんなで決める建築の基準",
-    "mapping": "native_section",
-    "native_order": 43,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_bunyabetsu_hourei.pdf"
-  },
-  {
-    "id": "wakaru_bunyabetsu_bonus_2026__law_bdead69741",
-    "resource_id": "wakaru_bunyabetsu_bonus_2026",
-    "topic_id": "law_a3cb43ccf8",
-    "topic_ids": [
-      "law_a3cb43ccf8"
-    ],
-    "title": "容積率",
-    "native_path": "Chapter2 建築基準法 / Section1-5 建築の最低基準を定めた法律～みんなで決める建築の基準",
-    "mapping": "native_section",
-    "native_order": 44,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_bunyabetsu_hourei.pdf"
-  },
-  {
-    "id": "wakaru_bunyabetsu_bonus_2026__law_3b3f406cef",
-    "resource_id": "wakaru_bunyabetsu_bonus_2026",
-    "topic_id": "law_cd2732d454",
-    "topic_ids": [
+      "law_a3cb43ccf8",
       "law_cd2732d454"
     ],
-    "title": "高さ制限・斜線制限",
-    "native_path": "Chapter2 建築基準法 / Section1-5 建築の最低基準を定めた法律～みんなで決める建築の基準",
-    "mapping": "native_section",
-    "native_order": 45,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_bunyabetsu_hourei.pdf"
-  },
-  {
-    "id": "wakaru_bunyabetsu_bonus_2026__law_c819c25801",
-    "resource_id": "wakaru_bunyabetsu_bonus_2026",
-    "topic_id": "law_cd2732d454",
-    "topic_ids": [
-      "law_cd2732d454"
-    ],
-    "title": "防火地域・準防火地域",
-    "native_path": "Chapter2 建築基準法 / Section1-5 建築の最低基準を定めた法律～みんなで決める建築の基準",
-    "mapping": "native_section",
-    "native_order": 46,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_bunyabetsu_hourei.pdf"
-  },
-  {
-    "id": "wakaru_bunyabetsu_bonus_2026__law_ec7c745179",
-    "resource_id": "wakaru_bunyabetsu_bonus_2026",
-    "topic_id": "law_cd2732d454",
-    "topic_ids": [
-      "law_cd2732d454"
-    ],
-    "title": "建築確認",
-    "native_path": "Chapter2 建築基準法 / Section1-5 建築の最低基準を定めた法律～みんなで決める建築の基準",
-    "mapping": "native_section",
-    "native_order": 47,
+    "title": "建築基準法",
+    "native_path": "法令上の制限",
+    "mapping": "native_chapter",
+    "native_order": 14,
     "legacy_ids": [],
     "link_kind": "pdf",
     "storage_path": "wakaru_bunyabetsu_hourei.pdf"
@@ -4528,9 +2852,9 @@
       "law_f9e7c42521"
     ],
     "title": "国土利用計画法",
-    "native_path": "Chapter3 国土利用計画法 / Section1-3 国土の計画的な利用や取引～土地の売買は自由にできない",
-    "mapping": "native_section",
-    "native_order": 48,
+    "native_path": "法令上の制限",
+    "mapping": "native_chapter",
+    "native_order": 15,
     "legacy_ids": [],
     "link_kind": "pdf",
     "storage_path": "wakaru_bunyabetsu_hourei.pdf"
@@ -4543,24 +2867,9 @@
       "law_eab8632d96"
     ],
     "title": "農地法",
-    "native_path": "Chapter4 農地法 / Section1-2 最大の目的は「食料の確保」・農地も自由に売却できない",
-    "mapping": "native_section",
-    "native_order": 49,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_bunyabetsu_hourei.pdf"
-  },
-  {
-    "id": "wakaru_bunyabetsu_bonus_2026__law_125b024f23",
-    "resource_id": "wakaru_bunyabetsu_bonus_2026",
-    "topic_id": "law_8c95545b2e",
-    "topic_ids": [
-      "law_8c95545b2e"
-    ],
-    "title": "盛土規制法",
-    "native_path": "Chapter6 盛土規制法・その他の制限法令 / Section1-3 危険な盛土等を規制するための法律の全体像～その他の制限法令",
-    "mapping": "native_section",
-    "native_order": 50,
+    "native_path": "法令上の制限",
+    "mapping": "native_chapter",
+    "native_order": 16,
     "legacy_ids": [],
     "link_kind": "pdf",
     "storage_path": "wakaru_bunyabetsu_hourei.pdf"
@@ -4573,24 +2882,24 @@
       "law_f85dea5b8a"
     ],
     "title": "土地区画整理法",
-    "native_path": "Chapter5 土地区画整理法 / Section2 土地区画整理事業はどのように進めるの？",
-    "mapping": "native_section",
-    "native_order": 51,
+    "native_path": "法令上の制限",
+    "mapping": "native_chapter",
+    "native_order": 17,
     "legacy_ids": [],
     "link_kind": "pdf",
     "storage_path": "wakaru_bunyabetsu_hourei.pdf"
   },
   {
-    "id": "wakaru_bunyabetsu_bonus_2026__law_8c95545b2e",
+    "id": "wakaru_bunyabetsu_bonus_2026__law_125b024f23",
     "resource_id": "wakaru_bunyabetsu_bonus_2026",
     "topic_id": "law_8c95545b2e",
     "topic_ids": [
       "law_8c95545b2e"
     ],
-    "title": "その他の法令上の制限",
-    "native_path": "Chapter6 盛土規制法・その他の制限法令 / Section1-3 危険な盛土等を規制するための法律の全体像～その他の制限法令",
-    "mapping": "native_section",
-    "native_order": 52,
+    "title": "盛土規制法・その他の制限法令",
+    "native_path": "法令上の制限",
+    "mapping": "native_chapter",
+    "native_order": 18,
     "legacy_ids": [],
     "link_kind": "pdf",
     "storage_path": "wakaru_bunyabetsu_hourei.pdf"
@@ -4600,87 +2909,17 @@
     "resource_id": "wakaru_bunyabetsu_bonus_2026",
     "topic_id": "other_99b74fe5a0",
     "topic_ids": [
-      "other_99b74fe5a0"
-    ],
-    "title": "不動産取得税",
-    "native_path": "Chapter1 不動産に関する税金 / Section2 不動産を取得したときに課される税金",
-    "mapping": "native_section",
-    "native_order": 53,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_bunyabetsu_zei.pdf"
-  },
-  {
-    "id": "wakaru_bunyabetsu_bonus_2026__other_a559687a43",
-    "resource_id": "wakaru_bunyabetsu_bonus_2026",
-    "topic_id": "other_a559687a43",
-    "topic_ids": [
-      "other_a559687a43"
-    ],
-    "title": "固定資産税",
-    "native_path": "Chapter1 不動産に関する税金 / Section3 不動産を保有しているときに課される税金",
-    "mapping": "native_section",
-    "native_order": 54,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_bunyabetsu_zei.pdf"
-  },
-  {
-    "id": "wakaru_bunyabetsu_bonus_2026__other_f3113f9af6",
-    "resource_id": "wakaru_bunyabetsu_bonus_2026",
-    "topic_id": "other_f3113f9af6",
-    "topic_ids": [
-      "other_f3113f9af6"
-    ],
-    "title": "所得税（譲渡所得）",
-    "native_path": "Chapter1 不動産に関する税金 / Section4 儲けたときに課される税金",
-    "mapping": "native_section",
-    "native_order": 55,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_bunyabetsu_zei.pdf"
-  },
-  {
-    "id": "wakaru_bunyabetsu_bonus_2026__other_8af9afa2e6",
-    "resource_id": "wakaru_bunyabetsu_bonus_2026",
-    "topic_id": "other_8af9afa2e6",
-    "topic_ids": [
-      "other_8af9afa2e6"
-    ],
-    "title": "印紙税",
-    "native_path": "Chapter1 不動産に関する税金 / Section5 その他の重要な国税",
-    "mapping": "native_section",
-    "native_order": 56,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_bunyabetsu_zei.pdf"
-  },
-  {
-    "id": "wakaru_bunyabetsu_bonus_2026__sec_85bb31c77202",
-    "resource_id": "wakaru_bunyabetsu_bonus_2026",
-    "topic_id": "other_2a21b3b2f7",
-    "topic_ids": [
-      "other_2a21b3b2f7"
-    ],
-    "title": "登録免許税",
-    "native_path": "Chapter1 不動産に関する税金 / Section5 その他の重要な国税",
-    "mapping": "native_section",
-    "native_order": 57,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_bunyabetsu_zei.pdf"
-  },
-  {
-    "id": "wakaru_bunyabetsu_bonus_2026__sec_1f9fea2a7176",
-    "resource_id": "wakaru_bunyabetsu_bonus_2026",
-    "topic_id": "other_3bfa57c660",
-    "topic_ids": [
+      "other_99b74fe5a0",
+      "other_a559687a43",
+      "other_f3113f9af6",
+      "other_8af9afa2e6",
+      "other_2a21b3b2f7",
       "other_3bfa57c660"
     ],
-    "title": "贈与税",
-    "native_path": "Chapter1 不動産に関する税金 / Section5 その他の重要な国税",
-    "mapping": "native_section",
-    "native_order": 58,
+    "title": "不動産に関する税金",
+    "native_path": "税・その他",
+    "mapping": "native_chapter",
+    "native_order": 19,
     "legacy_ids": [],
     "link_kind": "pdf",
     "storage_path": "wakaru_bunyabetsu_zei.pdf"
@@ -4690,73 +2929,17 @@
     "resource_id": "wakaru_bunyabetsu_bonus_2026",
     "topic_id": "other_241d9d5512",
     "topic_ids": [
-      "other_241d9d5512"
-    ],
-    "title": "不動産鑑定評価",
-    "native_path": "Chapter2 税金以外の関連知識 / Section1 土地・建物の値段の決め方",
-    "mapping": "native_section",
-    "native_order": 59,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_bunyabetsu_zei.pdf"
-  },
-  {
-    "id": "wakaru_bunyabetsu_bonus_2026__other_cba29a763e",
-    "resource_id": "wakaru_bunyabetsu_bonus_2026",
-    "topic_id": "other_cba29a763e",
-    "topic_ids": [
-      "other_cba29a763e"
-    ],
-    "title": "地価公示法",
-    "native_path": "Chapter2 税金以外の関連知識 / Section1 土地・建物の値段の決め方",
-    "mapping": "native_section",
-    "native_order": 60,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_bunyabetsu_zei.pdf"
-  },
-  {
-    "id": "wakaru_bunyabetsu_bonus_2026__other_648e7c9dde",
-    "resource_id": "wakaru_bunyabetsu_bonus_2026",
-    "topic_id": "other_648e7c9dde",
-    "topic_ids": [
-      "other_648e7c9dde"
-    ],
-    "title": "住宅金融支援機構",
-    "native_path": "Chapter2 税金以外の関連知識 / Section2 長期固定住宅ローンの支え手",
-    "mapping": "native_section",
-    "native_order": 61,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_bunyabetsu_zei.pdf"
-  },
-  {
-    "id": "wakaru_bunyabetsu_bonus_2026__other_4fa1abf88d",
-    "resource_id": "wakaru_bunyabetsu_bonus_2026",
-    "topic_id": "other_4fa1abf88d",
-    "topic_ids": [
-      "other_4fa1abf88d"
-    ],
-    "title": "景品表示法",
-    "native_path": "Chapter2 税金以外の関連知識 / Section3 “インチキ広告”にだまされないぞ",
-    "mapping": "native_section",
-    "native_order": 62,
-    "legacy_ids": [],
-    "link_kind": "pdf",
-    "storage_path": "wakaru_bunyabetsu_zei.pdf"
-  },
-  {
-    "id": "wakaru_bunyabetsu_bonus_2026__other_d2d12048e9",
-    "resource_id": "wakaru_bunyabetsu_bonus_2026",
-    "topic_id": "other_010108fbb9",
-    "topic_ids": [
+      "other_241d9d5512",
+      "other_cba29a763e",
+      "other_648e7c9dde",
+      "other_4fa1abf88d",
       "other_010108fbb9",
       "other_cd18d7dd34"
     ],
-    "title": "土地・建物",
-    "native_path": "Chapter2 税金以外の関連知識 / Section5 住みよい土地や建物とはどんなもの？",
-    "mapping": "native_section",
-    "native_order": 63,
+    "title": "税金以外の関連知識",
+    "native_path": "税・その他",
+    "mapping": "native_chapter",
+    "native_order": 20,
     "legacy_ids": [],
     "link_kind": "pdf",
     "storage_path": "wakaru_bunyabetsu_zei.pdf"
@@ -7861,6 +6044,58 @@
     "link_kind": "video"
   },
   {
+    "id": "youtube_lectures__business_e9a3236db9",
+    "resource_id": "youtube_lectures",
+    "topic_id": "business_e9a3236db9",
+    "topic_ids": [
+      "business_e9a3236db9",
+      "business_ec037d3765"
+    ],
+    "title": "宅建業法の基本",
+    "native_path": "宅建業法 / YouTube講義",
+    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNfjuVoOvZI9PoQogcVadH-S&si=l5_wC6-x8nszuHn6",
+    "mapping": "native_section",
+    "native_order": 0,
+    "legacy_ids": [],
+    "link_kind": "video"
+  },
+  {
+    "id": "youtube_lectures__law_d7807f7dc8",
+    "resource_id": "youtube_lectures",
+    "topic_id": "law_d7807f7dc8",
+    "topic_ids": [
+      "law_d7807f7dc8",
+      "law_4c9fec8184"
+    ],
+    "title": "都市計画法",
+    "native_path": "法令上の制限 / YouTube講義",
+    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNc5sV5dyCgNONfW7tj890wx&si=ZeXcF5nLGxjrRyqG",
+    "mapping": "native_section",
+    "native_order": 0,
+    "legacy_ids": [],
+    "link_kind": "video"
+  },
+  {
+    "id": "youtube_lectures__other_tax",
+    "resource_id": "youtube_lectures",
+    "topic_id": "other_99b74fe5a0",
+    "topic_ids": [
+      "other_99b74fe5a0",
+      "other_a559687a43",
+      "other_f3113f9af6",
+      "other_8af9afa2e6",
+      "other_2a21b3b2f7",
+      "other_3bfa57c660"
+    ],
+    "title": "不動産に関する税金",
+    "native_path": "税・その他 / YouTube講義",
+    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNdegqrDAJ4gmJmkw1zwFQqn&si=jC6pqJYpISj5qstG",
+    "mapping": "native_section",
+    "native_order": 0,
+    "legacy_ids": [],
+    "link_kind": "video"
+  },
+  {
     "id": "youtube_lectures__rights_intent",
     "resource_id": "youtube_lectures",
     "topic_id": "rights_intent",
@@ -7870,6 +6105,52 @@
     "title": "意思表示",
     "native_path": "権利関係 / YouTube講義",
     "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNcI3SQGXTFWNX8S6_EvM4ir&si=IB4BcYGtT1A29uru",
+    "mapping": "native_section",
+    "native_order": 1,
+    "legacy_ids": [],
+    "link_kind": "video"
+  },
+  {
+    "id": "youtube_lectures__business_license",
+    "resource_id": "youtube_lectures",
+    "topic_id": "business_license",
+    "topic_ids": [
+      "business_license"
+    ],
+    "title": "免許",
+    "native_path": "宅建業法 / YouTube講義",
+    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNfjuVoOvZI9PoQogcVadH-S&si=l5_wC6-x8nszuHn6",
+    "mapping": "native_section",
+    "native_order": 1,
+    "legacy_ids": [],
+    "link_kind": "video"
+  },
+  {
+    "id": "youtube_lectures__law_a3cb43ccf8",
+    "resource_id": "youtube_lectures",
+    "topic_id": "law_a3cb43ccf8",
+    "topic_ids": [
+      "law_a3cb43ccf8",
+      "law_cd2732d454"
+    ],
+    "title": "建築基準法",
+    "native_path": "法令上の制限 / YouTube講義",
+    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNc5sV5dyCgNONfW7tj890wx&si=ZeXcF5nLGxjrRyqG",
+    "mapping": "native_section",
+    "native_order": 1,
+    "legacy_ids": [],
+    "link_kind": "video"
+  },
+  {
+    "id": "youtube_lectures__other_241d9d5512",
+    "resource_id": "youtube_lectures",
+    "topic_id": "other_241d9d5512",
+    "topic_ids": [
+      "other_241d9d5512"
+    ],
+    "title": "不動産鑑定評価基準",
+    "native_path": "税・その他 / YouTube講義",
+    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNdegqrDAJ4gmJmkw1zwFQqn&si=jC6pqJYpISj5qstG",
     "mapping": "native_section",
     "native_order": 1,
     "legacy_ids": [],
@@ -7891,6 +6172,51 @@
     "link_kind": "video"
   },
   {
+    "id": "youtube_lectures__business_agent",
+    "resource_id": "youtube_lectures",
+    "topic_id": "business_agent",
+    "topic_ids": [
+      "business_agent"
+    ],
+    "title": "宅地建物取引士",
+    "native_path": "宅建業法 / YouTube講義",
+    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNfjuVoOvZI9PoQogcVadH-S&si=l5_wC6-x8nszuHn6",
+    "mapping": "native_section",
+    "native_order": 2,
+    "legacy_ids": [],
+    "link_kind": "video"
+  },
+  {
+    "id": "youtube_lectures__law_f9e7c42521",
+    "resource_id": "youtube_lectures",
+    "topic_id": "law_f9e7c42521",
+    "topic_ids": [
+      "law_f9e7c42521"
+    ],
+    "title": "国土利用計画法",
+    "native_path": "法令上の制限 / YouTube講義",
+    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNc5sV5dyCgNONfW7tj890wx&si=ZeXcF5nLGxjrRyqG",
+    "mapping": "native_section",
+    "native_order": 2,
+    "legacy_ids": [],
+    "link_kind": "video"
+  },
+  {
+    "id": "youtube_lectures__other_cba29a763e",
+    "resource_id": "youtube_lectures",
+    "topic_id": "other_cba29a763e",
+    "topic_ids": [
+      "other_cba29a763e"
+    ],
+    "title": "地価公示法",
+    "native_path": "税・その他 / YouTube講義",
+    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNdegqrDAJ4gmJmkw1zwFQqn&si=jC6pqJYpISj5qstG",
+    "mapping": "native_section",
+    "native_order": 2,
+    "legacy_ids": [],
+    "link_kind": "video"
+  },
+  {
     "id": "youtube_lectures__rights_limitation",
     "resource_id": "youtube_lectures",
     "topic_id": "rights_limitation",
@@ -7906,6 +6232,51 @@
     "link_kind": "video"
   },
   {
+    "id": "youtube_lectures__business_3c8b8e6aca",
+    "resource_id": "youtube_lectures",
+    "topic_id": "business_3c8b8e6aca",
+    "topic_ids": [
+      "business_3c8b8e6aca"
+    ],
+    "title": "営業保証金",
+    "native_path": "宅建業法 / YouTube講義",
+    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNfjuVoOvZI9PoQogcVadH-S&si=l5_wC6-x8nszuHn6",
+    "mapping": "native_section",
+    "native_order": 3,
+    "legacy_ids": [],
+    "link_kind": "video"
+  },
+  {
+    "id": "youtube_lectures__law_eab8632d96",
+    "resource_id": "youtube_lectures",
+    "topic_id": "law_eab8632d96",
+    "topic_ids": [
+      "law_eab8632d96"
+    ],
+    "title": "農地法",
+    "native_path": "法令上の制限 / YouTube講義",
+    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNc5sV5dyCgNONfW7tj890wx&si=ZeXcF5nLGxjrRyqG",
+    "mapping": "native_section",
+    "native_order": 3,
+    "legacy_ids": [],
+    "link_kind": "video"
+  },
+  {
+    "id": "youtube_lectures__other_648e7c9dde",
+    "resource_id": "youtube_lectures",
+    "topic_id": "other_648e7c9dde",
+    "topic_ids": [
+      "other_648e7c9dde"
+    ],
+    "title": "住宅金融支援機構",
+    "native_path": "税・その他 / YouTube講義",
+    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNdegqrDAJ4gmJmkw1zwFQqn&si=jC6pqJYpISj5qstG",
+    "mapping": "native_section",
+    "native_order": 3,
+    "legacy_ids": [],
+    "link_kind": "video"
+  },
+  {
     "id": "youtube_lectures__rights_d0b3d40e24",
     "resource_id": "youtube_lectures",
     "topic_id": "rights_d0b3d40e24",
@@ -7915,6 +6286,51 @@
     "title": "債務不履行・解除・危険負担",
     "native_path": "権利関係 / YouTube講義",
     "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNcI3SQGXTFWNX8S6_EvM4ir&si=IB4BcYGtT1A29uru",
+    "mapping": "native_section",
+    "native_order": 4,
+    "legacy_ids": [],
+    "link_kind": "video"
+  },
+  {
+    "id": "youtube_lectures__business_12b28bb9d2",
+    "resource_id": "youtube_lectures",
+    "topic_id": "business_12b28bb9d2",
+    "topic_ids": [
+      "business_12b28bb9d2"
+    ],
+    "title": "保証協会",
+    "native_path": "宅建業法 / YouTube講義",
+    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNfjuVoOvZI9PoQogcVadH-S&si=l5_wC6-x8nszuHn6",
+    "mapping": "native_section",
+    "native_order": 4,
+    "legacy_ids": [],
+    "link_kind": "video"
+  },
+  {
+    "id": "youtube_lectures__law_8c95545b2e",
+    "resource_id": "youtube_lectures",
+    "topic_id": "law_8c95545b2e",
+    "topic_ids": [
+      "law_8c95545b2e"
+    ],
+    "title": "盛土規制法",
+    "native_path": "法令上の制限 / YouTube講義",
+    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNc5sV5dyCgNONfW7tj890wx&si=ZeXcF5nLGxjrRyqG",
+    "mapping": "native_section",
+    "native_order": 4,
+    "legacy_ids": [],
+    "link_kind": "video"
+  },
+  {
+    "id": "youtube_lectures__other_4fa1abf88d",
+    "resource_id": "youtube_lectures",
+    "topic_id": "other_4fa1abf88d",
+    "topic_ids": [
+      "other_4fa1abf88d"
+    ],
+    "title": "景品表示法",
+    "native_path": "税・その他 / YouTube講義",
+    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNdegqrDAJ4gmJmkw1zwFQqn&si=jC6pqJYpISj5qstG",
     "mapping": "native_section",
     "native_order": 4,
     "legacy_ids": [],
@@ -7937,6 +6353,50 @@
     "link_kind": "video"
   },
   {
+    "id": "youtube_lectures__business_990979c912",
+    "resource_id": "youtube_lectures",
+    "topic_id": "business_990979c912",
+    "topic_ids": [
+      "business_990979c912",
+      "business_a1b167a8db"
+    ],
+    "title": "業務上の規制・事務所案内等の規制",
+    "native_path": "宅建業法 / YouTube講義",
+    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNfjuVoOvZI9PoQogcVadH-S&si=l5_wC6-x8nszuHn6",
+    "mapping": "native_section",
+    "native_order": 5,
+    "legacy_ids": [],
+    "link_kind": "video"
+  },
+  {
+    "id": "youtube_lectures__law_f85dea5b8a",
+    "resource_id": "youtube_lectures",
+    "topic_id": "law_f85dea5b8a",
+    "topic_ids": [
+      "law_f85dea5b8a"
+    ],
+    "title": "土地区画整理法",
+    "native_path": "法令上の制限 / YouTube講義",
+    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNc5sV5dyCgNONfW7tj890wx&si=ZeXcF5nLGxjrRyqG",
+    "mapping": "native_section",
+    "native_order": 5,
+    "legacy_ids": [],
+    "link_kind": "video"
+  },
+  {
+    "id": "youtube_lectures__other_statistics",
+    "resource_id": "youtube_lectures",
+    "topic_id": null,
+    "topic_ids": [],
+    "title": "統計",
+    "native_path": "税・その他 / YouTube講義",
+    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNdegqrDAJ4gmJmkw1zwFQqn&si=jC6pqJYpISj5qstG",
+    "mapping": "native_section",
+    "native_order": 5,
+    "legacy_ids": [],
+    "link_kind": "video"
+  },
+  {
     "id": "youtube_lectures__rights_97c9209e61",
     "resource_id": "youtube_lectures",
     "topic_id": "rights_97c9209e61",
@@ -7946,6 +6406,37 @@
     "title": "抵当権",
     "native_path": "権利関係 / YouTube講義",
     "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNcI3SQGXTFWNX8S6_EvM4ir&si=IB4BcYGtT1A29uru",
+    "mapping": "native_section",
+    "native_order": 6,
+    "legacy_ids": [],
+    "link_kind": "video"
+  },
+  {
+    "id": "youtube_lectures__business_b484e7ce9c",
+    "resource_id": "youtube_lectures",
+    "topic_id": "business_b484e7ce9c",
+    "topic_ids": [
+      "business_b484e7ce9c"
+    ],
+    "title": "34条書面",
+    "native_path": "宅建業法 / YouTube講義",
+    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNfjuVoOvZI9PoQogcVadH-S&si=l5_wC6-x8nszuHn6",
+    "mapping": "native_section",
+    "native_order": 6,
+    "legacy_ids": [],
+    "link_kind": "video"
+  },
+  {
+    "id": "youtube_lectures__other_land_building",
+    "resource_id": "youtube_lectures",
+    "topic_id": "other_010108fbb9",
+    "topic_ids": [
+      "other_010108fbb9",
+      "other_cd18d7dd34"
+    ],
+    "title": "土地・建物",
+    "native_path": "税・その他 / YouTube講義",
+    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNdegqrDAJ4gmJmkw1zwFQqn&si=jC6pqJYpISj5qstG",
     "mapping": "native_section",
     "native_order": 6,
     "legacy_ids": [],
@@ -7967,6 +6458,21 @@
     "link_kind": "video"
   },
   {
+    "id": "youtube_lectures__business_2192a0359a",
+    "resource_id": "youtube_lectures",
+    "topic_id": "business_2192a0359a",
+    "topic_ids": [
+      "business_2192a0359a"
+    ],
+    "title": "35条書面",
+    "native_path": "宅建業法 / YouTube講義",
+    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNfjuVoOvZI9PoQogcVadH-S&si=l5_wC6-x8nszuHn6",
+    "mapping": "native_section",
+    "native_order": 7,
+    "legacy_ids": [],
+    "link_kind": "video"
+  },
+  {
     "id": "youtube_lectures__rights_90b1750c9a",
     "resource_id": "youtube_lectures",
     "topic_id": "rights_90b1750c9a",
@@ -7976,6 +6482,21 @@
     "title": "賃貸借",
     "native_path": "権利関係 / YouTube講義",
     "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNcI3SQGXTFWNX8S6_EvM4ir&si=IB4BcYGtT1A29uru",
+    "mapping": "native_section",
+    "native_order": 8,
+    "legacy_ids": [],
+    "link_kind": "video"
+  },
+  {
+    "id": "youtube_lectures__business_c808821440",
+    "resource_id": "youtube_lectures",
+    "topic_id": "business_c808821440",
+    "topic_ids": [
+      "business_c808821440"
+    ],
+    "title": "37条書面",
+    "native_path": "宅建業法 / YouTube講義",
+    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNfjuVoOvZI9PoQogcVadH-S&si=l5_wC6-x8nszuHn6",
     "mapping": "native_section",
     "native_order": 8,
     "legacy_ids": [],
@@ -7997,6 +6518,22 @@
     "link_kind": "video"
   },
   {
+    "id": "youtube_lectures__business_128c05aa94",
+    "resource_id": "youtube_lectures",
+    "topic_id": "business_128c05aa94",
+    "topic_ids": [
+      "business_128c05aa94",
+      "business_990979c912"
+    ],
+    "title": "広告・その他の規制",
+    "native_path": "宅建業法 / YouTube講義",
+    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNfjuVoOvZI9PoQogcVadH-S&si=l5_wC6-x8nszuHn6",
+    "mapping": "native_section",
+    "native_order": 9,
+    "legacy_ids": [],
+    "link_kind": "video"
+  },
+  {
     "id": "youtube_lectures__rights_88f1ee6b2d",
     "resource_id": "youtube_lectures",
     "topic_id": "rights_88f1ee6b2d",
@@ -8006,6 +6543,21 @@
     "title": "借地借家法（借家）",
     "native_path": "権利関係 / YouTube講義",
     "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNcI3SQGXTFWNX8S6_EvM4ir&si=IB4BcYGtT1A29uru",
+    "mapping": "native_section",
+    "native_order": 10,
+    "legacy_ids": [],
+    "link_kind": "video"
+  },
+  {
+    "id": "youtube_lectures__business_9cf105a9bb",
+    "resource_id": "youtube_lectures",
+    "topic_id": "business_9cf105a9bb",
+    "topic_ids": [
+      "business_9cf105a9bb"
+    ],
+    "title": "8種制限",
+    "native_path": "宅建業法 / YouTube講義",
+    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNfjuVoOvZI9PoQogcVadH-S&si=l5_wC6-x8nszuHn6",
     "mapping": "native_section",
     "native_order": 10,
     "legacy_ids": [],
@@ -8028,6 +6580,21 @@
     "link_kind": "video"
   },
   {
+    "id": "youtube_lectures__business_a5f12385c3",
+    "resource_id": "youtube_lectures",
+    "topic_id": "business_a5f12385c3",
+    "topic_ids": [
+      "business_a5f12385c3"
+    ],
+    "title": "報酬に関する制限",
+    "native_path": "宅建業法 / YouTube講義",
+    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNfjuVoOvZI9PoQogcVadH-S&si=l5_wC6-x8nszuHn6",
+    "mapping": "native_section",
+    "native_order": 11,
+    "legacy_ids": [],
+    "link_kind": "video"
+  },
+  {
     "id": "youtube_lectures__rights_2430e010c0",
     "resource_id": "youtube_lectures",
     "topic_id": "rights_2430e010c0",
@@ -8037,6 +6604,21 @@
     "title": "不動産登記法",
     "native_path": "権利関係 / YouTube講義",
     "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNcI3SQGXTFWNX8S6_EvM4ir&si=IB4BcYGtT1A29uru",
+    "mapping": "native_section",
+    "native_order": 12,
+    "legacy_ids": [],
+    "link_kind": "video"
+  },
+  {
+    "id": "youtube_lectures__business_7d39c7f89d",
+    "resource_id": "youtube_lectures",
+    "topic_id": "business_7d39c7f89d",
+    "topic_ids": [
+      "business_7d39c7f89d"
+    ],
+    "title": "監督・罰則",
+    "native_path": "宅建業法 / YouTube講義",
+    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNfjuVoOvZI9PoQogcVadH-S&si=l5_wC6-x8nszuHn6",
     "mapping": "native_section",
     "native_order": 12,
     "legacy_ids": [],
@@ -8053,6 +6635,21 @@
     "title": "弁済・相殺・債権譲渡",
     "native_path": "権利関係 / YouTube講義",
     "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNcI3SQGXTFWNX8S6_EvM4ir&si=IB4BcYGtT1A29uru",
+    "mapping": "native_section",
+    "native_order": 13,
+    "legacy_ids": [],
+    "link_kind": "video"
+  },
+  {
+    "id": "youtube_lectures__business_warranty",
+    "resource_id": "youtube_lectures",
+    "topic_id": "business_warranty",
+    "topic_ids": [
+      "business_warranty"
+    ],
+    "title": "住宅瑕疵担保履行法",
+    "native_path": "宅建業法 / YouTube講義",
+    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNfjuVoOvZI9PoQogcVadH-S&si=l5_wC6-x8nszuHn6",
     "mapping": "native_section",
     "native_order": 13,
     "legacy_ids": [],
@@ -8087,420 +6684,6 @@
     "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNcI3SQGXTFWNX8S6_EvM4ir&si=IB4BcYGtT1A29uru",
     "mapping": "native_section",
     "native_order": 15,
-    "legacy_ids": [],
-    "link_kind": "video"
-  },
-  {
-    "id": "youtube_lectures__business_e9a3236db9",
-    "resource_id": "youtube_lectures",
-    "topic_id": "business_e9a3236db9",
-    "topic_ids": [
-      "business_e9a3236db9",
-      "business_ec037d3765"
-    ],
-    "title": "宅建業法の基本",
-    "native_path": "宅建業法 / YouTube講義",
-    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNfjuVoOvZI9PoQogcVadH-S&si=l5_wC6-x8nszuHn6",
-    "mapping": "native_section",
-    "native_order": 0,
-    "legacy_ids": [],
-    "link_kind": "video"
-  },
-  {
-    "id": "youtube_lectures__business_license",
-    "resource_id": "youtube_lectures",
-    "topic_id": "business_license",
-    "topic_ids": [
-      "business_license"
-    ],
-    "title": "免許",
-    "native_path": "宅建業法 / YouTube講義",
-    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNfjuVoOvZI9PoQogcVadH-S&si=l5_wC6-x8nszuHn6",
-    "mapping": "native_section",
-    "native_order": 1,
-    "legacy_ids": [],
-    "link_kind": "video"
-  },
-  {
-    "id": "youtube_lectures__business_agent",
-    "resource_id": "youtube_lectures",
-    "topic_id": "business_agent",
-    "topic_ids": [
-      "business_agent"
-    ],
-    "title": "宅地建物取引士",
-    "native_path": "宅建業法 / YouTube講義",
-    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNfjuVoOvZI9PoQogcVadH-S&si=l5_wC6-x8nszuHn6",
-    "mapping": "native_section",
-    "native_order": 2,
-    "legacy_ids": [],
-    "link_kind": "video"
-  },
-  {
-    "id": "youtube_lectures__business_3c8b8e6aca",
-    "resource_id": "youtube_lectures",
-    "topic_id": "business_3c8b8e6aca",
-    "topic_ids": [
-      "business_3c8b8e6aca"
-    ],
-    "title": "営業保証金",
-    "native_path": "宅建業法 / YouTube講義",
-    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNfjuVoOvZI9PoQogcVadH-S&si=l5_wC6-x8nszuHn6",
-    "mapping": "native_section",
-    "native_order": 3,
-    "legacy_ids": [],
-    "link_kind": "video"
-  },
-  {
-    "id": "youtube_lectures__business_12b28bb9d2",
-    "resource_id": "youtube_lectures",
-    "topic_id": "business_12b28bb9d2",
-    "topic_ids": [
-      "business_12b28bb9d2"
-    ],
-    "title": "保証協会",
-    "native_path": "宅建業法 / YouTube講義",
-    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNfjuVoOvZI9PoQogcVadH-S&si=l5_wC6-x8nszuHn6",
-    "mapping": "native_section",
-    "native_order": 4,
-    "legacy_ids": [],
-    "link_kind": "video"
-  },
-  {
-    "id": "youtube_lectures__business_990979c912",
-    "resource_id": "youtube_lectures",
-    "topic_id": "business_990979c912",
-    "topic_ids": [
-      "business_990979c912",
-      "business_a1b167a8db"
-    ],
-    "title": "業務上の規制・事務所案内等の規制",
-    "native_path": "宅建業法 / YouTube講義",
-    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNfjuVoOvZI9PoQogcVadH-S&si=l5_wC6-x8nszuHn6",
-    "mapping": "native_section",
-    "native_order": 5,
-    "legacy_ids": [],
-    "link_kind": "video"
-  },
-  {
-    "id": "youtube_lectures__business_b484e7ce9c",
-    "resource_id": "youtube_lectures",
-    "topic_id": "business_b484e7ce9c",
-    "topic_ids": [
-      "business_b484e7ce9c"
-    ],
-    "title": "34条書面",
-    "native_path": "宅建業法 / YouTube講義",
-    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNfjuVoOvZI9PoQogcVadH-S&si=l5_wC6-x8nszuHn6",
-    "mapping": "native_section",
-    "native_order": 6,
-    "legacy_ids": [],
-    "link_kind": "video"
-  },
-  {
-    "id": "youtube_lectures__business_2192a0359a",
-    "resource_id": "youtube_lectures",
-    "topic_id": "business_2192a0359a",
-    "topic_ids": [
-      "business_2192a0359a"
-    ],
-    "title": "35条書面",
-    "native_path": "宅建業法 / YouTube講義",
-    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNfjuVoOvZI9PoQogcVadH-S&si=l5_wC6-x8nszuHn6",
-    "mapping": "native_section",
-    "native_order": 7,
-    "legacy_ids": [],
-    "link_kind": "video"
-  },
-  {
-    "id": "youtube_lectures__business_c808821440",
-    "resource_id": "youtube_lectures",
-    "topic_id": "business_c808821440",
-    "topic_ids": [
-      "business_c808821440"
-    ],
-    "title": "37条書面",
-    "native_path": "宅建業法 / YouTube講義",
-    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNfjuVoOvZI9PoQogcVadH-S&si=l5_wC6-x8nszuHn6",
-    "mapping": "native_section",
-    "native_order": 8,
-    "legacy_ids": [],
-    "link_kind": "video"
-  },
-  {
-    "id": "youtube_lectures__business_128c05aa94",
-    "resource_id": "youtube_lectures",
-    "topic_id": "business_128c05aa94",
-    "topic_ids": [
-      "business_128c05aa94",
-      "business_990979c912"
-    ],
-    "title": "広告・その他の規制",
-    "native_path": "宅建業法 / YouTube講義",
-    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNfjuVoOvZI9PoQogcVadH-S&si=l5_wC6-x8nszuHn6",
-    "mapping": "native_section",
-    "native_order": 9,
-    "legacy_ids": [],
-    "link_kind": "video"
-  },
-  {
-    "id": "youtube_lectures__business_9cf105a9bb",
-    "resource_id": "youtube_lectures",
-    "topic_id": "business_9cf105a9bb",
-    "topic_ids": [
-      "business_9cf105a9bb"
-    ],
-    "title": "8種制限",
-    "native_path": "宅建業法 / YouTube講義",
-    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNfjuVoOvZI9PoQogcVadH-S&si=l5_wC6-x8nszuHn6",
-    "mapping": "native_section",
-    "native_order": 10,
-    "legacy_ids": [],
-    "link_kind": "video"
-  },
-  {
-    "id": "youtube_lectures__business_a5f12385c3",
-    "resource_id": "youtube_lectures",
-    "topic_id": "business_a5f12385c3",
-    "topic_ids": [
-      "business_a5f12385c3"
-    ],
-    "title": "報酬に関する制限",
-    "native_path": "宅建業法 / YouTube講義",
-    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNfjuVoOvZI9PoQogcVadH-S&si=l5_wC6-x8nszuHn6",
-    "mapping": "native_section",
-    "native_order": 11,
-    "legacy_ids": [],
-    "link_kind": "video"
-  },
-  {
-    "id": "youtube_lectures__business_7d39c7f89d",
-    "resource_id": "youtube_lectures",
-    "topic_id": "business_7d39c7f89d",
-    "topic_ids": [
-      "business_7d39c7f89d"
-    ],
-    "title": "監督・罰則",
-    "native_path": "宅建業法 / YouTube講義",
-    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNfjuVoOvZI9PoQogcVadH-S&si=l5_wC6-x8nszuHn6",
-    "mapping": "native_section",
-    "native_order": 12,
-    "legacy_ids": [],
-    "link_kind": "video"
-  },
-  {
-    "id": "youtube_lectures__business_warranty",
-    "resource_id": "youtube_lectures",
-    "topic_id": "business_warranty",
-    "topic_ids": [
-      "business_warranty"
-    ],
-    "title": "住宅瑕疵担保履行法",
-    "native_path": "宅建業法 / YouTube講義",
-    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNfjuVoOvZI9PoQogcVadH-S&si=l5_wC6-x8nszuHn6",
-    "mapping": "native_section",
-    "native_order": 13,
-    "legacy_ids": [],
-    "link_kind": "video"
-  },
-  {
-    "id": "youtube_lectures__law_d7807f7dc8",
-    "resource_id": "youtube_lectures",
-    "topic_id": "law_d7807f7dc8",
-    "topic_ids": [
-      "law_d7807f7dc8",
-      "law_4c9fec8184"
-    ],
-    "title": "都市計画法",
-    "native_path": "法令上の制限 / YouTube講義",
-    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNc5sV5dyCgNONfW7tj890wx&si=ZeXcF5nLGxjrRyqG",
-    "mapping": "native_section",
-    "native_order": 0,
-    "legacy_ids": [],
-    "link_kind": "video"
-  },
-  {
-    "id": "youtube_lectures__law_a3cb43ccf8",
-    "resource_id": "youtube_lectures",
-    "topic_id": "law_a3cb43ccf8",
-    "topic_ids": [
-      "law_a3cb43ccf8",
-      "law_cd2732d454"
-    ],
-    "title": "建築基準法",
-    "native_path": "法令上の制限 / YouTube講義",
-    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNc5sV5dyCgNONfW7tj890wx&si=ZeXcF5nLGxjrRyqG",
-    "mapping": "native_section",
-    "native_order": 1,
-    "legacy_ids": [],
-    "link_kind": "video"
-  },
-  {
-    "id": "youtube_lectures__law_f9e7c42521",
-    "resource_id": "youtube_lectures",
-    "topic_id": "law_f9e7c42521",
-    "topic_ids": [
-      "law_f9e7c42521"
-    ],
-    "title": "国土利用計画法",
-    "native_path": "法令上の制限 / YouTube講義",
-    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNc5sV5dyCgNONfW7tj890wx&si=ZeXcF5nLGxjrRyqG",
-    "mapping": "native_section",
-    "native_order": 2,
-    "legacy_ids": [],
-    "link_kind": "video"
-  },
-  {
-    "id": "youtube_lectures__law_eab8632d96",
-    "resource_id": "youtube_lectures",
-    "topic_id": "law_eab8632d96",
-    "topic_ids": [
-      "law_eab8632d96"
-    ],
-    "title": "農地法",
-    "native_path": "法令上の制限 / YouTube講義",
-    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNc5sV5dyCgNONfW7tj890wx&si=ZeXcF5nLGxjrRyqG",
-    "mapping": "native_section",
-    "native_order": 3,
-    "legacy_ids": [],
-    "link_kind": "video"
-  },
-  {
-    "id": "youtube_lectures__law_8c95545b2e",
-    "resource_id": "youtube_lectures",
-    "topic_id": "law_8c95545b2e",
-    "topic_ids": [
-      "law_8c95545b2e"
-    ],
-    "title": "盛土規制法",
-    "native_path": "法令上の制限 / YouTube講義",
-    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNc5sV5dyCgNONfW7tj890wx&si=ZeXcF5nLGxjrRyqG",
-    "mapping": "native_section",
-    "native_order": 4,
-    "legacy_ids": [],
-    "link_kind": "video"
-  },
-  {
-    "id": "youtube_lectures__law_f85dea5b8a",
-    "resource_id": "youtube_lectures",
-    "topic_id": "law_f85dea5b8a",
-    "topic_ids": [
-      "law_f85dea5b8a"
-    ],
-    "title": "土地区画整理法",
-    "native_path": "法令上の制限 / YouTube講義",
-    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNc5sV5dyCgNONfW7tj890wx&si=ZeXcF5nLGxjrRyqG",
-    "mapping": "native_section",
-    "native_order": 5,
-    "legacy_ids": [],
-    "link_kind": "video"
-  },
-  {
-    "id": "youtube_lectures__other_tax",
-    "resource_id": "youtube_lectures",
-    "topic_id": "other_99b74fe5a0",
-    "topic_ids": [
-      "other_99b74fe5a0",
-      "other_a559687a43",
-      "other_f3113f9af6",
-      "other_8af9afa2e6",
-      "other_2a21b3b2f7",
-      "other_3bfa57c660"
-    ],
-    "title": "不動産に関する税金",
-    "native_path": "税・その他 / YouTube講義",
-    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNdegqrDAJ4gmJmkw1zwFQqn&si=jC6pqJYpISj5qstG",
-    "mapping": "native_section",
-    "native_order": 0,
-    "legacy_ids": [],
-    "link_kind": "video"
-  },
-  {
-    "id": "youtube_lectures__other_241d9d5512",
-    "resource_id": "youtube_lectures",
-    "topic_id": "other_241d9d5512",
-    "topic_ids": [
-      "other_241d9d5512"
-    ],
-    "title": "不動産鑑定評価基準",
-    "native_path": "税・その他 / YouTube講義",
-    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNdegqrDAJ4gmJmkw1zwFQqn&si=jC6pqJYpISj5qstG",
-    "mapping": "native_section",
-    "native_order": 1,
-    "legacy_ids": [],
-    "link_kind": "video"
-  },
-  {
-    "id": "youtube_lectures__other_cba29a763e",
-    "resource_id": "youtube_lectures",
-    "topic_id": "other_cba29a763e",
-    "topic_ids": [
-      "other_cba29a763e"
-    ],
-    "title": "地価公示法",
-    "native_path": "税・その他 / YouTube講義",
-    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNdegqrDAJ4gmJmkw1zwFQqn&si=jC6pqJYpISj5qstG",
-    "mapping": "native_section",
-    "native_order": 2,
-    "legacy_ids": [],
-    "link_kind": "video"
-  },
-  {
-    "id": "youtube_lectures__other_648e7c9dde",
-    "resource_id": "youtube_lectures",
-    "topic_id": "other_648e7c9dde",
-    "topic_ids": [
-      "other_648e7c9dde"
-    ],
-    "title": "住宅金融支援機構",
-    "native_path": "税・その他 / YouTube講義",
-    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNdegqrDAJ4gmJmkw1zwFQqn&si=jC6pqJYpISj5qstG",
-    "mapping": "native_section",
-    "native_order": 3,
-    "legacy_ids": [],
-    "link_kind": "video"
-  },
-  {
-    "id": "youtube_lectures__other_4fa1abf88d",
-    "resource_id": "youtube_lectures",
-    "topic_id": "other_4fa1abf88d",
-    "topic_ids": [
-      "other_4fa1abf88d"
-    ],
-    "title": "景品表示法",
-    "native_path": "税・その他 / YouTube講義",
-    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNdegqrDAJ4gmJmkw1zwFQqn&si=jC6pqJYpISj5qstG",
-    "mapping": "native_section",
-    "native_order": 4,
-    "legacy_ids": [],
-    "link_kind": "video"
-  },
-  {
-    "id": "youtube_lectures__other_statistics",
-    "resource_id": "youtube_lectures",
-    "topic_id": null,
-    "topic_ids": [],
-    "title": "統計",
-    "native_path": "税・その他 / YouTube講義",
-    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNdegqrDAJ4gmJmkw1zwFQqn&si=jC6pqJYpISj5qstG",
-    "mapping": "native_section",
-    "native_order": 5,
-    "legacy_ids": [],
-    "link_kind": "video"
-  },
-  {
-    "id": "youtube_lectures__other_land_building",
-    "resource_id": "youtube_lectures",
-    "topic_id": "other_010108fbb9",
-    "topic_ids": [
-      "other_010108fbb9",
-      "other_cd18d7dd34"
-    ],
-    "title": "土地・建物",
-    "native_path": "税・その他 / YouTube講義",
-    "url": "https://youtube.com/playlist?list=PL-FBKXh8RHNdegqrDAJ4gmJmkw1zwFQqn&si=jC6pqJYpISj5qstG",
-    "mapping": "native_section",
-    "native_order": 6,
     "legacy_ids": [],
     "link_kind": "video"
   }
