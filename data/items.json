@@ -2289,7 +2289,7 @@
       "business_e9a3236db9"
     ],
     "title": "宅建業法の基本",
-    "native_path": "宅建業法 / Chapter1 宅建業者になる",
+    "native_path": "Chapter1 宅建業者になる / Section1 「宅地建物取引業」ってなに？",
     "url": null,
     "mapping": "native_section",
     "native_order": 26,
@@ -2303,7 +2303,7 @@
       "business_license"
     ],
     "title": "免許",
-    "native_path": "宅建業法 / Chapter1 宅建業者になる",
+    "native_path": "Chapter1 宅建業者になる / Section2 宅建業者は免許が必要",
     "url": null,
     "mapping": "native_section",
     "native_order": 27,
@@ -2319,7 +2319,7 @@
       "business_agent"
     ],
     "title": "宅地建物取引士",
-    "native_path": "宅建業法 / Chapter1 宅建業者になる",
+    "native_path": "Chapter2 宅建士は取引のスペシャリスト / Section1 「宅建士」って何をする人？",
     "url": null,
     "mapping": "native_section",
     "native_order": 28,
@@ -2333,7 +2333,7 @@
       "business_3c8b8e6aca"
     ],
     "title": "営業保証金",
-    "native_path": "宅建業法 / Chapter1 宅建業者になる",
+    "native_path": "Chapter3 宅建業を始める前にお金を預ける / Section1 営業保証金の仕組み",
     "url": null,
     "mapping": "native_section",
     "native_order": 29,
@@ -2347,7 +2347,7 @@
       "business_12b28bb9d2"
     ],
     "title": "保証協会",
-    "native_path": "宅建業法 / Chapter1 宅建業者になる",
+    "native_path": "Chapter3 宅建業を始める前にお金を預ける / Section2 保証協会",
     "url": null,
     "mapping": "native_section",
     "native_order": 30,
@@ -2362,7 +2362,7 @@
       "business_ec037d3765"
     ],
     "title": "事務所、案内所等に関する規制",
-    "native_path": "宅建業法 / Chapter1 宅建業者になる",
+    "native_path": "Chapter4 取引にあたって注意しなければならないこと / Section2 事務所等に関する定め",
     "url": null,
     "mapping": "native_section",
     "native_order": 31,
@@ -2376,7 +2376,7 @@
       "business_990979c912"
     ],
     "title": "業務上の規制",
-    "native_path": "宅建業法 / Chapter2 宅建業者が業務を行う",
+    "native_path": "Chapter4 取引にあたって注意しなければならないこと / Section3 業務を行うときのモラルなど",
     "url": null,
     "mapping": "native_section",
     "native_order": 32,
@@ -2390,7 +2390,7 @@
       "business_9cf105a9bb"
     ],
     "title": "自ら売主となる場合の8つの制限（8種制限）",
-    "native_path": "宅建業法 / Chapter2 宅建業者が業務を行う",
+    "native_path": "Chapter6 業者が自ら売主となるときの８種規制 / Section2 ８種規制ってどんなもの？",
     "url": null,
     "mapping": "native_section",
     "native_order": 33,
@@ -2404,7 +2404,7 @@
       "business_a5f12385c3"
     ],
     "title": "報酬に関する制限",
-    "native_path": "宅建業法 / Chapter2 宅建業者が業務を行う",
+    "native_path": "Chapter7 報酬額の制限 / Section1-2 報酬額の制限規定・報酬額の計算方法",
     "url": null,
     "mapping": "native_section",
     "native_order": 34,
@@ -2418,7 +2418,7 @@
       "business_7d39c7f89d"
     ],
     "title": "監督・罰則",
-    "native_path": "宅建業法 / Chapter2 宅建業者が業務を行う",
+    "native_path": "Chapter8 宅建業者や宅建士が受けるペナルティー / Section1-2 監督処分の種類と事由・罰則",
     "url": null,
     "mapping": "native_section",
     "native_order": 35,
@@ -2432,7 +2432,7 @@
       "business_warranty"
     ],
     "title": "住宅瑕疵担保履行法",
-    "native_path": "宅建業法 / Chapter2 宅建業者が業務を行う",
+    "native_path": "Chapter9 欠陥住宅の販売に備えて / Section1 新築住宅の瑕疵担保責任を果たすために",
     "url": null,
     "mapping": "native_section",
     "native_order": 36,
@@ -2446,7 +2446,7 @@
       "law_d7807f7dc8"
     ],
     "title": "都市計画区域・区域区分",
-    "native_path": "法令上の制限 / Chapter1 都市計画法",
+    "native_path": "Chapter1 都市計画法 / Section1-2 都市計画にはどんなものがあるのだろう",
     "url": null,
     "mapping": "native_section",
     "native_order": 37,
@@ -2460,7 +2460,7 @@
       "law_d7807f7dc8"
     ],
     "title": "用途地域・地域地区",
-    "native_path": "法令上の制限 / Chapter1 都市計画法",
+    "native_path": "Chapter1 都市計画法 / Section2 都市計画にはどんなものがあるのだろう",
     "url": null,
     "mapping": "native_section",
     "native_order": 38,
@@ -2474,7 +2474,7 @@
       "law_d7807f7dc8"
     ],
     "title": "都市施設・地区計画",
-    "native_path": "法令上の制限 / Chapter1 都市計画法",
+    "native_path": "Chapter1 都市計画法 / Section2 都市計画にはどんなものがあるのだろう",
     "url": null,
     "mapping": "native_section",
     "native_order": 39,
@@ -2488,7 +2488,7 @@
       "law_4c9fec8184"
     ],
     "title": "開発許可",
-    "native_path": "法令上の制限 / Chapter1 都市計画法",
+    "native_path": "Chapter1 都市計画法 / Section5 良好な街づくりのための造成工事",
     "url": null,
     "mapping": "native_section",
     "native_order": 40,
@@ -2502,7 +2502,7 @@
       "law_a3cb43ccf8"
     ],
     "title": "道路・接道義務",
-    "native_path": "法令上の制限 / Chapter2 建築基準法",
+    "native_path": "Chapter2 建築基準法 / Section3 都市計画区域などで守らなければならない基準",
     "url": null,
     "mapping": "native_section",
     "native_order": 41,
@@ -2516,7 +2516,7 @@
       "law_a3cb43ccf8"
     ],
     "title": "用途制限",
-    "native_path": "法令上の制限 / Chapter2 建築基準法",
+    "native_path": "Chapter2 建築基準法 / Section3 都市計画区域などで守らなければならない基準",
     "url": null,
     "mapping": "native_section",
     "native_order": 42,
@@ -2530,7 +2530,7 @@
       "law_a3cb43ccf8"
     ],
     "title": "建蔽率",
-    "native_path": "法令上の制限 / Chapter2 建築基準法",
+    "native_path": "Chapter2 建築基準法 / Section3 都市計画区域などで守らなければならない基準",
     "url": null,
     "mapping": "native_section",
     "native_order": 43,
@@ -2544,7 +2544,7 @@
       "law_a3cb43ccf8"
     ],
     "title": "容積率",
-    "native_path": "法令上の制限 / Chapter2 建築基準法",
+    "native_path": "Chapter2 建築基準法 / Section3 都市計画区域などで守らなければならない基準",
     "url": null,
     "mapping": "native_section",
     "native_order": 44,
@@ -2558,7 +2558,7 @@
       "law_cd2732d454"
     ],
     "title": "高さ制限・斜線制限",
-    "native_path": "法令上の制限 / Chapter2 建築基準法",
+    "native_path": "Chapter2 建築基準法 / Section3 都市計画区域などで守らなければならない基準",
     "url": null,
     "mapping": "native_section",
     "native_order": 45,
@@ -2572,7 +2572,7 @@
       "law_cd2732d454"
     ],
     "title": "防火地域・準防火地域",
-    "native_path": "法令上の制限 / Chapter2 建築基準法",
+    "native_path": "Chapter2 建築基準法 / Section3 都市計画区域などで守らなければならない基準",
     "url": null,
     "mapping": "native_section",
     "native_order": 46,
@@ -2586,7 +2586,7 @@
       "law_cd2732d454"
     ],
     "title": "建築確認",
-    "native_path": "法令上の制限 / Chapter2 建築基準法",
+    "native_path": "Chapter2 建築基準法 / Section4 建築基準法を守ってもらうために",
     "url": null,
     "mapping": "native_section",
     "native_order": 47,
@@ -2600,7 +2600,7 @@
       "law_f9e7c42521"
     ],
     "title": "国土利用計画法",
-    "native_path": "法令上の制限 / Chapter3 その他の法令",
+    "native_path": "Chapter3 国土利用計画法 / Section3 土地の売買は自由にできない－①",
     "url": null,
     "mapping": "native_section",
     "native_order": 48,
@@ -2614,7 +2614,7 @@
       "law_eab8632d96"
     ],
     "title": "農地法",
-    "native_path": "法令上の制限 / Chapter3 その他の法令",
+    "native_path": "Chapter4 農地法 / Section1-2 最大の目的は「食料の確保」・農地も自由に売却できない",
     "url": null,
     "mapping": "native_section",
     "native_order": 49,
@@ -2628,7 +2628,7 @@
       "law_8c95545b2e"
     ],
     "title": "盛土規制法",
-    "native_path": "法令上の制限 / Chapter3 その他の法令",
+    "native_path": "Chapter6 盛土規制法・その他の制限法令 / Section2 規制区域と造成宅地防災区域",
     "url": null,
     "mapping": "native_section",
     "native_order": 50,
@@ -2642,7 +2642,7 @@
       "law_f85dea5b8a"
     ],
     "title": "土地区画整理法",
-    "native_path": "法令上の制限 / Chapter3 その他の法令",
+    "native_path": "Chapter5 土地区画整理法 / Section2 土地区画整理事業はどのように進めるの？",
     "url": null,
     "mapping": "native_section",
     "native_order": 51,
@@ -2656,7 +2656,7 @@
       "law_8c95545b2e"
     ],
     "title": "その他の法令上の制限",
-    "native_path": "法令上の制限 / Chapter3 その他の法令",
+    "native_path": "Chapter6 盛土規制法・その他の制限法令 / Section2 規制区域と造成宅地防災区域",
     "url": null,
     "mapping": "native_section",
     "native_order": 52,
@@ -2670,7 +2670,7 @@
       "other_99b74fe5a0"
     ],
     "title": "不動産取得税",
-    "native_path": "税・その他 / Chapter1 税",
+    "native_path": "Chapter1 不動産に関する税金 / Section2 不動産を取得したときに課される税金",
     "url": null,
     "mapping": "native_section",
     "native_order": 53,
@@ -2684,7 +2684,7 @@
       "other_a559687a43"
     ],
     "title": "固定資産税",
-    "native_path": "税・その他 / Chapter1 税",
+    "native_path": "Chapter1 不動産に関する税金 / Section3 不動産を保有しているときに課される税金",
     "url": null,
     "mapping": "native_section",
     "native_order": 54,
@@ -2698,7 +2698,7 @@
       "other_f3113f9af6"
     ],
     "title": "所得税（譲渡所得）",
-    "native_path": "税・その他 / Chapter1 税",
+    "native_path": "Chapter1 不動産に関する税金 / Section4 儲けたときに課される税金",
     "url": null,
     "mapping": "native_section",
     "native_order": 55,
@@ -2712,7 +2712,7 @@
       "other_8af9afa2e6"
     ],
     "title": "印紙税",
-    "native_path": "税・その他 / Chapter1 税",
+    "native_path": "Chapter1 不動産に関する税金 / Section5 その他の重要な国税",
     "url": null,
     "mapping": "native_section",
     "native_order": 56,
@@ -2726,7 +2726,7 @@
       "other_2a21b3b2f7"
     ],
     "title": "登録免許税",
-    "native_path": "税・その他 / Chapter1 税",
+    "native_path": "Chapter1 不動産に関する税金 / Section5 その他の重要な国税",
     "url": null,
     "mapping": "native_section",
     "native_order": 57,
@@ -2740,7 +2740,7 @@
       "other_3bfa57c660"
     ],
     "title": "贈与税",
-    "native_path": "税・その他 / Chapter1 税",
+    "native_path": "Chapter1 不動産に関する税金 / Section5 その他の重要な国税",
     "url": null,
     "mapping": "native_section",
     "native_order": 58,
@@ -2754,7 +2754,7 @@
       "other_241d9d5512"
     ],
     "title": "不動産鑑定評価",
-    "native_path": "税・その他 / Chapter2 価格・鑑定",
+    "native_path": "Chapter2 税金以外の関連知識 / Section1 土地・建物の値段の決め方",
     "url": null,
     "mapping": "native_section",
     "native_order": 59,
@@ -2768,7 +2768,7 @@
       "other_cba29a763e"
     ],
     "title": "地価公示法",
-    "native_path": "税・その他 / Chapter2 価格・鑑定",
+    "native_path": "Chapter2 税金以外の関連知識 / Section1 土地・建物の値段の決め方",
     "url": null,
     "mapping": "native_section",
     "native_order": 60,
@@ -2782,7 +2782,7 @@
       "other_648e7c9dde"
     ],
     "title": "住宅金融支援機構",
-    "native_path": "税・その他 / Chapter3 その他",
+    "native_path": "Chapter2 税金以外の関連知識 / Section2 長期固定住宅ローンの支え手",
     "url": null,
     "mapping": "native_section",
     "native_order": 61,
@@ -2796,7 +2796,7 @@
       "other_4fa1abf88d"
     ],
     "title": "景品表示法",
-    "native_path": "税・その他 / Chapter3 その他",
+    "native_path": "Chapter2 税金以外の関連知識 / Section3 “インチキ広告”にだまされないぞ",
     "url": null,
     "mapping": "native_section",
     "native_order": 62,
@@ -2811,7 +2811,7 @@
       "other_cd18d7dd34"
     ],
     "title": "土地・建物",
-    "native_path": "税・その他 / Chapter3 その他",
+    "native_path": "Chapter2 税金以外の関連知識 / Section5 住みよい土地や建物とはどんなもの？",
     "url": null,
     "mapping": "native_section",
     "native_order": 63,
@@ -3223,7 +3223,7 @@
       "business_e9a3236db9"
     ],
     "title": "宅建業法の基本",
-    "native_path": "宅建業法 / Chapter1 宅建業者になる",
+    "native_path": "Chapter1 宅建業者になる / Section1 「宅地建物取引業」ってなに？",
     "mapping": "native_section",
     "native_order": 26,
     "legacy_ids": [],
@@ -3238,7 +3238,7 @@
       "business_license"
     ],
     "title": "免許",
-    "native_path": "宅建業法 / Chapter1 宅建業者になる",
+    "native_path": "Chapter1 宅建業者になる / Section2 宅建業者は免許が必要",
     "mapping": "native_section",
     "native_order": 27,
     "legacy_ids": [
@@ -3255,7 +3255,7 @@
       "business_agent"
     ],
     "title": "宅地建物取引士",
-    "native_path": "宅建業法 / Chapter1 宅建業者になる",
+    "native_path": "Chapter2 宅建士は取引のスペシャリスト / Section1 「宅建士」って何をする人？",
     "mapping": "native_section",
     "native_order": 28,
     "legacy_ids": [],
@@ -3270,7 +3270,7 @@
       "business_3c8b8e6aca"
     ],
     "title": "営業保証金",
-    "native_path": "宅建業法 / Chapter1 宅建業者になる",
+    "native_path": "Chapter3 宅建業を始める前にお金を預ける / Section1 営業保証金の仕組み",
     "mapping": "native_section",
     "native_order": 29,
     "legacy_ids": [],
@@ -3285,7 +3285,7 @@
       "business_12b28bb9d2"
     ],
     "title": "保証協会",
-    "native_path": "宅建業法 / Chapter1 宅建業者になる",
+    "native_path": "Chapter3 宅建業を始める前にお金を預ける / Section2 保証協会",
     "mapping": "native_section",
     "native_order": 30,
     "legacy_ids": [],
@@ -3301,7 +3301,7 @@
       "business_ec037d3765"
     ],
     "title": "事務所、案内所等に関する規制",
-    "native_path": "宅建業法 / Chapter1 宅建業者になる",
+    "native_path": "Chapter4 取引にあたって注意しなければならないこと / Section2 事務所等に関する定め",
     "mapping": "native_section",
     "native_order": 31,
     "legacy_ids": [],
@@ -3316,7 +3316,7 @@
       "business_990979c912"
     ],
     "title": "業務上の規制",
-    "native_path": "宅建業法 / Chapter2 宅建業者が業務を行う",
+    "native_path": "Chapter4 取引にあたって注意しなければならないこと / Section3 業務を行うときのモラルなど",
     "mapping": "native_section",
     "native_order": 32,
     "legacy_ids": [],
@@ -3331,7 +3331,7 @@
       "business_9cf105a9bb"
     ],
     "title": "自ら売主となる場合の8つの制限（8種制限）",
-    "native_path": "宅建業法 / Chapter2 宅建業者が業務を行う",
+    "native_path": "Chapter6 業者が自ら売主となるときの８種規制 / Section2 ８種規制ってどんなもの？",
     "mapping": "native_section",
     "native_order": 33,
     "legacy_ids": [],
@@ -3346,7 +3346,7 @@
       "business_a5f12385c3"
     ],
     "title": "報酬に関する制限",
-    "native_path": "宅建業法 / Chapter2 宅建業者が業務を行う",
+    "native_path": "Chapter7 報酬額の制限 / Section1-2 報酬額の制限規定・報酬額の計算方法",
     "mapping": "native_section",
     "native_order": 34,
     "legacy_ids": [],
@@ -3361,7 +3361,7 @@
       "business_7d39c7f89d"
     ],
     "title": "監督・罰則",
-    "native_path": "宅建業法 / Chapter2 宅建業者が業務を行う",
+    "native_path": "Chapter8 宅建業者や宅建士が受けるペナルティー / Section1-2 監督処分の種類と事由・罰則",
     "mapping": "native_section",
     "native_order": 35,
     "legacy_ids": [],
@@ -3376,7 +3376,7 @@
       "business_warranty"
     ],
     "title": "住宅瑕疵担保履行法",
-    "native_path": "宅建業法 / Chapter2 宅建業者が業務を行う",
+    "native_path": "Chapter9 欠陥住宅の販売に備えて / Section1 新築住宅の瑕疵担保責任を果たすために",
     "mapping": "native_section",
     "native_order": 36,
     "legacy_ids": [],
@@ -3391,7 +3391,7 @@
       "law_d7807f7dc8"
     ],
     "title": "都市計画区域・区域区分",
-    "native_path": "法令上の制限 / Chapter1 都市計画法",
+    "native_path": "Chapter1 都市計画法 / Section1-2 都市計画にはどんなものがあるのだろう",
     "mapping": "native_section",
     "native_order": 37,
     "legacy_ids": [],
@@ -3406,7 +3406,7 @@
       "law_d7807f7dc8"
     ],
     "title": "用途地域・地域地区",
-    "native_path": "法令上の制限 / Chapter1 都市計画法",
+    "native_path": "Chapter1 都市計画法 / Section2 都市計画にはどんなものがあるのだろう",
     "mapping": "native_section",
     "native_order": 38,
     "legacy_ids": [],
@@ -3421,7 +3421,7 @@
       "law_d7807f7dc8"
     ],
     "title": "都市施設・地区計画",
-    "native_path": "法令上の制限 / Chapter1 都市計画法",
+    "native_path": "Chapter1 都市計画法 / Section2 都市計画にはどんなものがあるのだろう",
     "mapping": "native_section",
     "native_order": 39,
     "legacy_ids": [],
@@ -3436,7 +3436,7 @@
       "law_4c9fec8184"
     ],
     "title": "開発許可",
-    "native_path": "法令上の制限 / Chapter1 都市計画法",
+    "native_path": "Chapter1 都市計画法 / Section5 良好な街づくりのための造成工事",
     "mapping": "native_section",
     "native_order": 40,
     "legacy_ids": [],
@@ -3451,7 +3451,7 @@
       "law_a3cb43ccf8"
     ],
     "title": "道路・接道義務",
-    "native_path": "法令上の制限 / Chapter2 建築基準法",
+    "native_path": "Chapter2 建築基準法 / Section3 都市計画区域などで守らなければならない基準",
     "mapping": "native_section",
     "native_order": 41,
     "legacy_ids": [],
@@ -3466,7 +3466,7 @@
       "law_a3cb43ccf8"
     ],
     "title": "用途制限",
-    "native_path": "法令上の制限 / Chapter2 建築基準法",
+    "native_path": "Chapter2 建築基準法 / Section3 都市計画区域などで守らなければならない基準",
     "mapping": "native_section",
     "native_order": 42,
     "legacy_ids": [],
@@ -3481,7 +3481,7 @@
       "law_a3cb43ccf8"
     ],
     "title": "建蔽率",
-    "native_path": "法令上の制限 / Chapter2 建築基準法",
+    "native_path": "Chapter2 建築基準法 / Section3 都市計画区域などで守らなければならない基準",
     "mapping": "native_section",
     "native_order": 43,
     "legacy_ids": [],
@@ -3496,7 +3496,7 @@
       "law_a3cb43ccf8"
     ],
     "title": "容積率",
-    "native_path": "法令上の制限 / Chapter2 建築基準法",
+    "native_path": "Chapter2 建築基準法 / Section3 都市計画区域などで守らなければならない基準",
     "mapping": "native_section",
     "native_order": 44,
     "legacy_ids": [],
@@ -3511,7 +3511,7 @@
       "law_cd2732d454"
     ],
     "title": "高さ制限・斜線制限",
-    "native_path": "法令上の制限 / Chapter2 建築基準法",
+    "native_path": "Chapter2 建築基準法 / Section3 都市計画区域などで守らなければならない基準",
     "mapping": "native_section",
     "native_order": 45,
     "legacy_ids": [],
@@ -3526,7 +3526,7 @@
       "law_cd2732d454"
     ],
     "title": "防火地域・準防火地域",
-    "native_path": "法令上の制限 / Chapter2 建築基準法",
+    "native_path": "Chapter2 建築基準法 / Section3 都市計画区域などで守らなければならない基準",
     "mapping": "native_section",
     "native_order": 46,
     "legacy_ids": [],
@@ -3541,7 +3541,7 @@
       "law_cd2732d454"
     ],
     "title": "建築確認",
-    "native_path": "法令上の制限 / Chapter2 建築基準法",
+    "native_path": "Chapter2 建築基準法 / Section4 建築基準法を守ってもらうために",
     "mapping": "native_section",
     "native_order": 47,
     "legacy_ids": [],
@@ -3556,7 +3556,7 @@
       "law_f9e7c42521"
     ],
     "title": "国土利用計画法",
-    "native_path": "法令上の制限 / Chapter3 その他の法令",
+    "native_path": "Chapter3 国土利用計画法 / Section3 土地の売買は自由にできない－①",
     "mapping": "native_section",
     "native_order": 48,
     "legacy_ids": [],
@@ -3571,7 +3571,7 @@
       "law_eab8632d96"
     ],
     "title": "農地法",
-    "native_path": "法令上の制限 / Chapter3 その他の法令",
+    "native_path": "Chapter4 農地法 / Section1-2 最大の目的は「食料の確保」・農地も自由に売却できない",
     "mapping": "native_section",
     "native_order": 49,
     "legacy_ids": [],
@@ -3586,7 +3586,7 @@
       "law_8c95545b2e"
     ],
     "title": "盛土規制法",
-    "native_path": "法令上の制限 / Chapter3 その他の法令",
+    "native_path": "Chapter6 盛土規制法・その他の制限法令 / Section2 規制区域と造成宅地防災区域",
     "mapping": "native_section",
     "native_order": 50,
     "legacy_ids": [],
@@ -3601,7 +3601,7 @@
       "law_f85dea5b8a"
     ],
     "title": "土地区画整理法",
-    "native_path": "法令上の制限 / Chapter3 その他の法令",
+    "native_path": "Chapter5 土地区画整理法 / Section2 土地区画整理事業はどのように進めるの？",
     "mapping": "native_section",
     "native_order": 51,
     "legacy_ids": [],
@@ -3616,7 +3616,7 @@
       "law_8c95545b2e"
     ],
     "title": "その他の法令上の制限",
-    "native_path": "法令上の制限 / Chapter3 その他の法令",
+    "native_path": "Chapter6 盛土規制法・その他の制限法令 / Section2 規制区域と造成宅地防災区域",
     "mapping": "native_section",
     "native_order": 52,
     "legacy_ids": [],
@@ -3631,7 +3631,7 @@
       "other_99b74fe5a0"
     ],
     "title": "不動産取得税",
-    "native_path": "税・その他 / Chapter1 税",
+    "native_path": "Chapter1 不動産に関する税金 / Section2 不動産を取得したときに課される税金",
     "mapping": "native_section",
     "native_order": 53,
     "legacy_ids": [],
@@ -3646,7 +3646,7 @@
       "other_a559687a43"
     ],
     "title": "固定資産税",
-    "native_path": "税・その他 / Chapter1 税",
+    "native_path": "Chapter1 不動産に関する税金 / Section3 不動産を保有しているときに課される税金",
     "mapping": "native_section",
     "native_order": 54,
     "legacy_ids": [],
@@ -3661,7 +3661,7 @@
       "other_f3113f9af6"
     ],
     "title": "所得税（譲渡所得）",
-    "native_path": "税・その他 / Chapter1 税",
+    "native_path": "Chapter1 不動産に関する税金 / Section4 儲けたときに課される税金",
     "mapping": "native_section",
     "native_order": 55,
     "legacy_ids": [],
@@ -3676,7 +3676,7 @@
       "other_8af9afa2e6"
     ],
     "title": "印紙税",
-    "native_path": "税・その他 / Chapter1 税",
+    "native_path": "Chapter1 不動産に関する税金 / Section5 その他の重要な国税",
     "mapping": "native_section",
     "native_order": 56,
     "legacy_ids": [],
@@ -3691,7 +3691,7 @@
       "other_2a21b3b2f7"
     ],
     "title": "登録免許税",
-    "native_path": "税・その他 / Chapter1 税",
+    "native_path": "Chapter1 不動産に関する税金 / Section5 その他の重要な国税",
     "mapping": "native_section",
     "native_order": 57,
     "legacy_ids": [],
@@ -3706,7 +3706,7 @@
       "other_3bfa57c660"
     ],
     "title": "贈与税",
-    "native_path": "税・その他 / Chapter1 税",
+    "native_path": "Chapter1 不動産に関する税金 / Section5 その他の重要な国税",
     "mapping": "native_section",
     "native_order": 58,
     "legacy_ids": [],
@@ -3721,7 +3721,7 @@
       "other_241d9d5512"
     ],
     "title": "不動産鑑定評価",
-    "native_path": "税・その他 / Chapter2 価格・鑑定",
+    "native_path": "Chapter2 税金以外の関連知識 / Section1 土地・建物の値段の決め方",
     "mapping": "native_section",
     "native_order": 59,
     "legacy_ids": [],
@@ -3736,7 +3736,7 @@
       "other_cba29a763e"
     ],
     "title": "地価公示法",
-    "native_path": "税・その他 / Chapter2 価格・鑑定",
+    "native_path": "Chapter2 税金以外の関連知識 / Section1 土地・建物の値段の決め方",
     "mapping": "native_section",
     "native_order": 60,
     "legacy_ids": [],
@@ -3751,7 +3751,7 @@
       "other_648e7c9dde"
     ],
     "title": "住宅金融支援機構",
-    "native_path": "税・その他 / Chapter3 その他",
+    "native_path": "Chapter2 税金以外の関連知識 / Section2 長期固定住宅ローンの支え手",
     "mapping": "native_section",
     "native_order": 61,
     "legacy_ids": [],
@@ -3766,7 +3766,7 @@
       "other_4fa1abf88d"
     ],
     "title": "景品表示法",
-    "native_path": "税・その他 / Chapter3 その他",
+    "native_path": "Chapter2 税金以外の関連知識 / Section3 “インチキ広告”にだまされないぞ",
     "mapping": "native_section",
     "native_order": 62,
     "legacy_ids": [],
@@ -3782,7 +3782,7 @@
       "other_cd18d7dd34"
     ],
     "title": "土地・建物",
-    "native_path": "税・その他 / Chapter3 その他",
+    "native_path": "Chapter2 税金以外の関連知識 / Section5 住みよい土地や建物とはどんなもの？",
     "mapping": "native_section",
     "native_order": 63,
     "legacy_ids": [],
@@ -4195,7 +4195,7 @@
       "business_e9a3236db9"
     ],
     "title": "宅建業法の基本",
-    "native_path": "宅建業法 / Chapter1 宅建業者になる",
+    "native_path": "Chapter1 宅建業者になる / Section1-2 「宅地建物取引業」ってなに？・宅建業者は免許が必要",
     "mapping": "native_section",
     "native_order": 26,
     "legacy_ids": [],
@@ -4210,7 +4210,7 @@
       "business_license"
     ],
     "title": "免許",
-    "native_path": "宅建業法 / Chapter1 宅建業者になる",
+    "native_path": "Chapter1 宅建業者になる / Section1-2 「宅地建物取引業」ってなに？・宅建業者は免許が必要",
     "mapping": "native_section",
     "native_order": 27,
     "legacy_ids": [
@@ -4227,7 +4227,7 @@
       "business_agent"
     ],
     "title": "宅地建物取引士",
-    "native_path": "宅建業法 / Chapter1 宅建業者になる",
+    "native_path": "Chapter2 宅建士は取引のスペシャリスト / Section1-4 「宅建士」って何をする人？～宅建業者と宅建士",
     "mapping": "native_section",
     "native_order": 28,
     "legacy_ids": [],
@@ -4242,7 +4242,7 @@
       "business_3c8b8e6aca"
     ],
     "title": "営業保証金",
-    "native_path": "宅建業法 / Chapter1 宅建業者になる",
+    "native_path": "Chapter3 宅建業を始める前にお金を預ける / Section1 営業保証金の仕組み",
     "mapping": "native_section",
     "native_order": 29,
     "legacy_ids": [],
@@ -4257,7 +4257,7 @@
       "business_12b28bb9d2"
     ],
     "title": "保証協会",
-    "native_path": "宅建業法 / Chapter1 宅建業者になる",
+    "native_path": "Chapter3 宅建業を始める前にお金を預ける / Section2 保証協会",
     "mapping": "native_section",
     "native_order": 30,
     "legacy_ids": [],
@@ -4273,7 +4273,7 @@
       "business_ec037d3765"
     ],
     "title": "事務所、案内所等に関する規制",
-    "native_path": "宅建業法 / Chapter1 宅建業者になる",
+    "native_path": "Chapter4 取引にあたって注意しなければならないこと / Section2 事務所等に関する定め",
     "mapping": "native_section",
     "native_order": 31,
     "legacy_ids": [],
@@ -4288,7 +4288,7 @@
       "business_990979c912"
     ],
     "title": "業務上の規制",
-    "native_path": "宅建業法 / Chapter2 宅建業者が業務を行う",
+    "native_path": "Chapter4 取引にあたって注意しなければならないこと / Section3 業務を行うときのモラルなど",
     "mapping": "native_section",
     "native_order": 32,
     "legacy_ids": [],
@@ -4303,7 +4303,7 @@
       "business_9cf105a9bb"
     ],
     "title": "自ら売主となる場合の8つの制限（8種制限）",
-    "native_path": "宅建業法 / Chapter2 宅建業者が業務を行う",
+    "native_path": "Chapter6 業者が自ら売主となるときの８種規制 / Section2 ８種規制ってどんなもの？",
     "mapping": "native_section",
     "native_order": 33,
     "legacy_ids": [],
@@ -4318,7 +4318,7 @@
       "business_a5f12385c3"
     ],
     "title": "報酬に関する制限",
-    "native_path": "宅建業法 / Chapter2 宅建業者が業務を行う",
+    "native_path": "Chapter7 報酬額の計算 / Section2 報酬額の計算方法",
     "mapping": "native_section",
     "native_order": 34,
     "legacy_ids": [],
@@ -4333,7 +4333,7 @@
       "business_7d39c7f89d"
     ],
     "title": "監督・罰則",
-    "native_path": "宅建業法 / Chapter2 宅建業者が業務を行う",
+    "native_path": "Chapter8 宅建業者や宅建士が受けるペナルティー / Section1-2 監督処分の種類と事由・罰則",
     "mapping": "native_section",
     "native_order": 35,
     "legacy_ids": [],
@@ -4348,7 +4348,7 @@
       "business_warranty"
     ],
     "title": "住宅瑕疵担保履行法",
-    "native_path": "宅建業法 / Chapter2 宅建業者が業務を行う",
+    "native_path": "Chapter9 欠陥住宅の販売に備えて / Section1 新築住宅の瑕疵担保責任を果たすために",
     "mapping": "native_section",
     "native_order": 36,
     "legacy_ids": [],
@@ -4363,7 +4363,7 @@
       "law_d7807f7dc8"
     ],
     "title": "都市計画区域・区域区分",
-    "native_path": "法令上の制限 / Chapter1 都市計画法",
+    "native_path": "Chapter1 都市計画法 / Section1-5 “街づくりの出発点”～良好な街づくりのための造成工事",
     "mapping": "native_section",
     "native_order": 37,
     "legacy_ids": [],
@@ -4378,7 +4378,7 @@
       "law_d7807f7dc8"
     ],
     "title": "用途地域・地域地区",
-    "native_path": "法令上の制限 / Chapter1 都市計画法",
+    "native_path": "Chapter1 都市計画法 / Section1-5 “街づくりの出発点”～良好な街づくりのための造成工事",
     "mapping": "native_section",
     "native_order": 38,
     "legacy_ids": [],
@@ -4393,7 +4393,7 @@
       "law_d7807f7dc8"
     ],
     "title": "都市施設・地区計画",
-    "native_path": "法令上の制限 / Chapter1 都市計画法",
+    "native_path": "Chapter1 都市計画法 / Section1-5 “街づくりの出発点”～良好な街づくりのための造成工事",
     "mapping": "native_section",
     "native_order": 39,
     "legacy_ids": [],
@@ -4408,7 +4408,7 @@
       "law_4c9fec8184"
     ],
     "title": "開発許可",
-    "native_path": "法令上の制限 / Chapter1 都市計画法",
+    "native_path": "Chapter1 都市計画法 / Section1-5 “街づくりの出発点”～良好な街づくりのための造成工事",
     "mapping": "native_section",
     "native_order": 40,
     "legacy_ids": [],
@@ -4423,7 +4423,7 @@
       "law_a3cb43ccf8"
     ],
     "title": "道路・接道義務",
-    "native_path": "法令上の制限 / Chapter2 建築基準法",
+    "native_path": "Chapter2 建築基準法 / Section1-5 建築の最低基準を定めた法律～みんなで決める建築の基準",
     "mapping": "native_section",
     "native_order": 41,
     "legacy_ids": [],
@@ -4438,7 +4438,7 @@
       "law_a3cb43ccf8"
     ],
     "title": "用途制限",
-    "native_path": "法令上の制限 / Chapter2 建築基準法",
+    "native_path": "Chapter2 建築基準法 / Section1-5 建築の最低基準を定めた法律～みんなで決める建築の基準",
     "mapping": "native_section",
     "native_order": 42,
     "legacy_ids": [],
@@ -4453,7 +4453,7 @@
       "law_a3cb43ccf8"
     ],
     "title": "建蔽率",
-    "native_path": "法令上の制限 / Chapter2 建築基準法",
+    "native_path": "Chapter2 建築基準法 / Section1-5 建築の最低基準を定めた法律～みんなで決める建築の基準",
     "mapping": "native_section",
     "native_order": 43,
     "legacy_ids": [],
@@ -4468,7 +4468,7 @@
       "law_a3cb43ccf8"
     ],
     "title": "容積率",
-    "native_path": "法令上の制限 / Chapter2 建築基準法",
+    "native_path": "Chapter2 建築基準法 / Section1-5 建築の最低基準を定めた法律～みんなで決める建築の基準",
     "mapping": "native_section",
     "native_order": 44,
     "legacy_ids": [],
@@ -4483,7 +4483,7 @@
       "law_cd2732d454"
     ],
     "title": "高さ制限・斜線制限",
-    "native_path": "法令上の制限 / Chapter2 建築基準法",
+    "native_path": "Chapter2 建築基準法 / Section1-5 建築の最低基準を定めた法律～みんなで決める建築の基準",
     "mapping": "native_section",
     "native_order": 45,
     "legacy_ids": [],
@@ -4498,7 +4498,7 @@
       "law_cd2732d454"
     ],
     "title": "防火地域・準防火地域",
-    "native_path": "法令上の制限 / Chapter2 建築基準法",
+    "native_path": "Chapter2 建築基準法 / Section1-5 建築の最低基準を定めた法律～みんなで決める建築の基準",
     "mapping": "native_section",
     "native_order": 46,
     "legacy_ids": [],
@@ -4513,7 +4513,7 @@
       "law_cd2732d454"
     ],
     "title": "建築確認",
-    "native_path": "法令上の制限 / Chapter2 建築基準法",
+    "native_path": "Chapter2 建築基準法 / Section1-5 建築の最低基準を定めた法律～みんなで決める建築の基準",
     "mapping": "native_section",
     "native_order": 47,
     "legacy_ids": [],
@@ -4528,7 +4528,7 @@
       "law_f9e7c42521"
     ],
     "title": "国土利用計画法",
-    "native_path": "法令上の制限 / Chapter3 その他の法令",
+    "native_path": "Chapter3 国土利用計画法 / Section1-3 国土の計画的な利用や取引～土地の売買は自由にできない",
     "mapping": "native_section",
     "native_order": 48,
     "legacy_ids": [],
@@ -4543,7 +4543,7 @@
       "law_eab8632d96"
     ],
     "title": "農地法",
-    "native_path": "法令上の制限 / Chapter3 その他の法令",
+    "native_path": "Chapter4 農地法 / Section1-2 最大の目的は「食料の確保」・農地も自由に売却できない",
     "mapping": "native_section",
     "native_order": 49,
     "legacy_ids": [],
@@ -4558,7 +4558,7 @@
       "law_8c95545b2e"
     ],
     "title": "盛土規制法",
-    "native_path": "法令上の制限 / Chapter3 その他の法令",
+    "native_path": "Chapter6 盛土規制法・その他の制限法令 / Section1-3 危険な盛土等を規制するための法律の全体像～その他の制限法令",
     "mapping": "native_section",
     "native_order": 50,
     "legacy_ids": [],
@@ -4573,7 +4573,7 @@
       "law_f85dea5b8a"
     ],
     "title": "土地区画整理法",
-    "native_path": "法令上の制限 / Chapter3 その他の法令",
+    "native_path": "Chapter5 土地区画整理法 / Section2 土地区画整理事業はどのように進めるの？",
     "mapping": "native_section",
     "native_order": 51,
     "legacy_ids": [],
@@ -4588,7 +4588,7 @@
       "law_8c95545b2e"
     ],
     "title": "その他の法令上の制限",
-    "native_path": "法令上の制限 / Chapter3 その他の法令",
+    "native_path": "Chapter6 盛土規制法・その他の制限法令 / Section1-3 危険な盛土等を規制するための法律の全体像～その他の制限法令",
     "mapping": "native_section",
     "native_order": 52,
     "legacy_ids": [],
@@ -4603,7 +4603,7 @@
       "other_99b74fe5a0"
     ],
     "title": "不動産取得税",
-    "native_path": "税・その他 / Chapter1 税",
+    "native_path": "Chapter1 不動産に関する税金 / Section2 不動産を取得したときに課される税金",
     "mapping": "native_section",
     "native_order": 53,
     "legacy_ids": [],
@@ -4618,7 +4618,7 @@
       "other_a559687a43"
     ],
     "title": "固定資産税",
-    "native_path": "税・その他 / Chapter1 税",
+    "native_path": "Chapter1 不動産に関する税金 / Section3 不動産を保有しているときに課される税金",
     "mapping": "native_section",
     "native_order": 54,
     "legacy_ids": [],
@@ -4633,7 +4633,7 @@
       "other_f3113f9af6"
     ],
     "title": "所得税（譲渡所得）",
-    "native_path": "税・その他 / Chapter1 税",
+    "native_path": "Chapter1 不動産に関する税金 / Section4 儲けたときに課される税金",
     "mapping": "native_section",
     "native_order": 55,
     "legacy_ids": [],
@@ -4648,7 +4648,7 @@
       "other_8af9afa2e6"
     ],
     "title": "印紙税",
-    "native_path": "税・その他 / Chapter1 税",
+    "native_path": "Chapter1 不動産に関する税金 / Section5 その他の重要な国税",
     "mapping": "native_section",
     "native_order": 56,
     "legacy_ids": [],
@@ -4663,7 +4663,7 @@
       "other_2a21b3b2f7"
     ],
     "title": "登録免許税",
-    "native_path": "税・その他 / Chapter1 税",
+    "native_path": "Chapter1 不動産に関する税金 / Section5 その他の重要な国税",
     "mapping": "native_section",
     "native_order": 57,
     "legacy_ids": [],
@@ -4678,7 +4678,7 @@
       "other_3bfa57c660"
     ],
     "title": "贈与税",
-    "native_path": "税・その他 / Chapter1 税",
+    "native_path": "Chapter1 不動産に関する税金 / Section5 その他の重要な国税",
     "mapping": "native_section",
     "native_order": 58,
     "legacy_ids": [],
@@ -4693,7 +4693,7 @@
       "other_241d9d5512"
     ],
     "title": "不動産鑑定評価",
-    "native_path": "税・その他 / Chapter2 価格・鑑定",
+    "native_path": "Chapter2 税金以外の関連知識 / Section1 土地・建物の値段の決め方",
     "mapping": "native_section",
     "native_order": 59,
     "legacy_ids": [],
@@ -4708,7 +4708,7 @@
       "other_cba29a763e"
     ],
     "title": "地価公示法",
-    "native_path": "税・その他 / Chapter2 価格・鑑定",
+    "native_path": "Chapter2 税金以外の関連知識 / Section1 土地・建物の値段の決め方",
     "mapping": "native_section",
     "native_order": 60,
     "legacy_ids": [],
@@ -4723,7 +4723,7 @@
       "other_648e7c9dde"
     ],
     "title": "住宅金融支援機構",
-    "native_path": "税・その他 / Chapter3 その他",
+    "native_path": "Chapter2 税金以外の関連知識 / Section2 長期固定住宅ローンの支え手",
     "mapping": "native_section",
     "native_order": 61,
     "legacy_ids": [],
@@ -4738,7 +4738,7 @@
       "other_4fa1abf88d"
     ],
     "title": "景品表示法",
-    "native_path": "税・その他 / Chapter3 その他",
+    "native_path": "Chapter2 税金以外の関連知識 / Section3 “インチキ広告”にだまされないぞ",
     "mapping": "native_section",
     "native_order": 62,
     "legacy_ids": [],
@@ -4754,7 +4754,7 @@
       "other_cd18d7dd34"
     ],
     "title": "土地・建物",
-    "native_path": "税・その他 / Chapter3 その他",
+    "native_path": "Chapter2 税金以外の関連知識 / Section5 住みよい土地や建物とはどんなもの？",
     "mapping": "native_section",
     "native_order": 63,
     "legacy_ids": [],
