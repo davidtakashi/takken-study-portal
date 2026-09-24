@@ -6686,5 +6686,688 @@
     "native_order": 15,
     "legacy_ids": [],
     "link_kind": "video"
+  },
+  {
+    "id": "lec_derujun_1000_knoun__01",
+    "resource_id": "lec_derujun_1000_knoun",
+    "topic_id": "rights_intent",
+    "topic_ids": [
+      "rights_intent"
+    ],
+    "title": "意思表示",
+    "native_path": "権利関係",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "native_section",
+    "native_order": 0,
+    "legacy_ids": []
+  },
+  {
+    "id": "lec_derujun_1000_knoun__02",
+    "resource_id": "lec_derujun_1000_knoun",
+    "topic_id": "rights_capacity",
+    "topic_ids": [
+      "rights_capacity"
+    ],
+    "title": "制限行為能力者",
+    "native_path": "権利関係",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "native_section",
+    "native_order": 1,
+    "legacy_ids": []
+  },
+  {
+    "id": "lec_derujun_1000_knoun__03",
+    "resource_id": "lec_derujun_1000_knoun",
+    "topic_id": "rights_limitation",
+    "topic_ids": [
+      "rights_limitation"
+    ],
+    "title": "時効",
+    "native_path": "権利関係",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "native_section",
+    "native_order": 2,
+    "legacy_ids": []
+  },
+  {
+    "id": "lec_derujun_1000_knoun__04",
+    "resource_id": "lec_derujun_1000_knoun",
+    "topic_id": "rights_agency",
+    "topic_ids": [
+      "rights_agency"
+    ],
+    "title": "代理",
+    "native_path": "権利関係",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "native_section",
+    "native_order": 3,
+    "legacy_ids": []
+  },
+  {
+    "id": "lec_derujun_1000_knoun__05",
+    "resource_id": "lec_derujun_1000_knoun",
+    "topic_id": "rights_d0b3d40e24",
+    "topic_ids": [
+      "rights_d0b3d40e24"
+    ],
+    "title": "債務不履行・解除",
+    "native_path": "権利関係",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "native_section",
+    "native_order": 4,
+    "legacy_ids": []
+  },
+  {
+    "id": "lec_derujun_1000_knoun__06",
+    "resource_id": "lec_derujun_1000_knoun",
+    "topic_id": "rights_d7fb984cab",
+    "topic_ids": [
+      "rights_d7fb984cab"
+    ],
+    "title": "危険負担・弁済",
+    "native_path": "権利関係",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "native_section",
+    "native_order": 5,
+    "legacy_ids": []
+  },
+  {
+    "id": "lec_derujun_1000_knoun__07",
+    "resource_id": "lec_derujun_1000_knoun",
+    "topic_id": "rights_f4c32080b7",
+    "topic_ids": [
+      "rights_f4c32080b7"
+    ],
+    "title": "契約不適合責任",
+    "native_path": "権利関係",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "native_section",
+    "native_order": 6,
+    "legacy_ids": []
+  },
+  {
+    "id": "lec_derujun_1000_knoun__08",
+    "resource_id": "lec_derujun_1000_knoun",
+    "topic_id": "rights_acfb3361ec",
+    "topic_ids": [
+      "rights_acfb3361ec"
+    ],
+    "title": "相続",
+    "native_path": "権利関係",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "native_section",
+    "native_order": 7,
+    "legacy_ids": []
+  },
+  {
+    "id": "lec_derujun_1000_knoun__09",
+    "resource_id": "lec_derujun_1000_knoun",
+    "topic_id": "rights_d672a3a22c",
+    "topic_ids": [
+      "rights_d672a3a22c"
+    ],
+    "title": "物権変動",
+    "native_path": "権利関係",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "native_section",
+    "native_order": 8,
+    "legacy_ids": []
+  },
+  {
+    "id": "lec_derujun_1000_knoun__10",
+    "resource_id": "lec_derujun_1000_knoun",
+    "topic_id": "rights_2430e010c0",
+    "topic_ids": [
+      "rights_2430e010c0"
+    ],
+    "title": "不動産登記法",
+    "native_path": "権利関係",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "native_section",
+    "native_order": 9,
+    "legacy_ids": []
+  },
+  {
+    "id": "lec_derujun_1000_knoun__11",
+    "resource_id": "lec_derujun_1000_knoun",
+    "topic_id": "rights_97c9209e61",
+    "topic_ids": [
+      "rights_97c9209e61"
+    ],
+    "title": "抵当権・根抵当権",
+    "native_path": "権利関係",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "native_section",
+    "native_order": 10,
+    "legacy_ids": []
+  },
+  {
+    "id": "lec_derujun_1000_knoun__12",
+    "resource_id": "lec_derujun_1000_knoun",
+    "topic_id": "rights_9553c8a3a6",
+    "topic_ids": [
+      "rights_9553c8a3a6"
+    ],
+    "title": "保証・連帯債務",
+    "native_path": "権利関係",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "native_section",
+    "native_order": 11,
+    "legacy_ids": []
+  },
+  {
+    "id": "lec_derujun_1000_knoun__13",
+    "resource_id": "lec_derujun_1000_knoun",
+    "topic_id": "rights_0f340e0880",
+    "topic_ids": [
+      "rights_0f340e0880",
+      "rights_0c4f8f5fd5"
+    ],
+    "title": "共有・建物区分所有法",
+    "native_path": "権利関係",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "native_section",
+    "native_order": 12,
+    "legacy_ids": []
+  },
+  {
+    "id": "lec_derujun_1000_knoun__14",
+    "resource_id": "lec_derujun_1000_knoun",
+    "topic_id": "rights_90b1750c9a",
+    "topic_ids": [
+      "rights_90b1750c9a",
+      "rights_88f1ee6b2d",
+      "rights_b9664ce7c1"
+    ],
+    "title": "賃貸借・借地借家法",
+    "native_path": "権利関係",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "native_section",
+    "native_order": 13,
+    "legacy_ids": []
+  },
+  {
+    "id": "lec_derujun_1000_knoun__15",
+    "resource_id": "lec_derujun_1000_knoun",
+    "topic_id": "rights_77b396ee2d",
+    "topic_ids": [
+      "rights_77b396ee2d",
+      "rights_7c2281ce71"
+    ],
+    "title": "不法行為・請負・委任・債権譲渡・相殺",
+    "native_path": "権利関係",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "native_section",
+    "native_order": 14,
+    "legacy_ids": []
+  },
+  {
+    "id": "lec_derujun_1000_knoun__16",
+    "resource_id": "lec_derujun_1000_knoun",
+    "topic_id": "business_e9a3236db9",
+    "topic_ids": [
+      "business_e9a3236db9"
+    ],
+    "title": "宅建業の意味",
+    "native_path": "宅建業法",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "native_section",
+    "native_order": 15,
+    "legacy_ids": []
+  },
+  {
+    "id": "lec_derujun_1000_knoun__17",
+    "resource_id": "lec_derujun_1000_knoun",
+    "topic_id": "business_ec037d3765",
+    "topic_ids": [
+      "business_ec037d3765"
+    ],
+    "title": "事務所の設置",
+    "native_path": "宅建業法",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "native_section",
+    "native_order": 16,
+    "legacy_ids": []
+  },
+  {
+    "id": "lec_derujun_1000_knoun__18",
+    "resource_id": "lec_derujun_1000_knoun",
+    "topic_id": "business_license",
+    "topic_ids": [
+      "business_license"
+    ],
+    "title": "免許の申請",
+    "native_path": "宅建業法",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "native_section",
+    "native_order": 17,
+    "legacy_ids": []
+  },
+  {
+    "id": "lec_derujun_1000_knoun__19",
+    "resource_id": "lec_derujun_1000_knoun",
+    "topic_id": "business_a1b167a8db",
+    "topic_ids": [
+      "business_a1b167a8db"
+    ],
+    "title": "事務所以外の場所の規制",
+    "native_path": "宅建業法",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "native_section",
+    "native_order": 18,
+    "legacy_ids": []
+  },
+  {
+    "id": "lec_derujun_1000_knoun__20",
+    "resource_id": "lec_derujun_1000_knoun",
+    "topic_id": "business_agent",
+    "topic_ids": [
+      "business_agent"
+    ],
+    "title": "宅地建物取引士",
+    "native_path": "宅建業法",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "native_section",
+    "native_order": 19,
+    "legacy_ids": []
+  },
+  {
+    "id": "lec_derujun_1000_knoun__21",
+    "resource_id": "lec_derujun_1000_knoun",
+    "topic_id": "business_3c8b8e6aca",
+    "topic_ids": [
+      "business_3c8b8e6aca",
+      "business_12b28bb9d2"
+    ],
+    "title": "営業保証金・弁済業務保証金",
+    "native_path": "宅建業法",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "native_section",
+    "native_order": 20,
+    "legacy_ids": []
+  },
+  {
+    "id": "lec_derujun_1000_knoun__22",
+    "resource_id": "lec_derujun_1000_knoun",
+    "topic_id": "business_b484e7ce9c",
+    "topic_ids": [
+      "business_b484e7ce9c"
+    ],
+    "title": "媒介・代理契約",
+    "native_path": "宅建業法",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "native_section",
+    "native_order": 21,
+    "legacy_ids": []
+  },
+  {
+    "id": "lec_derujun_1000_knoun__23",
+    "resource_id": "lec_derujun_1000_knoun",
+    "topic_id": "business_128c05aa94",
+    "topic_ids": [
+      "business_128c05aa94"
+    ],
+    "title": "広告規制",
+    "native_path": "宅建業法",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "native_section",
+    "native_order": 22,
+    "legacy_ids": []
+  },
+  {
+    "id": "lec_derujun_1000_knoun__24",
+    "resource_id": "lec_derujun_1000_knoun",
+    "topic_id": "business_2192a0359a",
+    "topic_ids": [
+      "business_2192a0359a",
+      "business_c808821440"
+    ],
+    "title": "重要事項の説明・37条書面",
+    "native_path": "宅建業法",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "native_section",
+    "native_order": 23,
+    "legacy_ids": []
+  },
+  {
+    "id": "lec_derujun_1000_knoun__25",
+    "resource_id": "lec_derujun_1000_knoun",
+    "topic_id": "business_990979c912",
+    "topic_ids": [
+      "business_990979c912"
+    ],
+    "title": "その他の業務上の規制",
+    "native_path": "宅建業法",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "native_section",
+    "native_order": 24,
+    "legacy_ids": []
+  },
+  {
+    "id": "lec_derujun_1000_knoun__26",
+    "resource_id": "lec_derujun_1000_knoun",
+    "topic_id": "business_9cf105a9bb",
+    "topic_ids": [
+      "business_9cf105a9bb"
+    ],
+    "title": "自ら売主制限",
+    "native_path": "宅建業法",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "native_section",
+    "native_order": 25,
+    "legacy_ids": []
+  },
+  {
+    "id": "lec_derujun_1000_knoun__27",
+    "resource_id": "lec_derujun_1000_knoun",
+    "topic_id": "business_a5f12385c3",
+    "topic_ids": [
+      "business_a5f12385c3"
+    ],
+    "title": "報酬額の制限",
+    "native_path": "宅建業法",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "native_section",
+    "native_order": 26,
+    "legacy_ids": []
+  },
+  {
+    "id": "lec_derujun_1000_knoun__28",
+    "resource_id": "lec_derujun_1000_knoun",
+    "topic_id": "business_7d39c7f89d",
+    "topic_ids": [
+      "business_7d39c7f89d"
+    ],
+    "title": "監督・罰則",
+    "native_path": "宅建業法",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "native_section",
+    "native_order": 27,
+    "legacy_ids": []
+  },
+  {
+    "id": "lec_derujun_1000_knoun__29",
+    "resource_id": "lec_derujun_1000_knoun",
+    "topic_id": "law_d7807f7dc8",
+    "topic_ids": [
+      "law_d7807f7dc8"
+    ],
+    "title": "都市計画法（都市計画①）",
+    "native_path": "法令上の制限",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "native_section",
+    "native_order": 28,
+    "legacy_ids": []
+  },
+  {
+    "id": "lec_derujun_1000_knoun__30",
+    "resource_id": "lec_derujun_1000_knoun",
+    "topic_id": "law_4c9fec8184",
+    "topic_ids": [
+      "law_4c9fec8184"
+    ],
+    "title": "都市計画法（都市計画②）",
+    "native_path": "法令上の制限",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "native_section",
+    "native_order": 29,
+    "legacy_ids": []
+  },
+  {
+    "id": "lec_derujun_1000_knoun__31",
+    "resource_id": "lec_derujun_1000_knoun",
+    "topic_id": "law_d7807f7dc8",
+    "topic_ids": [
+      "law_d7807f7dc8"
+    ],
+    "title": "開発行為の規制",
+    "native_path": "法令上の制限",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "native_section",
+    "native_order": 30,
+    "legacy_ids": []
+  },
+  {
+    "id": "lec_derujun_1000_knoun__32",
+    "resource_id": "lec_derujun_1000_knoun",
+    "topic_id": "law_d7807f7dc8",
+    "topic_ids": [
+      "law_d7807f7dc8"
+    ],
+    "title": "開発許可の手続き",
+    "native_path": "法令上の制限",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "native_section",
+    "native_order": 31,
+    "legacy_ids": []
+  },
+  {
+    "id": "lec_derujun_1000_knoun__33",
+    "resource_id": "lec_derujun_1000_knoun",
+    "topic_id": "law_4c9fec8184",
+    "topic_ids": [
+      "law_4c9fec8184"
+    ],
+    "title": "建築規制・都市計画事業制限",
+    "native_path": "法令上の制限",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "native_section",
+    "native_order": 32,
+    "legacy_ids": []
+  },
+  {
+    "id": "lec_derujun_1000_knoun__34",
+    "resource_id": "lec_derujun_1000_knoun",
+    "topic_id": "law_a3cb43ccf8",
+    "topic_ids": [
+      "law_a3cb43ccf8"
+    ],
+    "title": "用途規制",
+    "native_path": "法令上の制限",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "native_section",
+    "native_order": 33,
+    "legacy_ids": []
+  },
+  {
+    "id": "lec_derujun_1000_knoun__35",
+    "resource_id": "lec_derujun_1000_knoun",
+    "topic_id": "law_a3cb43ccf8",
+    "topic_ids": [
+      "law_a3cb43ccf8"
+    ],
+    "title": "建蔽率・容積率",
+    "native_path": "法令上の制限",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "native_section",
+    "native_order": 34,
+    "legacy_ids": []
+  },
+  {
+    "id": "lec_derujun_1000_knoun__36",
+    "resource_id": "lec_derujun_1000_knoun",
+    "topic_id": "law_cd2732d454",
+    "topic_ids": [
+      "law_cd2732d454"
+    ],
+    "title": "高さ制限、敷地面積の最低限度の制限",
+    "native_path": "法令上の制限",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "native_section",
+    "native_order": 35,
+    "legacy_ids": []
+  },
+  {
+    "id": "lec_derujun_1000_knoun__37",
+    "resource_id": "lec_derujun_1000_knoun",
+    "topic_id": "law_cd2732d454",
+    "topic_ids": [
+      "law_cd2732d454"
+    ],
+    "title": "道路規制、防火地域・準防火地域における建築規制",
+    "native_path": "法令上の制限",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "native_section",
+    "native_order": 36,
+    "legacy_ids": []
+  },
+  {
+    "id": "lec_derujun_1000_knoun__38",
+    "resource_id": "lec_derujun_1000_knoun",
+    "topic_id": "law_cd2732d454",
+    "topic_ids": [
+      "law_cd2732d454"
+    ],
+    "title": "単体規定、建築確認",
+    "native_path": "法令上の制限",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "native_section",
+    "native_order": 37,
+    "legacy_ids": []
+  },
+  {
+    "id": "lec_derujun_1000_knoun__39",
+    "resource_id": "lec_derujun_1000_knoun",
+    "topic_id": "law_f9e7c42521",
+    "topic_ids": [
+      "law_f9e7c42521"
+    ],
+    "title": "国土利用計画法",
+    "native_path": "法令上の制限",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "native_section",
+    "native_order": 38,
+    "legacy_ids": []
+  },
+  {
+    "id": "lec_derujun_1000_knoun__40",
+    "resource_id": "lec_derujun_1000_knoun",
+    "topic_id": "law_eab8632d96",
+    "topic_ids": [
+      "law_eab8632d96"
+    ],
+    "title": "農地法",
+    "native_path": "法令上の制限",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "native_section",
+    "native_order": 39,
+    "legacy_ids": []
+  },
+  {
+    "id": "lec_derujun_1000_knoun__41",
+    "resource_id": "lec_derujun_1000_knoun",
+    "topic_id": "law_f85dea5b8a",
+    "topic_ids": [
+      "law_f85dea5b8a"
+    ],
+    "title": "土地区画整理法",
+    "native_path": "法令上の制限",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "native_section",
+    "native_order": 40,
+    "legacy_ids": []
+  },
+  {
+    "id": "lec_derujun_1000_knoun__42",
+    "resource_id": "lec_derujun_1000_knoun",
+    "topic_id": "law_8c95545b2e",
+    "topic_ids": [
+      "law_8c95545b2e"
+    ],
+    "title": "盛土規制法、その他の法令上の制限",
+    "native_path": "法令上の制限",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "native_section",
+    "native_order": 41,
+    "legacy_ids": []
+  },
+  {
+    "id": "lec_derujun_1000_knoun__43",
+    "resource_id": "lec_derujun_1000_knoun",
+    "topic_id": "other_99b74fe5a0",
+    "topic_ids": [
+      "other_99b74fe5a0",
+      "other_a559687a43"
+    ],
+    "title": "不動産取得税・固定資産税",
+    "native_path": "税・その他",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "native_section",
+    "native_order": 42,
+    "legacy_ids": []
+  },
+  {
+    "id": "lec_derujun_1000_knoun__44",
+    "resource_id": "lec_derujun_1000_knoun",
+    "topic_id": "other_f3113f9af6",
+    "topic_ids": [
+      "other_f3113f9af6",
+      "other_8af9afa2e6",
+      "other_2a21b3b2f7"
+    ],
+    "title": "所得税・印紙税・登録免許税",
+    "native_path": "税・その他",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "native_section",
+    "native_order": 43,
+    "legacy_ids": []
+  },
+  {
+    "id": "lec_derujun_1000_knoun__45",
+    "resource_id": "lec_derujun_1000_knoun",
+    "topic_id": "other_cba29a763e",
+    "topic_ids": [
+      "other_cba29a763e",
+      "other_241d9d5512"
+    ],
+    "title": "地価公示法・不動産鑑定評価基準",
+    "native_path": "税・その他",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "native_section",
+    "native_order": 44,
+    "legacy_ids": []
+  },
+  {
+    "id": "lec_derujun_1000_knoun__46",
+    "resource_id": "lec_derujun_1000_knoun",
+    "topic_id": "other_648e7c9dde",
+    "topic_ids": [
+      "other_648e7c9dde"
+    ],
+    "title": "住宅金融支援機構法",
+    "native_path": "税・その他",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "native_section",
+    "native_order": 45,
+    "legacy_ids": []
+  },
+  {
+    "id": "lec_derujun_1000_knoun__47",
+    "resource_id": "lec_derujun_1000_knoun",
+    "topic_id": "other_4fa1abf88d",
+    "topic_ids": [
+      "other_4fa1abf88d"
+    ],
+    "title": "不当景品類及び不当表示防止法",
+    "native_path": "税・その他",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "native_section",
+    "native_order": 46,
+    "legacy_ids": []
+  },
+  {
+    "id": "lec_derujun_1000_knoun__48",
+    "resource_id": "lec_derujun_1000_knoun",
+    "topic_id": "other_010108fbb9",
+    "topic_ids": [
+      "other_010108fbb9",
+      "other_cd18d7dd34"
+    ],
+    "title": "土地及び建物",
+    "native_path": "税・その他",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "native_section",
+    "native_order": 47,
+    "legacy_ids": []
   }
 ]

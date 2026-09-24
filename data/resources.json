@@ -70,6 +70,13 @@
     "category": "デジタル教材"
   },
   {
+    "id": "lec_derujun_1000_knoun",
+    "name": "LEC 出る順宅建士 一問一答○×1000肢問題集｜Knoun",
+    "type": "solve",
+    "label": "解く",
+    "category": "デジタル教材"
+  },
+  {
     "id": "youtube_lectures",
     "name": "YouTube講義",
     "type": "listen",
