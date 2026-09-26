@@ -443,7 +443,8 @@
     "resource_id": "minhoshi_text_2023",
     "topic_id": "law_d7807f7dc8",
     "topic_ids": [
-      "law_d7807f7dc8"
+      "law_d7807f7dc8",
+      "law_4c9fec8184"
     ],
     "title": "SECTION 01 都市計画法",
     "native_path": "法令上の制限 / CHAPTER 03 法令上の制限",
@@ -455,8 +456,9 @@
   {
     "id": "minhoshi_text_2023__native_a4f28d2b54",
     "resource_id": "minhoshi_text_2023",
-    "topic_id": "law_cd2732d454",
+    "topic_id": "law_a3cb43ccf8",
     "topic_ids": [
+      "law_a3cb43ccf8",
       "law_cd2732d454"
     ],
     "title": "SECTION 02 建築基準法",
@@ -535,6 +537,25 @@
     "mapping": "native_section",
     "native_order": 37,
     "legacy_ids": []
+  },
+  {
+    "id": "minhoshi_text_2023__other_taxes",
+    "resource_id": "minhoshi_text_2023",
+    "topic_id": "other_99b74fe5a0",
+    "topic_ids": [
+      "other_99b74fe5a0",
+      "other_a559687a43",
+      "other_f3113f9af6",
+      "other_8af9afa2e6",
+      "other_2a21b3b2f7",
+      "other_3bfa57c660"
+    ],
+    "title": "SECTION 01 不動産に関する税金",
+    "native_path": "税・その他 / CHAPTER 04 税・その他",
+    "mapping": "native_section",
+    "native_order": 38,
+    "legacy_ids": [],
+    "url": null
   },
   {
     "id": "minhoshi_text_2023__other_241d9d5512",
@@ -1413,7 +1434,8 @@
     "resource_id": "minhoshi_digital_qa1",
     "topic_id": "law_d7807f7dc8",
     "topic_ids": [
-      "law_d7807f7dc8"
+      "law_d7807f7dc8",
+      "law_4c9fec8184"
     ],
     "title": "SECTION 01 都市計画法",
     "native_path": "法令上の制限 / CHAPTER 03 法令上の制限",
@@ -1426,8 +1448,9 @@
   {
     "id": "minhoshi_digital_qa1__native_016bf908d1",
     "resource_id": "minhoshi_digital_qa1",
-    "topic_id": "law_cd2732d454",
+    "topic_id": "law_a3cb43ccf8",
     "topic_ids": [
+      "law_a3cb43ccf8",
       "law_cd2732d454"
     ],
     "title": "SECTION 02 建築基準法",
@@ -1512,6 +1535,26 @@
     "legacy_ids": [],
     "link_kind": "pdf",
     "storage_path": "minhoshi_ichimon_hourei.pdf"
+  },
+  {
+    "id": "minhoshi_digital_qa1__other_taxes",
+    "resource_id": "minhoshi_digital_qa1",
+    "topic_id": "other_99b74fe5a0",
+    "topic_ids": [
+      "other_99b74fe5a0",
+      "other_a559687a43",
+      "other_f3113f9af6",
+      "other_8af9afa2e6",
+      "other_2a21b3b2f7",
+      "other_3bfa57c660"
+    ],
+    "title": "SECTION 01 不動産に関する税金",
+    "native_path": "税・その他 / CHAPTER 04 税・その他",
+    "mapping": "native_section",
+    "native_order": 38,
+    "legacy_ids": [],
+    "link_kind": "pdf",
+    "storage_path": "minhoshi_ichimon_zei.pdf"
   },
   {
     "id": "minhoshi_digital_qa1__other_241d9d5512",
@@ -2064,7 +2107,8 @@
     "resource_id": "minhoshi_digital_qa2",
     "topic_id": "law_d7807f7dc8",
     "topic_ids": [
-      "law_d7807f7dc8"
+      "law_d7807f7dc8",
+      "law_4c9fec8184"
     ],
     "title": "SECTION 01 都市計画法",
     "native_path": "法令上の制限 / CHAPTER 03 法令上の制限",
@@ -2077,8 +2121,9 @@
   {
     "id": "minhoshi_digital_qa2__native_727f6a24dc",
     "resource_id": "minhoshi_digital_qa2",
-    "topic_id": "law_cd2732d454",
+    "topic_id": "law_a3cb43ccf8",
     "topic_ids": [
+      "law_a3cb43ccf8",
       "law_cd2732d454"
     ],
     "title": "SECTION 02 建築基準法",
@@ -2163,6 +2208,26 @@
     "legacy_ids": [],
     "link_kind": "pdf",
     "storage_path": "minhoshi_qa_hourei.pdf"
+  },
+  {
+    "id": "minhoshi_digital_qa2__other_taxes",
+    "resource_id": "minhoshi_digital_qa2",
+    "topic_id": "other_99b74fe5a0",
+    "topic_ids": [
+      "other_99b74fe5a0",
+      "other_a559687a43",
+      "other_f3113f9af6",
+      "other_8af9afa2e6",
+      "other_2a21b3b2f7",
+      "other_3bfa57c660"
+    ],
+    "title": "SECTION 01 不動産に関する税金",
+    "native_path": "税・その他 / CHAPTER 04 税・その他",
+    "mapping": "native_section",
+    "native_order": 38,
+    "legacy_ids": [],
+    "link_kind": "pdf",
+    "storage_path": "minhoshi_qa_zei.pdf"
   },
   {
     "id": "minhoshi_digital_qa2__other_241d9d5512",
