@@ -113,8 +113,8 @@ function homeHTML(){
   const todayN=progress.filter(p=>new Date(p.completed_at).toDateString()===now.toDateString()).length, weekN=progress.filter(p=>new Date(p.completed_at)>=weekAgo).length;
   let last=null;try{last=JSON.parse(localStorage.getItem(LAST_KEY)||'null')}catch{};
   const action=(last&&items.find(i=>i.id===last.itemId))||items.find(i=>statusOf(i)!=='complete'), ar=action&&resourceById.get(action.resource_id), at=action&&topicById.get(topicIdsOf(action)[0]);
-  const fieldCards=fields.map(field=>{const ids=new Set(topics.filter(t=>t.field===field).map(t=>t.id));const subset=items.filter(i=>topicIdsOf(i).some(id=>ids.has(id)));return `<div class="card field-card"><h3>${field}</h3>${[1,2,3].map(n=>{const p=percentFor(subset,n);return `<div class="progress-line"><span>${n}周目</span><div class="progress"><i style="width:${p}%"></i></div><b>${p}%</b></div>`}).join('')}</div>`}).join('');
-  const resourceCards=resources.map(r=>{const subset=items.filter(i=>i.resource_id===r.id);const p1=percentFor(subset,1),p2=percentFor(subset,2),p3=percentFor(subset,3);return `<div class="card home-resource-card"><div class="home-resource-head"><div><span class="chip">${esc(r.label)}</span><h3>${esc(resourceShort(r))}</h3></div><strong>${p1}%</strong></div><div class="progress home-resource-progress"><i style="width:${p1}%"></i></div><div class="home-round-rates"><span>① ${p1}%</span><span>② ${p2}%</span><span>③ ${p3}%</span></div></div>`}).join('');
+  const fieldCards=fields.map(field=>{const ids=new Set(topics.filter(t=>t.field===field).map(t=>t.id));const subset=items.filter(i=>topicIdsOf(i).some(id=>ids.has(id)));return `<div class="card field-card"><h3>${field}</h3>${[1,2,3].map(n=>{const p=percentFor(subset,n);return `<div class="progress-line"><span>${n}周目</span><div class="progress ${p===100?'is-complete':''}"><i style="width:${p}%"></i></div><b>${p}%</b></div>`}).join('')}</div>`}).join('');
+  const resourceCards=resources.map(r=>{const subset=items.filter(i=>i.resource_id===r.id);const p1=percentFor(subset,1),p2=percentFor(subset,2),p3=percentFor(subset,3);return `<div class="card home-resource-card"><div class="home-resource-head"><div><span class="chip">${esc(r.label)}</span><h3>${esc(resourceShort(r))}</h3></div><strong>${p1}%</strong></div><div class="progress home-resource-progress ${p1===100?'is-complete':''}"><i style="width:${p1}%"></i></div><div class="home-round-rates"><span>① ${p1}%</span><span>② ${p2}%</span><span>③ ${p3}%</span></div></div>`}).join('');
   return `<div class="hero-card"><div><div class="eyebrow">宅建 STUDY</div><h2>今日の進み具合</h2></div><div class="hero-count">今日 <b>${todayN}</b> / 今週 <b>${weekN}</b></div></div>`+(action?`<div class="card resume-card"><div class="eyebrow">${last?'続きから再開':'次にやる'}</div><h3>${esc(at?.field||'')} ＞ ${esc(at?.name||action.title)}</h3><p>${esc(resourceShort(ar))}</p><button class="jump-btn" data-jump="${esc(action.id)}">開く →</button></div>`:'')+`<div class="home-section-title">分野別の進捗</div>`+fieldCards+`<div class="home-section-title">教材別の進捗 <span>大きな数字＝①の完了率</span></div>`+resourceCards;
 }
 function topicsHTML(){
@@ -123,11 +123,12 @@ function topicsHTML(){
   const topicRows=(field,group)=>topics.filter(t=>t.field===field&&(!group||t.group===group)).map(t=>{
     const allRelated=items.filter(i=>topicIdsOf(i).includes(t.id));
     const related=filtered(allRelated);
-    const counts=ids=>new Set(allRelated.filter(i=>ids.has(i.resource_id)).map(i=>i.resource_id)).size;
+    // One count per resource: a resource is complete only when every related item is checked for round 1.
+    const coverage=ids=>{const groups=new Map();for(const i of allRelated){if(!ids.has(i.resource_id))continue;if(!groups.has(i.resource_id))groups.set(i.resource_id,[]);groups.get(i.resource_id).push(i);}return `${[...groups.values()].filter(rows=>rows.every(i=>!!progressForItem(i,1))).length}/${groups.size}`;};
     const sections=[['紙テキスト',paperIds],['デジタル教材',digitalIds],['講義',lectureIds]].map(([label,ids])=>{const rows=related.filter(i=>ids.has(i.resource_id));return rows.length?`<div class="topic-section-label">${label}</div>${rows.map(i=>itemRow(i,{showResource:true,showPath:true})).join('')}`:''}).join('');
-    return `<details class="level-topic"><summary><span>${t.name}</span><span class="coverage coverage-multi">紙${counts(paperIds)}/2・デジ${counts(digitalIds)}/8・講義${counts(lectureIds)}/1</span></summary>${sections||'<div class="empty-field">現在の絞り込み条件に該当する教材はありません。</div>'}</details>`;
+    return `<details class="level-topic"><summary><span>${t.name}</span><span class="coverage coverage-multi">紙${coverage(paperIds)}・デジ${coverage(digitalIds)}・講義${coverage(lectureIds)}</span></summary>${sections||'<div class="empty-field">現在の絞り込み条件に該当する教材はありません。</div>'}</details>`;
   }).join('');
-  return toolsHTML()+`<div class="view-note">論点別にも紙テキスト・デジタル教材・講義をすべて表示します。同じ教材セクションが複数論点に対応する場合、どこか1か所でチェックすれば同じ進捗として反映されます。</div>`+fields.map(field=>{
+  return toolsHTML()+`<div class="view-note resource-note">分野別にも紙テキスト・デジタル教材・講義をすべて表示します。同じ教材セクションが複数の論点に対応する場合、どこか1か所でチェックすれば同じ進捗として反映されます。</div>`+fields.map(field=>{
     return `<details class="level-field" open><summary>${field}</summary>${topicRows(field,null)}</details>`;
   }).join('');
 }
@@ -136,10 +137,10 @@ function renderNativeTree(list,field){
   const root={children:new Map(),items:[]};
   for(const i of rows){
     let parts=(i.native_path||'').split(' / ').filter(Boolean);
-    if(parts[0]===field) parts=parts.slice(1);
+    while(parts.length && (parts[0]===field || /^(?:第[0-9０-９一二三四]+編\s*)?(権利関係|宅建業法|法令上の制限|税[・･]その他|その他関連知識)$/.test(parts[0]) && (parts[0].includes(field)|| (field==='税・その他'&&parts[0].includes('その他'))))) parts=parts.slice(1);
     if(parts.length && parts[parts.length-1]===i.title) parts=parts.slice(0,-1);
     let node=root;
-    for(const part of parts){if(!node.children.has(part))node.children.set(part,{children:new Map(),items:[]});node=node.children.get(part);}
+    for(const part of parts){if(part===field)continue;if(!node.children.has(part))node.children.set(part,{children:new Map(),items:[]});node=node.children.get(part);}
     node.items.push(i);
   }
   const draw=(node,depth=0)=>{
@@ -152,11 +153,11 @@ function renderNativeTree(list,field){
 }
 function resourcesHTML(){
   const cats=['紙テキスト','デジタル教材','講義'];
-  return toolsHTML()+`<div class="view-note resource-note">教材別は、各教材の目次・章立ての順に表示します。各セクションの下に「対応論点」を表示し、論点別と同じチェックを共有します。</div>`+
-  cats.map(cat=>`<section class="resource-category"><h2>${cat}${cat==='デジタル教材'?'（8）':''}</h2>${resources.filter(r=>r.category===cat).map(r=>{
+  return toolsHTML()+`<div class="view-note resource-note">教材別は、各教材の目次・章立ての順に表示します。各セクションの下に「対応論点」を表示し、分野別と同じチェックを共有します。</div>`+
+  cats.map(cat=>`<section class="resource-category"><h2>${cat}${cat==='デジタル教材'?`（${resources.filter(r=>r.category===cat).length}）`:''}</h2>${resources.filter(r=>r.category===cat).map(r=>{
     const subset=filtered(items.filter(i=>i.resource_id===r.id));
     const p1=percentFor(subset,1),p2=percentFor(subset,2),p3=percentFor(subset,3);
-    return `<details class="resource-card"><summary><div class="resource-summary-row"><div class="resource-summary-main"><span class="chip">${r.label}</span><span>${esc(r.name)}</span></div><div class="resource-summary-progress"><strong>${p1}%</strong><small>①${p1}% ②${p2}% ③${p3}%</small></div></div><div class="progress resource-summary-bar"><i style="width:${p1}%"></i></div></summary><div class="resource-four-fields">${fields.map(field=>{const fs=subset.filter(i=>fieldOf(i)===field);const pdfItem=fs.find(i=>i.link_kind==='pdf'&&(i.storage_path||i.url));const fieldPdf=pdfItem?(pdfItem.storage_path?`<button type="button" class="field-pdf-link storage-link" data-storage-path="${esc(pdfItem.storage_path)}">この分野のPDFを開く ↗</button>`:`<a class="field-pdf-link" href="${esc(pdfItem.url)}" target="_blank" rel="noopener">この分野のPDFを開く ↗</a>`):'';return `<details class="resource-field"><summary><span>${field}</span><span class="field-count">${fs.length}セクション</span></summary>${fieldPdf}${fs.length?renderNativeTree(fs,field):'<div class="empty-field">この分野の項目はまだ登録されていません。</div>'}</details>`}).join('')}</div></details>`
+    return `<details class="resource-card"><summary><div class="resource-summary-row"><div class="resource-summary-main"><span class="chip">${r.label}</span><span>${esc(r.name)}</span></div><div class="resource-summary-progress"><strong>${p1}%</strong><small>①${p1}% ②${p2}% ③${p3}%</small></div></div><div class="progress resource-summary-bar ${p1===100?'is-complete':''}"><i style="width:${p1}%"></i></div></summary><div class="resource-four-fields">${fields.map(field=>{const fs=subset.filter(i=>fieldOf(i)===field);const pdfItem=fs.find(i=>i.link_kind==='pdf'&&(i.storage_path||i.url));const fieldPdf=pdfItem?(pdfItem.storage_path?`<button type="button" class="field-pdf-link storage-link" data-storage-path="${esc(pdfItem.storage_path)}">この分野のPDFを開く ↗</button>`:`<a class="field-pdf-link" href="${esc(pdfItem.url)}" target="_blank" rel="noopener">この分野のPDFを開く ↗</a>`):'';return `<details class="resource-field"><summary><span>${field}</span><span class="field-count">${fs.length}セクション</span></summary>${fieldPdf}${fs.length?renderNativeTree(fs,field):'<div class="empty-field">この分野の項目はまだ登録されていません。</div>'}</details>`}).join('')}</div></details>`
   }).join('')}</section>`).join('');
 }
 function recentHTML(){
