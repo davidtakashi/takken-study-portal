@@ -137,7 +137,13 @@ function renderNativeTree(list,field){
   const root={children:new Map(),items:[]};
   for(const i of rows){
     let parts=(i.native_path||'').split(' / ').filter(Boolean);
-    while(parts.length && (parts[0]===field || /^(?:第[0-9０-９一二三四]+編\s*)?(権利関係|宅建業法|法令上の制限|税[・･]その他|その他関連知識)$/.test(parts[0]) && (parts[0].includes(field)|| (field==='税・その他'&&parts[0].includes('その他'))))) parts=parts.slice(1);
+    // Skip redundant field, book-part and platform wrappers, not actual sections.
+    const redundantHeading = part => {
+      const t=part.replace(/\s+/g,'').replace(/[･]/g,'・');
+      return t===field || /^(?:CHAPTER\d+|第[0-9０-９一二三四]+編)(権利関係|宅建業法|法令上の制限|税・その他)$/.test(t)
+        || t==='合格のトリセツ基準' || t==='YouTube講義';
+    };
+    while(parts.length && redundantHeading(parts[0])) parts.shift();
     if(parts.length && parts[parts.length-1]===i.title) parts=parts.slice(0,-1);
     let node=root;
     for(const part of parts){if(part===field)continue;if(!node.children.has(part))node.children.set(part,{children:new Map(),items:[]});node=node.children.get(part);}
