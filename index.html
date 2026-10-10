@@ -8,7 +8,7 @@
   <link rel="manifest" href="./manifest.webmanifest">
   <link rel="icon" type="image/png" sizes="192x192" href="./icons/icon-192.png">
   <link rel="apple-touch-icon" href="./icons/icon-192.png">
-  <link rel="stylesheet" href="./styles.css?v=20261011-controls-contrast-v2">
+  <link rel="stylesheet" href="./styles.css?v=20261011-select-filters-v1">
 </head>
 <body>
   <div id="app">
@@ -27,11 +27,11 @@
 
     <section id="mainView" class="screen hidden">
       <header>
-        <div>
+        <div class="brand-group">
           <button id="brandHome" class="brand-home" type="button" aria-label="ホームへ戻る">宅建 Study</button>
           <small id="userEmail"></small>
         </div>
-        <button id="logoutBtn" class="ghost">ログアウト</button>
+        <button id="logoutBtn" class="ghost icon-logout" aria-label="ログアウト" title="ログアウト"><span aria-hidden="true">⇥</span></button>
       </header>
 
       <nav class="tabs">
@@ -48,6 +48,6 @@
     </section>
   </div>
 
-  <script type="module" src="./app.js?v=20261011-controls-contrast-v2"></script>
+  <script type="module" src="./app.js?v=20261011-select-filters-v1"></script>
 </body>
 </html>

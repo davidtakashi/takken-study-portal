@@ -16,7 +16,7 @@ let currentTab = 'home';
 const THEME_KEY = 'takken-theme';
 const FILTER_KEY='takken-filter', LAST_KEY='takken-last-item';
 let currentFilter=localStorage.getItem(FILTER_KEY)||'all', searchTerm='';
-let unfinishedOnly=false, unfinishedRound=1, undoRecord=null, undoTimer=null;
+let displayMode='all', unfinishedRound=1, undoRecord=null, undoTimer=null;
 const tabOrder=['home','topics','resources','recent','settings'];
 function goTab(tab){if(!tabOrder.includes(tab))return;currentTab=tab;render();window.scrollTo({top:0,behavior:'instant'});}
 function rememberLocation(item){localStorage.setItem('takken-last-location',JSON.stringify({resourceId:item.resource_id,itemId:item.id}));}
@@ -62,8 +62,8 @@ const pkey=(id,n)=>`${id}::${n}`;
 const progressMap=()=>new Map(progress.map(p=>[pkey(p.item_id,p.round_no),p]));
 function progressForItem(i,n){return progressMap().get(pkey(i.id,n))||null;}
 function statusOf(i){const n=[1,2,3].filter(x=>progressForItem(i,x)).length;return n===0?'unstarted':n===3?'complete':'partial';}
-function filtered(list){return list.filter(i=>(!unfinishedOnly||!progressForItem(i,unfinishedRound))&&(currentFilter==='all'||statusOf(i)===currentFilter)&&(!searchTerm||[i.title,i.native_path,resourceById.get(i.resource_id)?.name,...topicNamesOf(i)].join(' ').toLowerCase().includes(searchTerm.toLowerCase())));}
-function toolsHTML(){return `<div class="study-tools"><div class="unfinished-controls"><label><input type="checkbox" id="unfinishedOnly" ${unfinishedOnly?'checked':''}> 未完了のみ</label><select id="unfinishedRound" aria-label="対象の周回">${[1,2,3].map(n=>`<option value="${n}" ${n===unfinishedRound?'selected':''}>${n}周目</option>`).join('')}</select></div><input id="searchBox" type="search" placeholder="論点・教材を検索" value="${esc(searchTerm)}"><div class="filters">${[['all','すべて'],['unstarted','未着手'],['partial','途中'],['complete','完了']].map(([id,l])=>`<button class="filter-btn ${currentFilter===id?'active':''}" data-filter="${id}">${l}</button>`).join('')}</div></div>`;}
+function filtered(list){return list.filter(i=>(displayMode==='all'||(displayMode==='unfinished'?!progressForItem(i,unfinishedRound):!!progressForItem(i,unfinishedRound)))&&(!searchTerm||[i.title,i.native_path,resourceById.get(i.resource_id)?.name,...topicNamesOf(i)].join(' ').toLowerCase().includes(searchTerm.toLowerCase())));}
+function toolsHTML(){return `<div class="study-tools"><div class="unfinished-controls"><span class="filter-symbol" aria-hidden="true">☷</span><select id="unfinishedRound" aria-label="対象の周回">${[1,2,3].map(n=>`<option value="${n}" ${n===unfinishedRound?'selected':''}>${n}周目</option>`).join('')}</select><select id="displayMode" aria-label="表示する項目"><option value="all" ${displayMode==='all'?'selected':''}>すべて</option><option value="unfinished" ${displayMode==='unfinished'?'selected':''}>未完了のみ</option><option value="finished" ${displayMode==='finished'?'selected':''}>完了済みのみ</option></select></div><input id="searchBox" type="search" placeholder="論点・教材を検索" value="${esc(searchTerm)}"></div>`;}
 async function toggleProgress(itemId,roundNo){
   const item=items.find(i=>i.id===itemId); if(!item)return;
   const existing=progressForItem(item,roundNo);
@@ -195,8 +195,7 @@ function render(){
   $('#exportBtn')?.addEventListener('click',()=>{const blob=new Blob([JSON.stringify({exported_at:new Date().toISOString(),progress},null,2)],{type:'application/json'});const a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download=`takken-progress-${new Date().toISOString().slice(0,10)}.json`;a.click();URL.revokeObjectURL(a.href)});
   $('#importFile')?.addEventListener('change',importBackup);
   document.querySelectorAll('.theme-choice').forEach(b=>b.addEventListener('click',()=>{applyTheme(b.dataset.theme);render();}));
-  document.querySelectorAll('.filter-btn').forEach(b=>b.addEventListener('click',()=>{currentFilter=b.dataset.filter;localStorage.setItem(FILTER_KEY,currentFilter);render();}));
-  $('#unfinishedOnly')?.addEventListener('change',e=>{unfinishedOnly=e.target.checked;render();});
+  $('#displayMode')?.addEventListener('change',e=>{displayMode=e.target.value;render();});
   $('#unfinishedRound')?.addEventListener('change',e=>{unfinishedRound=Number(e.target.value);render();});
   document.querySelectorAll('[data-cal]').forEach(b=>b.addEventListener('click',()=>{calendarOffset+=Number(b.dataset.cal);render();}));
   document.querySelectorAll('.resume-resource-btn').forEach(b=>b.addEventListener('click',()=>{const i=items.find(x=>x.id===b.dataset.resume);if(!i)return;goTab('resources');const card=[...document.querySelectorAll('.resource-card')].find(d=>d.textContent.includes(resourceById.get(i.resource_id)?.name||'__none__'));if(card){card.open=true;card.scrollIntoView({behavior:'smooth',block:'start'});const fs=[...card.querySelectorAll('.resource-field')].find(d=>d.querySelector('summary')?.textContent.includes(fieldOf(i)));if(fs)fs.open=true;}}));
