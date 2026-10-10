@@ -8,7 +8,7 @@
   <link rel="manifest" href="./manifest.webmanifest">
   <link rel="icon" type="image/png" sizes="192x192" href="./icons/icon-192.png">
   <link rel="apple-touch-icon" href="./icons/icon-192.png">
-  <link rel="stylesheet" href="./styles.css?v=20261011-flat-resource-tree-all-themes">
+  <link rel="stylesheet" href="./styles.css?v=20261011-eight-conveniences-v1">
 </head>
 <body>
   <div id="app">
@@ -28,7 +28,7 @@
     <section id="mainView" class="screen hidden">
       <header>
         <div>
-          <h1>宅建 Study</h1>
+          <button id="brandHome" class="brand-home" type="button" aria-label="ホームへ戻る">宅建 Study</button>
           <small id="userEmail"></small>
         </div>
         <button id="logoutBtn" class="ghost">ログアウト</button>
@@ -42,10 +42,12 @@
         <button data-tab="settings">設定</button>
       </nav>
 
+      <div id="treeControls" class="tree-controls hidden"><button id="expandAllBtn" type="button">すべて展開</button><button id="collapseAllBtn" type="button">すべて折りたたむ</button></div>
       <main id="content"></main>
+      <button id="scrollTopBtn" class="scroll-top hidden" type="button" aria-label="上に戻る">↑</button>
     </section>
   </div>
 
-  <script type="module" src="./app.js?v=20261011-flat-resource-tree-all-themes"></script>
+  <script type="module" src="./app.js?v=20261011-eight-conveniences-v1"></script>
 </body>
 </html>
