@@ -191,3 +191,5 @@ header .brand-group{margin-right:auto}
 .unfinished-controls .filter-symbol .lucide{width:19px;height:19px}
 .scroll-top .lucide{width:22px;height:22px;margin:auto}
 @media(max-width:360px){header{padding-inline:8px;gap:5px}header .icon-action,header #logoutBtn.icon-logout{width:32px;height:34px;flex-basis:32px}.brand-home{font-size:.93rem!important;gap:4px}header .brand-group{gap:4px}}
+
+.tree-controls .lucide{width:15px;height:15px;flex-shrink:0}
