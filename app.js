@@ -154,7 +154,7 @@ function renderNativeTree(list,field){
     const redundantHeading = part => {
       const t=part.replace(/\s+/g,'').replace(/[･]/g,'・');
       return t===field || /^(?:CHAPTER\d+|第[0-9０-９一二三四]+編)(権利関係|宅建業法|法令上の制限|税・その他)$/.test(t)
-        || t==='合格のトリセツ基準' || t==='YouTube講義';
+        || t==='合格のトリセツ基準' || t==='YouTube講義' || t==='2026年版厳選分野別過去問題集';
     };
     while(parts.length && redundantHeading(parts[0])) parts.shift();
     if(parts.length && parts[parts.length-1]===i.title) parts=parts.slice(0,-1);
