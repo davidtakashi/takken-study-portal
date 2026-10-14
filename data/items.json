@@ -5294,806 +5294,6 @@
     "legacy_ids": []
   },
   {
-    "id": "lec_torisetsu_bunyabetsu_knoun__rights_intent",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "rights_intent",
-    "topic_ids": [
-      "rights_intent"
-    ],
-    "title": "意思表示",
-    "native_path": "権利関係 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 0,
-    "legacy_ids": []
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__rights_capacity",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "rights_capacity",
-    "topic_ids": [
-      "rights_capacity"
-    ],
-    "title": "制限行為能力者",
-    "native_path": "権利関係 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 1,
-    "legacy_ids": []
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__rights_limitation",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "rights_limitation",
-    "topic_ids": [
-      "rights_limitation"
-    ],
-    "title": "時効",
-    "native_path": "権利関係 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 2,
-    "legacy_ids": []
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__rights_agency",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "rights_agency",
-    "topic_ids": [
-      "rights_agency"
-    ],
-    "title": "代理",
-    "native_path": "権利関係 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 3,
-    "legacy_ids": []
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__sec_52b14fd6a974",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "rights_d0b3d40e24",
-    "topic_ids": [
-      "rights_d0b3d40e24"
-    ],
-    "title": "債務不履行・解除",
-    "native_path": "権利関係 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 4,
-    "legacy_ids": [
-      "lec_torisetsu_bunyabetsu_knoun__native_4ab2e58c4f"
-    ]
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__sec_6729bc0dd7f9",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "rights_d7fb984cab",
-    "topic_ids": [
-      "rights_d7fb984cab"
-    ],
-    "title": "弁済",
-    "native_path": "権利関係 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 5,
-    "legacy_ids": []
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__native_8d089e4a50",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "rights_f4c32080b7",
-    "topic_ids": [
-      "rights_f4c32080b7"
-    ],
-    "title": "契約不適合責任",
-    "native_path": "権利関係 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 6,
-    "legacy_ids": []
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__sec_34c230032d04",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "rights_acfb3361ec",
-    "topic_ids": [
-      "rights_acfb3361ec"
-    ],
-    "title": "相続",
-    "native_path": "権利関係 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 7,
-    "legacy_ids": [
-      "lec_torisetsu_bunyabetsu_knoun__native_0171a223de"
-    ]
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__sec_b12e0bf5a5a4",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "rights_d672a3a22c",
-    "topic_ids": [
-      "rights_d672a3a22c"
-    ],
-    "title": "物権変動",
-    "native_path": "権利関係 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 8,
-    "legacy_ids": [
-      "lec_torisetsu_bunyabetsu_knoun__native_3f4a0cf6a6"
-    ]
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__sec_1460bcf15404",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "rights_2430e010c0",
-    "topic_ids": [
-      "rights_2430e010c0"
-    ],
-    "title": "不動産登記法",
-    "native_path": "権利関係 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 9,
-    "legacy_ids": []
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__rights_97c9209e61",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "rights_97c9209e61",
-    "topic_ids": [
-      "rights_97c9209e61"
-    ],
-    "title": "抵当権",
-    "native_path": "権利関係 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 10,
-    "legacy_ids": []
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__rights_9553c8a3a6",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "rights_9553c8a3a6",
-    "topic_ids": [
-      "rights_9553c8a3a6"
-    ],
-    "title": "保証・連帯債務",
-    "native_path": "権利関係 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 11,
-    "legacy_ids": []
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__sec_84a0440f95c7",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "rights_0f340e0880",
-    "topic_ids": [
-      "rights_0f340e0880"
-    ],
-    "title": "共有",
-    "native_path": "権利関係 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 12,
-    "legacy_ids": []
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__sec_4716a5682ebe",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "rights_0c4f8f5fd5",
-    "topic_ids": [
-      "rights_0c4f8f5fd5"
-    ],
-    "title": "建物区分所有法",
-    "native_path": "権利関係 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 13,
-    "legacy_ids": []
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__native_cb66d4e572",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "rights_90b1750c9a",
-    "topic_ids": [
-      "rights_90b1750c9a"
-    ],
-    "title": "賃貸借",
-    "native_path": "権利関係 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 14,
-    "legacy_ids": []
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__torisetsu_15",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "rights_88f1ee6b2d",
-    "topic_ids": [
-      "rights_88f1ee6b2d"
-    ],
-    "title": "借地借家法（借家）",
-    "native_path": "権利関係 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 15,
-    "legacy_ids": []
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__torisetsu_16",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "rights_b9664ce7c1",
-    "topic_ids": [
-      "rights_b9664ce7c1"
-    ],
-    "title": "借地借家法（借地）",
-    "native_path": "権利関係 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 16,
-    "legacy_ids": []
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__sec_5665ffcd8847",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "rights_77b396ee2d",
-    "topic_ids": [
-      "rights_77b396ee2d"
-    ],
-    "title": "不法行為",
-    "native_path": "権利関係 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 17,
-    "legacy_ids": []
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__torisetsu_18",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "rights_7c2281ce71",
-    "topic_ids": [
-      "rights_7c2281ce71"
-    ],
-    "title": "その他",
-    "native_path": "権利関係 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 18,
-    "legacy_ids": [
-      "lec_torisetsu_bunyabetsu_knoun__native_8d089e4a50",
-      "lec_torisetsu_bunyabetsu_knoun__native_8d089e4a50",
-      "lec_torisetsu_bunyabetsu_knoun__native_0171a223de"
-    ]
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__sec_c4ba11d25505",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "business_e9a3236db9",
-    "topic_ids": [
-      "business_e9a3236db9"
-    ],
-    "title": "宅建業の意味",
-    "native_path": "宅建業法 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 19,
-    "legacy_ids": [
-      "lec_torisetsu_bunyabetsu_knoun__native_6668cc71ff"
-    ]
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__sec_9e93bef6ca7a",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "business_ec037d3765",
-    "topic_ids": [
-      "business_ec037d3765"
-    ],
-    "title": "事務所",
-    "native_path": "宅建業法 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 20,
-    "legacy_ids": [
-      "lec_torisetsu_bunyabetsu_knoun__native_31f92c0ca0"
-    ]
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__sec_ecb0797f03fa",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "business_license",
-    "topic_ids": [
-      "business_license"
-    ],
-    "title": "免許",
-    "native_path": "宅建業法 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 21,
-    "legacy_ids": []
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__torisetsu_22",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "business_a1b167a8db",
-    "topic_ids": [
-      "business_a1b167a8db"
-    ],
-    "title": "事務所以外の場所",
-    "native_path": "宅建業法 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 22,
-    "legacy_ids": []
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__sec_b4b28995a103",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "business_agent",
-    "topic_ids": [
-      "business_agent"
-    ],
-    "title": "宅地建物取引士",
-    "native_path": "宅建業法 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 23,
-    "legacy_ids": []
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__sec_6df15b49a2b7",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "business_3c8b8e6aca",
-    "topic_ids": [
-      "business_3c8b8e6aca"
-    ],
-    "title": "営業保証金",
-    "native_path": "宅建業法 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 24,
-    "legacy_ids": [
-      "lec_torisetsu_bunyabetsu_knoun__native_8fff45d4ac"
-    ]
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__sec_b42e06557ae7",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "business_12b28bb9d2",
-    "topic_ids": [
-      "business_12b28bb9d2"
-    ],
-    "title": "弁済業務保証金",
-    "native_path": "宅建業法 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 25,
-    "legacy_ids": []
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__sec_966b2ca54be2",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "business_b484e7ce9c",
-    "topic_ids": [
-      "business_b484e7ce9c"
-    ],
-    "title": "媒介・代理",
-    "native_path": "宅建業法 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 26,
-    "legacy_ids": [
-      "lec_torisetsu_bunyabetsu_knoun__native_39310f6da5"
-    ]
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__sec_c8036d9e53fc",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "business_128c05aa94",
-    "topic_ids": [
-      "business_128c05aa94"
-    ],
-    "title": "広告等の規制",
-    "native_path": "宅建業法 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 27,
-    "legacy_ids": []
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__sec_9f1bdbd692b6",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "business_2192a0359a",
-    "topic_ids": [
-      "business_2192a0359a"
-    ],
-    "title": "重要事項の説明",
-    "native_path": "宅建業法 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 28,
-    "legacy_ids": [
-      "lec_torisetsu_bunyabetsu_knoun__native_53fb37e912"
-    ]
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__sec_e298a6c4592b",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "business_c808821440",
-    "topic_ids": [
-      "business_c808821440"
-    ],
-    "title": "37条書面",
-    "native_path": "宅建業法 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 29,
-    "legacy_ids": []
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__sec_aa2a56fabe40",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "business_990979c912",
-    "topic_ids": [
-      "business_990979c912"
-    ],
-    "title": "業務上の規制",
-    "native_path": "宅建業法 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 30,
-    "legacy_ids": []
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__native_128f0e7211",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "business_9cf105a9bb",
-    "topic_ids": [
-      "business_9cf105a9bb"
-    ],
-    "title": "自ら売主制限",
-    "native_path": "宅建業法 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 31,
-    "legacy_ids": []
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__sec_a665c8339792",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "business_warranty",
-    "topic_ids": [
-      "business_warranty"
-    ],
-    "title": "住宅瑕疵担保履行法",
-    "native_path": "宅建業法 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 32,
-    "legacy_ids": [
-      "lec_torisetsu_bunyabetsu_knoun__native_1d36bc9ba5"
-    ]
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__sec_871cb1c881f8",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "business_a5f12385c3",
-    "topic_ids": [
-      "business_a5f12385c3"
-    ],
-    "title": "報酬額の制限",
-    "native_path": "宅建業法 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 33,
-    "legacy_ids": []
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__sec_b4ba10b70278",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "business_7d39c7f89d",
-    "topic_ids": [
-      "business_7d39c7f89d"
-    ],
-    "title": "監督・罰則",
-    "native_path": "宅建業法 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 34,
-    "legacy_ids": []
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__torisetsu_35",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "law_d7807f7dc8",
-    "topic_ids": [
-      "law_d7807f7dc8"
-    ],
-    "title": "都市計画法1",
-    "native_path": "法令上の制限 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 35,
-    "legacy_ids": []
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__torisetsu_36",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "law_4c9fec8184",
-    "topic_ids": [
-      "law_4c9fec8184"
-    ],
-    "title": "都市計画法2",
-    "native_path": "法令上の制限 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 36,
-    "legacy_ids": []
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__torisetsu_37",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "law_a3cb43ccf8",
-    "topic_ids": [
-      "law_a3cb43ccf8"
-    ],
-    "title": "建築基準法1",
-    "native_path": "法令上の制限 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 37,
-    "legacy_ids": []
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__torisetsu_38",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "law_cd2732d454",
-    "topic_ids": [
-      "law_cd2732d454"
-    ],
-    "title": "建築基準法2",
-    "native_path": "法令上の制限 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 38,
-    "legacy_ids": []
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__sec_288e50b93b0c",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "law_f9e7c42521",
-    "topic_ids": [
-      "law_f9e7c42521"
-    ],
-    "title": "国土利用計画法",
-    "native_path": "法令上の制限 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 39,
-    "legacy_ids": [
-      "lec_torisetsu_bunyabetsu_knoun__native_87c932561c"
-    ]
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__sec_64fb4cc89727",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "law_eab8632d96",
-    "topic_ids": [
-      "law_eab8632d96"
-    ],
-    "title": "農地法",
-    "native_path": "法令上の制限 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 40,
-    "legacy_ids": []
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__sec_e58ec2cbf80a",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "law_f85dea5b8a",
-    "topic_ids": [
-      "law_f85dea5b8a"
-    ],
-    "title": "土地区画整理法",
-    "native_path": "法令上の制限 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 41,
-    "legacy_ids": []
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__sec_5f773d904915",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "law_8c95545b2e",
-    "topic_ids": [
-      "law_8c95545b2e"
-    ],
-    "title": "その他の法令上の制限",
-    "native_path": "法令上の制限 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 42,
-    "legacy_ids": []
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__sec_6f65b596db69",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "other_99b74fe5a0",
-    "topic_ids": [
-      "other_99b74fe5a0"
-    ],
-    "title": "不動産取得税",
-    "native_path": "税・その他 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 43,
-    "legacy_ids": [
-      "lec_torisetsu_bunyabetsu_knoun__native_8fffa5cce3"
-    ]
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__sec_dafec13e75b5",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "other_a559687a43",
-    "topic_ids": [
-      "other_a559687a43"
-    ],
-    "title": "固定資産税",
-    "native_path": "税・その他 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 44,
-    "legacy_ids": []
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__sec_356a9f3b459f",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "other_f3113f9af6",
-    "topic_ids": [
-      "other_f3113f9af6"
-    ],
-    "title": "所得税（譲渡所得）",
-    "native_path": "税・その他 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 45,
-    "legacy_ids": []
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__sec_84765204c826",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "other_8af9afa2e6",
-    "topic_ids": [
-      "other_8af9afa2e6"
-    ],
-    "title": "印紙税",
-    "native_path": "税・その他 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 46,
-    "legacy_ids": []
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__sec_ac77be399f30",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "other_2a21b3b2f7",
-    "topic_ids": [
-      "other_2a21b3b2f7"
-    ],
-    "title": "登録免許税",
-    "native_path": "税・その他 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 47,
-    "legacy_ids": []
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__sec_5b107d910fb4",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "other_3bfa57c660",
-    "topic_ids": [
-      "other_3bfa57c660"
-    ],
-    "title": "贈与税",
-    "native_path": "税・その他 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 48,
-    "legacy_ids": []
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__sec_9308640c982c",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "other_cba29a763e",
-    "topic_ids": [
-      "other_cba29a763e"
-    ],
-    "title": "地価公示法",
-    "native_path": "税・その他 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 49,
-    "legacy_ids": [
-      "lec_torisetsu_bunyabetsu_knoun__native_ac2c94c6be"
-    ]
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__sec_b45203fb2249",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "other_241d9d5512",
-    "topic_ids": [
-      "other_241d9d5512"
-    ],
-    "title": "不動産鑑定評価基準",
-    "native_path": "税・その他 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 50,
-    "legacy_ids": []
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__sec_9772f87c3370",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "other_648e7c9dde",
-    "topic_ids": [
-      "other_648e7c9dde"
-    ],
-    "title": "住宅金融支援機構法",
-    "native_path": "税・その他 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 51,
-    "legacy_ids": [
-      "lec_torisetsu_bunyabetsu_knoun__native_eb6e163784"
-    ]
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__sec_673a528d1d31",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "other_4fa1abf88d",
-    "topic_ids": [
-      "other_4fa1abf88d"
-    ],
-    "title": "景品表示法",
-    "native_path": "税・その他 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 52,
-    "legacy_ids": []
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__torisetsu_53",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "other_010108fbb9",
-    "topic_ids": [
-      "other_010108fbb9"
-    ],
-    "title": "土地",
-    "native_path": "税・その他 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 53,
-    "legacy_ids": []
-  },
-  {
-    "id": "lec_torisetsu_bunyabetsu_knoun__torisetsu_54",
-    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
-    "topic_id": "other_cd18d7dd34",
-    "topic_ids": [
-      "other_cd18d7dd34"
-    ],
-    "title": "建物",
-    "native_path": "税・その他 / 合格のトリセツ基準",
-    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
-    "mapping": "torisetsu_master",
-    "native_order": 54,
-    "legacy_ids": []
-  },
-  {
     "id": "youtube_lectures__rights_capacity",
     "resource_id": "youtube_lectures",
     "topic_id": "rights_capacity",
@@ -7434,5 +6634,952 @@
     "mapping": "native_section",
     "native_order": 47,
     "legacy_ids": []
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__rights_intent",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "rights_intent",
+    "topic_ids": [
+      "rights_intent"
+    ],
+    "title": "意思表示",
+    "native_path": "権利関係 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 0,
+    "legacy_ids": [],
+    "question_range": "問題 1〜5"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__rights_capacity",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "rights_capacity",
+    "topic_ids": [
+      "rights_capacity"
+    ],
+    "title": "制限行為能力者",
+    "native_path": "権利関係 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 1,
+    "legacy_ids": [],
+    "question_range": "問題 6〜10"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__rights_limitation",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "rights_limitation",
+    "topic_ids": [
+      "rights_limitation"
+    ],
+    "title": "時効",
+    "native_path": "権利関係 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 2,
+    "legacy_ids": [],
+    "question_range": "問題 11〜14"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__rights_agency",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "rights_agency",
+    "topic_ids": [
+      "rights_agency"
+    ],
+    "title": "代理",
+    "native_path": "権利関係 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 3,
+    "legacy_ids": [],
+    "question_range": "問題 15〜24"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__sec_52b14fd6a974",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "rights_d0b3d40e24",
+    "topic_ids": [
+      "rights_d0b3d40e24"
+    ],
+    "title": "債務不履行・解除",
+    "native_path": "権利関係 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 4,
+    "legacy_ids": [
+      "lec_torisetsu_bunyabetsu_knoun__native_4ab2e58c4f"
+    ],
+    "question_range": "問題 25〜30"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__sec_6729bc0dd7f9",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "rights_d7fb984cab",
+    "topic_ids": [
+      "rights_d7fb984cab"
+    ],
+    "title": "弁済",
+    "native_path": "権利関係 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 5,
+    "legacy_ids": [],
+    "question_range": "問題 31〜32"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__native_8d089e4a50",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "rights_f4c32080b7",
+    "topic_ids": [
+      "rights_f4c32080b7"
+    ],
+    "title": "契約不適合",
+    "native_path": "権利関係 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 6,
+    "legacy_ids": [],
+    "question_range": "問題 33〜36"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__sec_34c230032d04",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "rights_acfb3361ec",
+    "topic_ids": [
+      "rights_acfb3361ec"
+    ],
+    "title": "相続",
+    "native_path": "権利関係 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 7,
+    "legacy_ids": [
+      "lec_torisetsu_bunyabetsu_knoun__native_0171a223de"
+    ],
+    "question_range": "問題 37〜44"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__sec_b12e0bf5a5a4",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "rights_d672a3a22c",
+    "topic_ids": [
+      "rights_d672a3a22c"
+    ],
+    "title": "物権変動",
+    "native_path": "権利関係 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 8,
+    "legacy_ids": [
+      "lec_torisetsu_bunyabetsu_knoun__native_3f4a0cf6a6"
+    ],
+    "question_range": "問題 45〜50"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__sec_1460bcf15404",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "rights_2430e010c0",
+    "topic_ids": [
+      "rights_2430e010c0"
+    ],
+    "title": "不動産登記法",
+    "native_path": "権利関係 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 9,
+    "legacy_ids": [],
+    "question_range": "問題 51〜55"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__rights_97c9209e61",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "rights_97c9209e61",
+    "topic_ids": [
+      "rights_97c9209e61"
+    ],
+    "title": "抵当権",
+    "native_path": "権利関係 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 10,
+    "legacy_ids": [],
+    "question_range": "問題 56〜60"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__rights_9553c8a3a6",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "rights_9553c8a3a6",
+    "topic_ids": [
+      "rights_9553c8a3a6"
+    ],
+    "title": "保証・連帯債務",
+    "native_path": "権利関係 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 11,
+    "legacy_ids": [],
+    "question_range": "問題 61〜66"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__sec_84a0440f95c7",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "rights_0f340e0880",
+    "topic_ids": [
+      "rights_0f340e0880"
+    ],
+    "title": "共有",
+    "native_path": "権利関係 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 12,
+    "legacy_ids": [],
+    "question_range": "問題 67〜70"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__sec_4716a5682ebe",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "rights_0c4f8f5fd5",
+    "topic_ids": [
+      "rights_0c4f8f5fd5"
+    ],
+    "title": "建物区分所有法",
+    "native_path": "権利関係 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 13,
+    "legacy_ids": [],
+    "question_range": "問題 71〜77"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__native_cb66d4e572",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "rights_90b1750c9a",
+    "topic_ids": [
+      "rights_90b1750c9a"
+    ],
+    "title": "賃貸借",
+    "native_path": "権利関係 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 14,
+    "legacy_ids": [],
+    "question_range": "問題 78〜80"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__torisetsu_15",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "rights_88f1ee6b2d",
+    "topic_ids": [
+      "rights_88f1ee6b2d"
+    ],
+    "title": "借地借家法（借家）",
+    "native_path": "権利関係 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 15,
+    "legacy_ids": [],
+    "question_range": "問題 81〜88"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__torisetsu_16",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "rights_b9664ce7c1",
+    "topic_ids": [
+      "rights_b9664ce7c1"
+    ],
+    "title": "借地借家法（借地）",
+    "native_path": "権利関係 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 16,
+    "legacy_ids": [],
+    "question_range": "問題 89〜97"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__sec_5665ffcd8847",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "rights_77b396ee2d",
+    "topic_ids": [
+      "rights_77b396ee2d"
+    ],
+    "title": "不法行為",
+    "native_path": "権利関係 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 17,
+    "legacy_ids": [],
+    "question_range": "問題 98〜102"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__torisetsu_18",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "rights_7c2281ce71",
+    "topic_ids": [
+      "rights_7c2281ce71"
+    ],
+    "title": "相隣関係",
+    "native_path": "権利関係 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 18,
+    "legacy_ids": [
+      "lec_torisetsu_bunyabetsu_knoun__native_8d089e4a50",
+      "lec_torisetsu_bunyabetsu_knoun__native_8d089e4a50",
+      "lec_torisetsu_bunyabetsu_knoun__native_0171a223de"
+    ],
+    "question_range": "問題 103"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__toc_19_104_e6a8a9",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "rights_7c2281ce71",
+    "topic_ids": [
+      "rights_7c2281ce71"
+    ],
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "toc_2026",
+    "legacy_ids": [],
+    "title": "債権譲渡",
+    "native_path": "権利関係 / 2026年版 厳選分野別過去問題集",
+    "native_order": 19,
+    "question_range": "問題 104〜105"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__toc_20_106_e6a8a9",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "rights_7c2281ce71",
+    "topic_ids": [
+      "rights_7c2281ce71"
+    ],
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "toc_2026",
+    "legacy_ids": [],
+    "title": "請負",
+    "native_path": "権利関係 / 2026年版 厳選分野別過去問題集",
+    "native_order": 20,
+    "question_range": "問題 106〜107"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__toc_21_108_e6a8a9",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "rights_7c2281ce71",
+    "topic_ids": [
+      "rights_7c2281ce71"
+    ],
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "toc_2026",
+    "legacy_ids": [],
+    "title": "委任",
+    "native_path": "権利関係 / 2026年版 厳選分野別過去問題集",
+    "native_order": 21,
+    "question_range": "問題 108〜109"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__toc_22_110_e6a8a9",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "rights_7c2281ce71",
+    "topic_ids": [
+      "rights_7c2281ce71"
+    ],
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "toc_2026",
+    "legacy_ids": [],
+    "title": "使用貸借",
+    "native_path": "権利関係 / 2026年版 厳選分野別過去問題集",
+    "native_order": 22,
+    "question_range": "問題 110"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__toc_23_111_e6a8a9",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "rights_7c2281ce71",
+    "topic_ids": [
+      "rights_7c2281ce71"
+    ],
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "toc_2026",
+    "legacy_ids": [],
+    "title": "条件・期限",
+    "native_path": "権利関係 / 2026年版 厳選分野別過去問題集",
+    "native_order": 23,
+    "question_range": "問題 111"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__toc_24_112_e6a8a9",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "rights_7c2281ce71",
+    "topic_ids": [
+      "rights_7c2281ce71"
+    ],
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "toc_2026",
+    "legacy_ids": [],
+    "title": "民法総合",
+    "native_path": "権利関係 / 2026年版 厳選分野別過去問題集",
+    "native_order": 24,
+    "question_range": "問題 112〜113"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__toc_25_114_e6a8a9",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "rights_7c2281ce71",
+    "topic_ids": [
+      "rights_7c2281ce71"
+    ],
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "toc_2026",
+    "legacy_ids": [],
+    "title": "判決文問題",
+    "native_path": "権利関係 / 2026年版 厳選分野別過去問題集",
+    "native_order": 25,
+    "question_range": "問題 114〜115"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__sec_c4ba11d25505",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "business_e9a3236db9",
+    "topic_ids": [
+      "business_e9a3236db9"
+    ],
+    "title": "宅建業の意味",
+    "native_path": "宅建業法 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 26,
+    "legacy_ids": [
+      "lec_torisetsu_bunyabetsu_knoun__native_6668cc71ff"
+    ],
+    "question_range": "問題 1〜6"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__sec_9e93bef6ca7a",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "business_ec037d3765",
+    "topic_ids": [
+      "business_ec037d3765"
+    ],
+    "title": "事務所",
+    "native_path": "宅建業法 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 27,
+    "legacy_ids": [
+      "lec_torisetsu_bunyabetsu_knoun__native_31f92c0ca0"
+    ],
+    "question_range": "問題 7〜11"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__sec_ecb0797f03fa",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "business_license",
+    "topic_ids": [
+      "business_license"
+    ],
+    "title": "免許",
+    "native_path": "宅建業法 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 28,
+    "legacy_ids": [],
+    "question_range": "問題 12〜20"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__torisetsu_22",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "business_a1b167a8db",
+    "topic_ids": [
+      "business_a1b167a8db"
+    ],
+    "title": "事務所以外の場所",
+    "native_path": "宅建業法 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 29,
+    "legacy_ids": [],
+    "question_range": "問題 21〜24"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__sec_b4b28995a103",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "business_agent",
+    "topic_ids": [
+      "business_agent"
+    ],
+    "title": "宅地建物取引士",
+    "native_path": "宅建業法 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 30,
+    "legacy_ids": [],
+    "question_range": "問題 25〜33"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__sec_6df15b49a2b7",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "business_3c8b8e6aca",
+    "topic_ids": [
+      "business_3c8b8e6aca"
+    ],
+    "title": "営業保証金",
+    "native_path": "宅建業法 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 31,
+    "legacy_ids": [
+      "lec_torisetsu_bunyabetsu_knoun__native_8fff45d4ac"
+    ],
+    "question_range": "問題 34〜41"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__sec_b42e06557ae7",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "business_12b28bb9d2",
+    "topic_ids": [
+      "business_12b28bb9d2"
+    ],
+    "title": "弁済業務保証金",
+    "native_path": "宅建業法 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 32,
+    "legacy_ids": [],
+    "question_range": "問題 42〜49"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__sec_966b2ca54be2",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "business_b484e7ce9c",
+    "topic_ids": [
+      "business_b484e7ce9c"
+    ],
+    "title": "媒介・代理",
+    "native_path": "宅建業法 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 33,
+    "legacy_ids": [
+      "lec_torisetsu_bunyabetsu_knoun__native_39310f6da5"
+    ],
+    "question_range": "問題 50〜57"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__sec_c8036d9e53fc",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "business_128c05aa94",
+    "topic_ids": [
+      "business_128c05aa94"
+    ],
+    "title": "広告等の規制",
+    "native_path": "宅建業法 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 34,
+    "legacy_ids": [],
+    "question_range": "問題 58〜62"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__sec_9f1bdbd692b6",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "business_2192a0359a",
+    "topic_ids": [
+      "business_2192a0359a"
+    ],
+    "title": "重要事項説明",
+    "native_path": "宅建業法 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 35,
+    "legacy_ids": [
+      "lec_torisetsu_bunyabetsu_knoun__native_53fb37e912"
+    ],
+    "question_range": "問題 63〜73"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__sec_e298a6c4592b",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "business_c808821440",
+    "topic_ids": [
+      "business_c808821440"
+    ],
+    "title": "37条書面",
+    "native_path": "宅建業法 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 36,
+    "legacy_ids": [],
+    "question_range": "問題 74〜80"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__sec_aa2a56fabe40",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "business_990979c912",
+    "topic_ids": [
+      "business_990979c912"
+    ],
+    "title": "業務上の規制",
+    "native_path": "宅建業法 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 37,
+    "legacy_ids": [],
+    "question_range": "問題 81〜84"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__native_128f0e7211",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "business_9cf105a9bb",
+    "topic_ids": [
+      "business_9cf105a9bb"
+    ],
+    "title": "自ら売主制限",
+    "native_path": "宅建業法 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 38,
+    "legacy_ids": [],
+    "question_range": "問題 85〜100"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__sec_a665c8339792",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "business_warranty",
+    "topic_ids": [
+      "business_warranty"
+    ],
+    "title": "住宅瑕疵担保履行法",
+    "native_path": "宅建業法 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 39,
+    "legacy_ids": [
+      "lec_torisetsu_bunyabetsu_knoun__native_1d36bc9ba5"
+    ],
+    "question_range": "問題 101〜104"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__sec_871cb1c881f8",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "business_a5f12385c3",
+    "topic_ids": [
+      "business_a5f12385c3"
+    ],
+    "title": "報酬額の制限",
+    "native_path": "宅建業法 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 40,
+    "legacy_ids": [],
+    "question_range": "問題 105〜109"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__sec_b4ba10b70278",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "business_7d39c7f89d",
+    "topic_ids": [
+      "business_7d39c7f89d"
+    ],
+    "title": "監督・罰則",
+    "native_path": "宅建業法 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 41,
+    "legacy_ids": [],
+    "question_range": "問題 110〜115"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__torisetsu_35",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "law_d7807f7dc8",
+    "topic_ids": [
+      "law_d7807f7dc8",
+      "law_4c9fec8184"
+    ],
+    "title": "都市計画法",
+    "native_path": "法令上の制限 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 42,
+    "legacy_ids": [],
+    "question_range": "問題 1〜18"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__torisetsu_37",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "law_a3cb43ccf8",
+    "topic_ids": [
+      "law_a3cb43ccf8",
+      "law_cd2732d454"
+    ],
+    "title": "建築基準法",
+    "native_path": "法令上の制限 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 43,
+    "legacy_ids": [],
+    "question_range": "問題 19〜38"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__sec_288e50b93b0c",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "law_f9e7c42521",
+    "topic_ids": [
+      "law_f9e7c42521"
+    ],
+    "title": "国土利用計画法",
+    "native_path": "法令上の制限 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 44,
+    "legacy_ids": [
+      "lec_torisetsu_bunyabetsu_knoun__native_87c932561c"
+    ],
+    "question_range": "問題 39〜44"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__sec_64fb4cc89727",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "law_eab8632d96",
+    "topic_ids": [
+      "law_eab8632d96"
+    ],
+    "title": "農地法",
+    "native_path": "法令上の制限 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 45,
+    "legacy_ids": [],
+    "question_range": "問題 45〜50"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__sec_e58ec2cbf80a",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "law_f85dea5b8a",
+    "topic_ids": [
+      "law_f85dea5b8a"
+    ],
+    "title": "土地区画整理法",
+    "native_path": "法令上の制限 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 46,
+    "legacy_ids": [],
+    "question_range": "問題 51〜57"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__toc_47_58_e6b395",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "law_8c95545b2e",
+    "topic_ids": [
+      "law_8c95545b2e"
+    ],
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "toc_2026",
+    "legacy_ids": [],
+    "title": "盛土規制法",
+    "native_path": "法令上の制限 / 2026年版 厳選分野別過去問題集",
+    "native_order": 47,
+    "question_range": "問題 58〜63"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__sec_5f773d904915",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "law_8c95545b2e",
+    "topic_ids": [
+      "law_8c95545b2e"
+    ],
+    "title": "その他の法令上の制限",
+    "native_path": "法令上の制限 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 48,
+    "legacy_ids": [],
+    "question_range": "問題 64"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__sec_6f65b596db69",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "other_99b74fe5a0",
+    "topic_ids": [
+      "other_99b74fe5a0"
+    ],
+    "title": "不動産取得税",
+    "native_path": "税・その他 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 49,
+    "legacy_ids": [
+      "lec_torisetsu_bunyabetsu_knoun__native_8fffa5cce3"
+    ],
+    "question_range": "問題 65〜69"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__sec_dafec13e75b5",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "other_a559687a43",
+    "topic_ids": [
+      "other_a559687a43"
+    ],
+    "title": "固定資産税",
+    "native_path": "税・その他 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 50,
+    "legacy_ids": [],
+    "question_range": "問題 70〜74"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__sec_356a9f3b459f",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "other_f3113f9af6",
+    "topic_ids": [
+      "other_f3113f9af6"
+    ],
+    "title": "所得税（譲渡所得）",
+    "native_path": "税・その他 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 51,
+    "legacy_ids": [],
+    "question_range": "問題 75〜78"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__sec_84765204c826",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "other_8af9afa2e6",
+    "topic_ids": [
+      "other_8af9afa2e6"
+    ],
+    "title": "印紙税",
+    "native_path": "税・その他 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 52,
+    "legacy_ids": [],
+    "question_range": "問題 79〜83"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__sec_ac77be399f30",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "other_2a21b3b2f7",
+    "topic_ids": [
+      "other_2a21b3b2f7"
+    ],
+    "title": "登録免許税",
+    "native_path": "税・その他 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 53,
+    "legacy_ids": [],
+    "question_range": "問題 84〜86"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__sec_5b107d910fb4",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "other_3bfa57c660",
+    "topic_ids": [
+      "other_3bfa57c660"
+    ],
+    "title": "贈与税",
+    "native_path": "税・その他 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 54,
+    "legacy_ids": [],
+    "question_range": "問題 87"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__sec_9308640c982c",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "other_cba29a763e",
+    "topic_ids": [
+      "other_cba29a763e"
+    ],
+    "title": "地価公示法",
+    "native_path": "税・その他 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 55,
+    "legacy_ids": [
+      "lec_torisetsu_bunyabetsu_knoun__native_ac2c94c6be"
+    ],
+    "question_range": "問題 88〜93"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__sec_b45203fb2249",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "other_241d9d5512",
+    "topic_ids": [
+      "other_241d9d5512"
+    ],
+    "title": "不動産鑑定評価基準",
+    "native_path": "税・その他 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 56,
+    "legacy_ids": [],
+    "question_range": "問題 94〜99"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__sec_9772f87c3370",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "other_648e7c9dde",
+    "topic_ids": [
+      "other_648e7c9dde"
+    ],
+    "title": "住宅金融支援機構法",
+    "native_path": "税・その他 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 57,
+    "legacy_ids": [
+      "lec_torisetsu_bunyabetsu_knoun__native_eb6e163784"
+    ],
+    "question_range": "問題 100〜104"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__sec_673a528d1d31",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "other_4fa1abf88d",
+    "topic_ids": [
+      "other_4fa1abf88d"
+    ],
+    "title": "景品表示法",
+    "native_path": "税・その他 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 58,
+    "legacy_ids": [],
+    "question_range": "問題 105〜110"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__torisetsu_53",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "other_010108fbb9",
+    "topic_ids": [
+      "other_010108fbb9"
+    ],
+    "title": "土地",
+    "native_path": "税・その他 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 59,
+    "legacy_ids": [],
+    "question_range": "問題 111〜115"
+  },
+  {
+    "id": "lec_torisetsu_bunyabetsu_knoun__torisetsu_54",
+    "resource_id": "lec_torisetsu_bunyabetsu_knoun",
+    "topic_id": "other_cd18d7dd34",
+    "topic_ids": [
+      "other_cd18d7dd34"
+    ],
+    "title": "建物",
+    "native_path": "税・その他 / 2026年版 厳選分野別過去問題集",
+    "url": "https://knoun.jp/knounclient/ui/contents/mypage/view",
+    "mapping": "torisetsu_master",
+    "native_order": 60,
+    "legacy_ids": [],
+    "question_range": "問題 116〜120"
   }
 ]
