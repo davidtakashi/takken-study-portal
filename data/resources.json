@@ -82,5 +82,12 @@
     "type": "listen",
     "label": "聴く",
     "category": "講義"
+  },
+  {
+    "id": "minhoshi_ichimon_2025",
+    "name": "みんなが欲しかった！宅建士の一問一答式過去問題集 2025",
+    "type": "solve",
+    "label": "解く",
+    "category": "紙問題集"
   }
 ]

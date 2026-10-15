@@ -7581,5 +7581,678 @@
     "native_order": 60,
     "legacy_ids": [],
     "question_range": "問題 116〜120"
+  },
+  {
+    "id": "minhoshi_ichimon_2025__c01s01",
+    "resource_id": "minhoshi_ichimon_2025",
+    "topic_id": "business_e9a3236db9",
+    "topic_ids": [
+      "business_e9a3236db9"
+    ],
+    "title": "SECTION 01 宅建業法の基本",
+    "native_path": "宅建業法 / CHAPTER 01 宅建業法",
+    "url": null,
+    "mapping": "native_section",
+    "native_order": 0,
+    "legacy_ids": []
+  },
+  {
+    "id": "minhoshi_ichimon_2025__c01s02",
+    "resource_id": "minhoshi_ichimon_2025",
+    "topic_id": "business_license",
+    "topic_ids": [
+      "business_license"
+    ],
+    "title": "SECTION 02 免許",
+    "native_path": "宅建業法 / CHAPTER 01 宅建業法",
+    "url": null,
+    "mapping": "native_section",
+    "native_order": 1,
+    "legacy_ids": []
+  },
+  {
+    "id": "minhoshi_ichimon_2025__c01s03",
+    "resource_id": "minhoshi_ichimon_2025",
+    "topic_id": "business_agent",
+    "topic_ids": [
+      "business_agent"
+    ],
+    "title": "SECTION 03 宅地建物取引士",
+    "native_path": "宅建業法 / CHAPTER 01 宅建業法",
+    "url": null,
+    "mapping": "native_section",
+    "native_order": 2,
+    "legacy_ids": []
+  },
+  {
+    "id": "minhoshi_ichimon_2025__c01s04",
+    "resource_id": "minhoshi_ichimon_2025",
+    "topic_id": "business_3c8b8e6aca",
+    "topic_ids": [
+      "business_3c8b8e6aca"
+    ],
+    "title": "SECTION 04 営業保証金",
+    "native_path": "宅建業法 / CHAPTER 01 宅建業法",
+    "url": null,
+    "mapping": "native_section",
+    "native_order": 3,
+    "legacy_ids": []
+  },
+  {
+    "id": "minhoshi_ichimon_2025__c01s05",
+    "resource_id": "minhoshi_ichimon_2025",
+    "topic_id": "business_12b28bb9d2",
+    "topic_ids": [
+      "business_12b28bb9d2"
+    ],
+    "title": "SECTION 05 保証協会",
+    "native_path": "宅建業法 / CHAPTER 01 宅建業法",
+    "url": null,
+    "mapping": "native_section",
+    "native_order": 4,
+    "legacy_ids": []
+  },
+  {
+    "id": "minhoshi_ichimon_2025__c01s06",
+    "resource_id": "minhoshi_ichimon_2025",
+    "topic_id": "business_ec037d3765",
+    "topic_ids": [
+      "business_ec037d3765",
+      "business_a1b167a8db"
+    ],
+    "title": "SECTION 06 事務所、案内所等に関する規制",
+    "native_path": "宅建業法 / CHAPTER 01 宅建業法",
+    "url": null,
+    "mapping": "native_section",
+    "native_order": 5,
+    "legacy_ids": []
+  },
+  {
+    "id": "minhoshi_ichimon_2025__c01s07",
+    "resource_id": "minhoshi_ichimon_2025",
+    "topic_id": "business_b484e7ce9c",
+    "topic_ids": [
+      "business_b484e7ce9c",
+      "business_128c05aa94",
+      "business_2192a0359a",
+      "business_c808821440",
+      "business_990979c912"
+    ],
+    "title": "SECTION 07 業務上の規制",
+    "native_path": "宅建業法 / CHAPTER 01 宅建業法",
+    "url": null,
+    "mapping": "native_section",
+    "native_order": 6,
+    "legacy_ids": []
+  },
+  {
+    "id": "minhoshi_ichimon_2025__c01s08",
+    "resource_id": "minhoshi_ichimon_2025",
+    "topic_id": "business_9cf105a9bb",
+    "topic_ids": [
+      "business_9cf105a9bb"
+    ],
+    "title": "SECTION 08 自ら売主となる場合の8つの制限",
+    "native_path": "宅建業法 / CHAPTER 01 宅建業法",
+    "url": null,
+    "mapping": "native_section",
+    "native_order": 7,
+    "legacy_ids": []
+  },
+  {
+    "id": "minhoshi_ichimon_2025__c01s09",
+    "resource_id": "minhoshi_ichimon_2025",
+    "topic_id": "business_a5f12385c3",
+    "topic_ids": [
+      "business_a5f12385c3"
+    ],
+    "title": "SECTION 09 報酬に関する制限",
+    "native_path": "宅建業法 / CHAPTER 01 宅建業法",
+    "url": null,
+    "mapping": "native_section",
+    "native_order": 8,
+    "legacy_ids": []
+  },
+  {
+    "id": "minhoshi_ichimon_2025__c01s10",
+    "resource_id": "minhoshi_ichimon_2025",
+    "topic_id": "business_7d39c7f89d",
+    "topic_ids": [
+      "business_7d39c7f89d"
+    ],
+    "title": "SECTION 10 監督・罰則",
+    "native_path": "宅建業法 / CHAPTER 01 宅建業法",
+    "url": null,
+    "mapping": "native_section",
+    "native_order": 9,
+    "legacy_ids": []
+  },
+  {
+    "id": "minhoshi_ichimon_2025__c01s11",
+    "resource_id": "minhoshi_ichimon_2025",
+    "topic_id": "business_warranty",
+    "topic_ids": [
+      "business_warranty"
+    ],
+    "title": "SECTION 11 住宅瑕疵担保履行法",
+    "native_path": "宅建業法 / CHAPTER 01 宅建業法",
+    "url": null,
+    "mapping": "native_section",
+    "native_order": 10,
+    "legacy_ids": []
+  },
+  {
+    "id": "minhoshi_ichimon_2025__c01s12",
+    "resource_id": "minhoshi_ichimon_2025",
+    "topic_id": "business_990979c912",
+    "topic_ids": [
+      "business_990979c912"
+    ],
+    "title": "SECTION 12 宅建業法の参考論点",
+    "native_path": "宅建業法 / CHAPTER 01 宅建業法",
+    "url": null,
+    "mapping": "native_section",
+    "native_order": 11,
+    "legacy_ids": []
+  },
+  {
+    "id": "minhoshi_ichimon_2025__c02s01",
+    "resource_id": "minhoshi_ichimon_2025",
+    "topic_id": "rights_capacity",
+    "topic_ids": [
+      "rights_capacity"
+    ],
+    "title": "SECTION 01 制限行為能力者",
+    "native_path": "権利関係 / CHAPTER 02 権利関係",
+    "url": null,
+    "mapping": "native_section",
+    "native_order": 100,
+    "legacy_ids": []
+  },
+  {
+    "id": "minhoshi_ichimon_2025__c02s02",
+    "resource_id": "minhoshi_ichimon_2025",
+    "topic_id": "rights_intent",
+    "topic_ids": [
+      "rights_intent"
+    ],
+    "title": "SECTION 02 意思表示",
+    "native_path": "権利関係 / CHAPTER 02 権利関係",
+    "url": null,
+    "mapping": "native_section",
+    "native_order": 101,
+    "legacy_ids": []
+  },
+  {
+    "id": "minhoshi_ichimon_2025__c02s03",
+    "resource_id": "minhoshi_ichimon_2025",
+    "topic_id": "rights_agency",
+    "topic_ids": [
+      "rights_agency"
+    ],
+    "title": "SECTION 03 代理",
+    "native_path": "権利関係 / CHAPTER 02 権利関係",
+    "url": null,
+    "mapping": "native_section",
+    "native_order": 102,
+    "legacy_ids": []
+  },
+  {
+    "id": "minhoshi_ichimon_2025__c02s04",
+    "resource_id": "minhoshi_ichimon_2025",
+    "topic_id": "rights_limitation",
+    "topic_ids": [
+      "rights_limitation"
+    ],
+    "title": "SECTION 04 時効",
+    "native_path": "権利関係 / CHAPTER 02 権利関係",
+    "url": null,
+    "mapping": "native_section",
+    "native_order": 103,
+    "legacy_ids": []
+  },
+  {
+    "id": "minhoshi_ichimon_2025__c02s05",
+    "resource_id": "minhoshi_ichimon_2025",
+    "topic_id": "rights_d0b3d40e24",
+    "topic_ids": [
+      "rights_d0b3d40e24"
+    ],
+    "title": "SECTION 05 債務不履行、解除",
+    "native_path": "権利関係 / CHAPTER 02 権利関係",
+    "url": null,
+    "mapping": "native_section",
+    "native_order": 104,
+    "legacy_ids": []
+  },
+  {
+    "id": "minhoshi_ichimon_2025__c02s06",
+    "resource_id": "minhoshi_ichimon_2025",
+    "topic_id": "rights_7c2281ce71",
+    "topic_ids": [
+      "rights_7c2281ce71"
+    ],
+    "title": "SECTION 06 危険負担",
+    "native_path": "権利関係 / CHAPTER 02 権利関係",
+    "url": null,
+    "mapping": "native_section",
+    "native_order": 105,
+    "legacy_ids": []
+  },
+  {
+    "id": "minhoshi_ichimon_2025__c02s07",
+    "resource_id": "minhoshi_ichimon_2025",
+    "topic_id": "rights_d7fb984cab",
+    "topic_ids": [
+      "rights_d7fb984cab",
+      "rights_7c2281ce71"
+    ],
+    "title": "SECTION 07 弁済、相殺、債権譲渡",
+    "native_path": "権利関係 / CHAPTER 02 権利関係",
+    "url": null,
+    "mapping": "native_section",
+    "native_order": 106,
+    "legacy_ids": []
+  },
+  {
+    "id": "minhoshi_ichimon_2025__c02s08",
+    "resource_id": "minhoshi_ichimon_2025",
+    "topic_id": "rights_f4c32080b7",
+    "topic_ids": [
+      "rights_f4c32080b7",
+      "rights_7c2281ce71"
+    ],
+    "title": "SECTION 08 売買",
+    "native_path": "権利関係 / CHAPTER 02 権利関係",
+    "url": null,
+    "mapping": "native_section",
+    "native_order": 107,
+    "legacy_ids": []
+  },
+  {
+    "id": "minhoshi_ichimon_2025__c02s09",
+    "resource_id": "minhoshi_ichimon_2025",
+    "topic_id": "rights_d672a3a22c",
+    "topic_ids": [
+      "rights_d672a3a22c"
+    ],
+    "title": "SECTION 09 物権変動",
+    "native_path": "権利関係 / CHAPTER 02 権利関係",
+    "url": null,
+    "mapping": "native_section",
+    "native_order": 108,
+    "legacy_ids": []
+  },
+  {
+    "id": "minhoshi_ichimon_2025__c02s10",
+    "resource_id": "minhoshi_ichimon_2025",
+    "topic_id": "rights_97c9209e61",
+    "topic_ids": [
+      "rights_97c9209e61"
+    ],
+    "title": "SECTION 10 抵当権",
+    "native_path": "権利関係 / CHAPTER 02 権利関係",
+    "url": null,
+    "mapping": "native_section",
+    "native_order": 109,
+    "legacy_ids": []
+  },
+  {
+    "id": "minhoshi_ichimon_2025__c02s11",
+    "resource_id": "minhoshi_ichimon_2025",
+    "topic_id": "rights_9553c8a3a6",
+    "topic_ids": [
+      "rights_9553c8a3a6"
+    ],
+    "title": "SECTION 11 連帯債務、保証、連帯債権",
+    "native_path": "権利関係 / CHAPTER 02 権利関係",
+    "url": null,
+    "mapping": "native_section",
+    "native_order": 110,
+    "legacy_ids": []
+  },
+  {
+    "id": "minhoshi_ichimon_2025__c02s12",
+    "resource_id": "minhoshi_ichimon_2025",
+    "topic_id": "rights_90b1750c9a",
+    "topic_ids": [
+      "rights_90b1750c9a"
+    ],
+    "title": "SECTION 12 賃貸借",
+    "native_path": "権利関係 / CHAPTER 02 権利関係",
+    "url": null,
+    "mapping": "native_section",
+    "native_order": 111,
+    "legacy_ids": []
+  },
+  {
+    "id": "minhoshi_ichimon_2025__c02s13",
+    "resource_id": "minhoshi_ichimon_2025",
+    "topic_id": "rights_b9664ce7c1",
+    "topic_ids": [
+      "rights_b9664ce7c1"
+    ],
+    "title": "SECTION 13 借地借家法(借地)",
+    "native_path": "権利関係 / CHAPTER 02 権利関係",
+    "url": null,
+    "mapping": "native_section",
+    "native_order": 112,
+    "legacy_ids": []
+  },
+  {
+    "id": "minhoshi_ichimon_2025__c02s14",
+    "resource_id": "minhoshi_ichimon_2025",
+    "topic_id": "rights_88f1ee6b2d",
+    "topic_ids": [
+      "rights_88f1ee6b2d"
+    ],
+    "title": "SECTION 14 借地借家法(借家)",
+    "native_path": "権利関係 / CHAPTER 02 権利関係",
+    "url": null,
+    "mapping": "native_section",
+    "native_order": 113,
+    "legacy_ids": []
+  },
+  {
+    "id": "minhoshi_ichimon_2025__c02s15",
+    "resource_id": "minhoshi_ichimon_2025",
+    "topic_id": "rights_7c2281ce71",
+    "topic_ids": [
+      "rights_7c2281ce71"
+    ],
+    "title": "SECTION 15 請負",
+    "native_path": "権利関係 / CHAPTER 02 権利関係",
+    "url": null,
+    "mapping": "native_section",
+    "native_order": 114,
+    "legacy_ids": []
+  },
+  {
+    "id": "minhoshi_ichimon_2025__c02s16",
+    "resource_id": "minhoshi_ichimon_2025",
+    "topic_id": "rights_77b396ee2d",
+    "topic_ids": [
+      "rights_77b396ee2d"
+    ],
+    "title": "SECTION 16 不法行為",
+    "native_path": "権利関係 / CHAPTER 02 権利関係",
+    "url": null,
+    "mapping": "native_section",
+    "native_order": 115,
+    "legacy_ids": []
+  },
+  {
+    "id": "minhoshi_ichimon_2025__c02s17",
+    "resource_id": "minhoshi_ichimon_2025",
+    "topic_id": "rights_acfb3361ec",
+    "topic_ids": [
+      "rights_acfb3361ec"
+    ],
+    "title": "SECTION 17 相続",
+    "native_path": "権利関係 / CHAPTER 02 権利関係",
+    "url": null,
+    "mapping": "native_section",
+    "native_order": 116,
+    "legacy_ids": []
+  },
+  {
+    "id": "minhoshi_ichimon_2025__c02s18",
+    "resource_id": "minhoshi_ichimon_2025",
+    "topic_id": "rights_0f340e0880",
+    "topic_ids": [
+      "rights_0f340e0880"
+    ],
+    "title": "SECTION 18 共有",
+    "native_path": "権利関係 / CHAPTER 02 権利関係",
+    "url": null,
+    "mapping": "native_section",
+    "native_order": 117,
+    "legacy_ids": []
+  },
+  {
+    "id": "minhoshi_ichimon_2025__c02s19",
+    "resource_id": "minhoshi_ichimon_2025",
+    "topic_id": "rights_0c4f8f5fd5",
+    "topic_ids": [
+      "rights_0c4f8f5fd5"
+    ],
+    "title": "SECTION 19 区分所有法",
+    "native_path": "権利関係 / CHAPTER 02 権利関係",
+    "url": null,
+    "mapping": "native_section",
+    "native_order": 118,
+    "legacy_ids": []
+  },
+  {
+    "id": "minhoshi_ichimon_2025__c02s20",
+    "resource_id": "minhoshi_ichimon_2025",
+    "topic_id": "rights_2430e010c0",
+    "topic_ids": [
+      "rights_2430e010c0"
+    ],
+    "title": "SECTION 20 不動産登記法",
+    "native_path": "権利関係 / CHAPTER 02 権利関係",
+    "url": null,
+    "mapping": "native_section",
+    "native_order": 119,
+    "legacy_ids": []
+  },
+  {
+    "id": "minhoshi_ichimon_2025__c02s21",
+    "resource_id": "minhoshi_ichimon_2025",
+    "topic_id": "rights_7c2281ce71",
+    "topic_ids": [
+      "rights_7c2281ce71"
+    ],
+    "title": "SECTION 21 権利関係の参考論点",
+    "native_path": "権利関係 / CHAPTER 02 権利関係",
+    "url": null,
+    "mapping": "native_section",
+    "native_order": 120,
+    "legacy_ids": []
+  },
+  {
+    "id": "minhoshi_ichimon_2025__c03s01",
+    "resource_id": "minhoshi_ichimon_2025",
+    "topic_id": "law_d7807f7dc8",
+    "topic_ids": [
+      "law_d7807f7dc8",
+      "law_4c9fec8184"
+    ],
+    "title": "SECTION 01 都市計画法",
+    "native_path": "法令上の制限 / CHAPTER 03 法令上の制限",
+    "url": null,
+    "mapping": "native_section",
+    "native_order": 200,
+    "legacy_ids": []
+  },
+  {
+    "id": "minhoshi_ichimon_2025__c03s02",
+    "resource_id": "minhoshi_ichimon_2025",
+    "topic_id": "law_a3cb43ccf8",
+    "topic_ids": [
+      "law_a3cb43ccf8",
+      "law_cd2732d454"
+    ],
+    "title": "SECTION 02 建築基準法",
+    "native_path": "法令上の制限 / CHAPTER 03 法令上の制限",
+    "url": null,
+    "mapping": "native_section",
+    "native_order": 201,
+    "legacy_ids": []
+  },
+  {
+    "id": "minhoshi_ichimon_2025__c03s03",
+    "resource_id": "minhoshi_ichimon_2025",
+    "topic_id": "law_f9e7c42521",
+    "topic_ids": [
+      "law_f9e7c42521"
+    ],
+    "title": "SECTION 03 国土利用計画法",
+    "native_path": "法令上の制限 / CHAPTER 03 法令上の制限",
+    "url": null,
+    "mapping": "native_section",
+    "native_order": 202,
+    "legacy_ids": []
+  },
+  {
+    "id": "minhoshi_ichimon_2025__c03s04",
+    "resource_id": "minhoshi_ichimon_2025",
+    "topic_id": "law_eab8632d96",
+    "topic_ids": [
+      "law_eab8632d96"
+    ],
+    "title": "SECTION 04 農地法",
+    "native_path": "法令上の制限 / CHAPTER 03 法令上の制限",
+    "url": null,
+    "mapping": "native_section",
+    "native_order": 203,
+    "legacy_ids": []
+  },
+  {
+    "id": "minhoshi_ichimon_2025__c03s05",
+    "resource_id": "minhoshi_ichimon_2025",
+    "topic_id": "law_8c95545b2e",
+    "topic_ids": [
+      "law_8c95545b2e"
+    ],
+    "title": "SECTION 05 盛土規制法",
+    "native_path": "法令上の制限 / CHAPTER 03 法令上の制限",
+    "url": null,
+    "mapping": "native_section",
+    "native_order": 204,
+    "legacy_ids": []
+  },
+  {
+    "id": "minhoshi_ichimon_2025__c03s06",
+    "resource_id": "minhoshi_ichimon_2025",
+    "topic_id": "law_f85dea5b8a",
+    "topic_ids": [
+      "law_f85dea5b8a"
+    ],
+    "title": "SECTION 06 土地区画整理法",
+    "native_path": "法令上の制限 / CHAPTER 03 法令上の制限",
+    "url": null,
+    "mapping": "native_section",
+    "native_order": 205,
+    "legacy_ids": []
+  },
+  {
+    "id": "minhoshi_ichimon_2025__c03s07",
+    "resource_id": "minhoshi_ichimon_2025",
+    "topic_id": "law_8c95545b2e",
+    "topic_ids": [
+      "law_8c95545b2e"
+    ],
+    "title": "SECTION 07 その他の法令上の制限",
+    "native_path": "法令上の制限 / CHAPTER 03 法令上の制限",
+    "url": null,
+    "mapping": "native_section",
+    "native_order": 206,
+    "legacy_ids": []
+  },
+  {
+    "id": "minhoshi_ichimon_2025__c03s08",
+    "resource_id": "minhoshi_ichimon_2025",
+    "topic_id": "law_8c95545b2e",
+    "topic_ids": [
+      "law_8c95545b2e"
+    ],
+    "title": "SECTION 08 法令上の制限の参考論点",
+    "native_path": "法令上の制限 / CHAPTER 03 法令上の制限",
+    "url": null,
+    "mapping": "native_section",
+    "native_order": 207,
+    "legacy_ids": []
+  },
+  {
+    "id": "minhoshi_ichimon_2025__c04s01",
+    "resource_id": "minhoshi_ichimon_2025",
+    "topic_id": "other_99b74fe5a0",
+    "topic_ids": [
+      "other_99b74fe5a0",
+      "other_a559687a43",
+      "other_f3113f9af6",
+      "other_8af9afa2e6",
+      "other_2a21b3b2f7",
+      "other_3bfa57c660"
+    ],
+    "title": "SECTION 01 不動産に関する税金",
+    "native_path": "税・その他 / CHAPTER 04 税・その他",
+    "url": null,
+    "mapping": "native_section",
+    "native_order": 300,
+    "legacy_ids": []
+  },
+  {
+    "id": "minhoshi_ichimon_2025__c04s02",
+    "resource_id": "minhoshi_ichimon_2025",
+    "topic_id": "other_241d9d5512",
+    "topic_ids": [
+      "other_241d9d5512"
+    ],
+    "title": "SECTION 02 不動産鑑定評価基準",
+    "native_path": "税・その他 / CHAPTER 04 税・その他",
+    "url": null,
+    "mapping": "native_section",
+    "native_order": 301,
+    "legacy_ids": []
+  },
+  {
+    "id": "minhoshi_ichimon_2025__c04s03",
+    "resource_id": "minhoshi_ichimon_2025",
+    "topic_id": "other_cba29a763e",
+    "topic_ids": [
+      "other_cba29a763e"
+    ],
+    "title": "SECTION 03 地価公示法",
+    "native_path": "税・その他 / CHAPTER 04 税・その他",
+    "url": null,
+    "mapping": "native_section",
+    "native_order": 302,
+    "legacy_ids": []
+  },
+  {
+    "id": "minhoshi_ichimon_2025__c04s04",
+    "resource_id": "minhoshi_ichimon_2025",
+    "topic_id": "other_648e7c9dde",
+    "topic_ids": [
+      "other_648e7c9dde"
+    ],
+    "title": "SECTION 04 住宅金融支援機構法",
+    "native_path": "税・その他 / CHAPTER 04 税・その他",
+    "url": null,
+    "mapping": "native_section",
+    "native_order": 303,
+    "legacy_ids": []
+  },
+  {
+    "id": "minhoshi_ichimon_2025__c04s05",
+    "resource_id": "minhoshi_ichimon_2025",
+    "topic_id": "other_4fa1abf88d",
+    "topic_ids": [
+      "other_4fa1abf88d"
+    ],
+    "title": "SECTION 05 景品表示法",
+    "native_path": "税・その他 / CHAPTER 04 税・その他",
+    "url": null,
+    "mapping": "native_section",
+    "native_order": 304,
+    "legacy_ids": []
+  },
+  {
+    "id": "minhoshi_ichimon_2025__c04s06",
+    "resource_id": "minhoshi_ichimon_2025",
+    "topic_id": "other_010108fbb9",
+    "topic_ids": [
+      "other_010108fbb9",
+      "other_cd18d7dd34"
+    ],
+    "title": "SECTION 06 土地・建物",
+    "native_path": "税・その他 / CHAPTER 04 税・その他",
+    "url": null,
+    "mapping": "native_section",
+    "native_order": 305,
+    "legacy_ids": []
   }
 ]
