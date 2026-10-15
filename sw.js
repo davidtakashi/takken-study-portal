@@ -1,5 +1,5 @@
 // data refresh 2026-09-12 LEC exact courses
-const CACHE = 'takken-v20261014-lec-direct-sections';
+const CACHE = 'takken-v20261016-minhoshi-ichimon-2025';
 const STATIC = ['./','./index.html','./manifest.webmanifest','./icons/icon-192.png','./icons/icon-512.png'];
 self.addEventListener('install', e => { self.skipWaiting(); e.waitUntil(caches.open(CACHE).then(c=>c.addAll(STATIC))); });
 self.addEventListener('activate', e => { e.waitUntil((async()=>{ for (const k of await caches.keys()) if(k!==CACHE) await caches.delete(k); await self.clients.claim(); })()); });
